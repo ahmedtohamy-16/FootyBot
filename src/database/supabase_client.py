@@ -322,12 +322,11 @@ class SupabaseClient:
         start_time = time.time()
         
         try:
-            query = self.client.table(table).upsert(data)
-            
-            if on_conflict:
-                query = query.on_conflict(on_conflict)
-            
-            response = query.execute()
+            # Use upsert with on_conflict parameter directly
+            response = self.client.table(table).upsert(
+                data,
+                on_conflict=on_conflict if on_conflict else None
+            ).execute()
             
             duration = (time.time() - start_time) * 1000
             row_count = len(response.data) if response.data else 0
@@ -356,14 +355,18 @@ class SupabaseClient:
             
             raise SupabaseClientError(error_msg)
     
+    _table_names_cache: Optional[List[str]] = None
+    
     def get_table_names(self) -> List[str]:
         """
         Get list of configured table names.
         
         Returns:
-            List of table names from configuration
+            List of table names from configuration (cached)
         """
-        return list(SupabaseConfig.TABLES.values())
+        if SupabaseClient._table_names_cache is None:
+            SupabaseClient._table_names_cache = list(SupabaseConfig.TABLES.values())
+        return SupabaseClient._table_names_cache
     
     def __repr__(self) -> str:
         """String representation of the client."""

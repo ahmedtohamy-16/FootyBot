@@ -178,7 +178,7 @@ class APIFootballClient:
         
         self.base_url = APIFootballConfig.BASE_URL
         self.headers = {
-            'x-rapidapi-key': self.api_key,
+            'x-apisports-key': self.api_key,
             'x-rapidapi-host': APIFootballConfig.HOST
         }
         
@@ -263,7 +263,7 @@ class APIFootballClient:
                 data = response.json()
                 
                 # Check API-specific errors
-                if data.get('errors') and len(data.get('errors', {})) > 0:
+                if data.get('errors'):
                     error_msg = data.get('errors')
                     log_api_request(endpoint, "GET", response.status_code, response_time, str(error_msg))
                     raise APIFootballError(f"API Error: {error_msg}")
