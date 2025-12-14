@@ -6,7 +6,7 @@ from typing import Optional, Dict, Any, List
 import time
 from supabase import create_client, Client
 from config.settings import SupabaseConfig
-from src.utils.logger import logger, log_database_operation, log_error
+from ..utils.logger import logger, log_database_operation, log_error
 
 
 class SupabaseClientError(Exception):
