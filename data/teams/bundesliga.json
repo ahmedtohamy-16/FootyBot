@@ -1,0 +1,483 @@
+{
+  "league": {
+    "id": 78,
+    "name": "Bundesliga",
+    "name_ar": "الدوري الألماني",
+    "country": "Germany",
+    "country_ar": "ألمانيا",
+    "logo": "https://media.api-sports.io/football/leagues/78.png",
+    "season": "2024-2025"
+  },
+  "teams": [
+    {
+      "id": 157,
+      "name": "Bayern Munich",
+      "name_ar": "بايرن ميونخ",
+      "code": "BAY",
+      "logo": "https://media.api-sports.io/football/teams/157.png",
+      "founded": 1900,
+      "stadium": {
+        "name": "Allianz Arena",
+        "name_ar": "أليانز أرينا",
+        "capacity": 75000,
+        "city": "Munich",
+        "city_ar": "ميونخ"
+      },
+      "nickname": "Die Roten",
+      "nickname_ar": "الحمر",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 33,
+        "domestic_cups": 20,
+        "european_cups": 6
+      }
+    },
+    {
+      "id": 165,
+      "name": "Borussia Dortmund",
+      "name_ar": "بوروسيا دورتموند",
+      "code": "BVB",
+      "logo": "https://media.api-sports.io/football/teams/165.png",
+      "founded": 1909,
+      "stadium": {
+        "name": "Signal Iduna Park",
+        "name_ar": "سيغنال إيدونا بارك",
+        "capacity": 81365,
+        "city": "Dortmund",
+        "city_ar": "دورتموند"
+      },
+      "nickname": "Die Borussen",
+      "nickname_ar": "البوروسن",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 8,
+        "domestic_cups": 5,
+        "european_cups": 1
+      }
+    },
+    {
+      "id": 173,
+      "name": "RB Leipzig",
+      "name_ar": "آر بي لايبزيغ",
+      "code": "RBL",
+      "logo": "https://media.api-sports.io/football/teams/173.png",
+      "founded": 2009,
+      "stadium": {
+        "name": "Red Bull Arena",
+        "name_ar": "ريد بول أرينا",
+        "capacity": 47069,
+        "city": "Leipzig",
+        "city_ar": "لايبزيغ"
+      },
+      "nickname": "Die Roten Bullen",
+      "nickname_ar": "الثيران الحمر",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 1,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 168,
+      "name": "Bayer Leverkusen",
+      "name_ar": "باير ليفركوزن",
+      "code": "B04",
+      "logo": "https://media.api-sports.io/football/teams/168.png",
+      "founded": 1904,
+      "stadium": {
+        "name": "BayArena",
+        "name_ar": "باي أرينا",
+        "capacity": 30210,
+        "city": "Leverkusen",
+        "city_ar": "ليفركوزن"
+      },
+      "nickname": "Die Werkself",
+      "nickname_ar": "الصيدلة",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 1,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 169,
+      "name": "Eintracht Frankfurt",
+      "name_ar": "آينتراخت فرانكفورت",
+      "code": "SGE",
+      "logo": "https://media.api-sports.io/football/teams/169.png",
+      "founded": 1899,
+      "stadium": {
+        "name": "Deutsche Bank Park",
+        "name_ar": "دويتشه بانك بارك",
+        "capacity": 51500,
+        "city": "Frankfurt",
+        "city_ar": "فرانكفورت"
+      },
+      "nickname": "Die Adler",
+      "nickname_ar": "النسور",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 1,
+        "domestic_cups": 5,
+        "european_cups": 1
+      }
+    },
+    {
+      "id": 167,
+      "name": "VfB Stuttgart",
+      "name_ar": "شتوتغارت",
+      "code": "VFB",
+      "logo": "https://media.api-sports.io/football/teams/167.png",
+      "founded": 1893,
+      "stadium": {
+        "name": "Mercedes-Benz Arena",
+        "name_ar": "مرسيدس بنز أرينا",
+        "capacity": 60449,
+        "city": "Stuttgart",
+        "city_ar": "شتوتغارت"
+      },
+      "nickname": "Die Schwaben",
+      "nickname_ar": "السوابيون",
+      "colors": {
+        "primary": "White",
+        "secondary": "Red"
+      },
+      "trophies": {
+        "league_titles": 5,
+        "domestic_cups": 3,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 170,
+      "name": "Borussia Mönchengladbach",
+      "name_ar": "بوروسيا مونشنغلادباخ",
+      "code": "BMG",
+      "logo": "https://media.api-sports.io/football/teams/170.png",
+      "founded": 1900,
+      "stadium": {
+        "name": "Borussia-Park",
+        "name_ar": "بوروسيا بارك",
+        "capacity": 54057,
+        "city": "Mönchengladbach",
+        "city_ar": "مونشنغلادباخ"
+      },
+      "nickname": "Die Fohlen",
+      "nickname_ar": "المهور",
+      "colors": {
+        "primary": "White",
+        "secondary": "Green"
+      },
+      "trophies": {
+        "league_titles": 5,
+        "domestic_cups": 3,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 172,
+      "name": "VfL Wolfsburg",
+      "name_ar": "فولفسبورغ",
+      "code": "WOB",
+      "logo": "https://media.api-sports.io/football/teams/172.png",
+      "founded": 1945,
+      "stadium": {
+        "name": "Volkswagen Arena",
+        "name_ar": "فولكس فاغن أرينا",
+        "capacity": 30000,
+        "city": "Wolfsburg",
+        "city_ar": "فولفسبورغ"
+      },
+      "nickname": "Die Wölfe",
+      "nickname_ar": "الذئاب",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 1,
+        "domestic_cups": 1,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 166,
+      "name": "1. FC Union Berlin",
+      "name_ar": "اتحاد برلين",
+      "code": "FCU",
+      "logo": "https://media.api-sports.io/football/teams/166.png",
+      "founded": 1966,
+      "stadium": {
+        "name": "Stadion An der Alten Försterei",
+        "name_ar": "ملعب آن دير ألتن فورستيراي",
+        "capacity": 22012,
+        "city": "Berlin",
+        "city_ar": "برلين"
+      },
+      "nickname": "Die Eisernen",
+      "nickname_ar": "الحديديون",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 160,
+      "name": "SC Freiburg",
+      "name_ar": "فرايبورغ",
+      "code": "SCF",
+      "logo": "https://media.api-sports.io/football/teams/160.png",
+      "founded": 1904,
+      "stadium": {
+        "name": "Europa-Park Stadion",
+        "name_ar": "يوروبا بارك ستاديون",
+        "capacity": 34700,
+        "city": "Freiburg",
+        "city_ar": "فرايبورغ"
+      },
+      "nickname": "Breisgau-Brasilianer",
+      "nickname_ar": "البرازيليون",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 164,
+      "name": "1. FSV Mainz 05",
+      "name_ar": "ماينز",
+      "code": "M05",
+      "logo": "https://media.api-sports.io/football/teams/164.png",
+      "founded": 1905,
+      "stadium": {
+        "name": "MEWA Arena",
+        "name_ar": "ميوا أرينا",
+        "capacity": 34000,
+        "city": "Mainz",
+        "city_ar": "ماينز"
+      },
+      "nickname": "Die Nullfünfer",
+      "nickname_ar": "الصفر خمسة",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 159,
+      "name": "Hertha Berlin",
+      "name_ar": "هيرتا برلين",
+      "code": "BSC",
+      "logo": "https://media.api-sports.io/football/teams/159.png",
+      "founded": 1892,
+      "stadium": {
+        "name": "Olympiastadion",
+        "name_ar": "الملعب الأولمبي",
+        "capacity": 74475,
+        "city": "Berlin",
+        "city_ar": "برلين"
+      },
+      "nickname": "Die Alte Dame",
+      "nickname_ar": "السيدة العجوز",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 2,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 182,
+      "name": "FC Augsburg",
+      "name_ar": "أوغسبورغ",
+      "code": "FCA",
+      "logo": "https://media.api-sports.io/football/teams/182.png",
+      "founded": 1907,
+      "stadium": {
+        "name": "WWK Arena",
+        "name_ar": "دبليو دبليو كيه أرينا",
+        "capacity": 30660,
+        "city": "Augsburg",
+        "city_ar": "أوغسبورغ"
+      },
+      "nickname": "Die Fuggerstädter",
+      "nickname_ar": "الفوغر",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 163,
+      "name": "1. FC Köln",
+      "name_ar": "كولن",
+      "code": "KOE",
+      "logo": "https://media.api-sports.io/football/teams/163.png",
+      "founded": 1948,
+      "stadium": {
+        "name": "RheinEnergieStadion",
+        "name_ar": "راين إنرجي ستاديون",
+        "capacity": 50000,
+        "city": "Cologne",
+        "city_ar": "كولونيا"
+      },
+      "nickname": "Die Geißböcke",
+      "nickname_ar": "التيوس",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 2,
+        "domestic_cups": 4,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 161,
+      "name": "VfL Bochum",
+      "name_ar": "بوخوم",
+      "code": "BOC",
+      "logo": "https://media.api-sports.io/football/teams/161.png",
+      "founded": 1848,
+      "stadium": {
+        "name": "Vonovia Ruhrstadion",
+        "name_ar": "فونوفيا رورستاديون",
+        "capacity": 27599,
+        "city": "Bochum",
+        "city_ar": "بوخوم"
+      },
+      "nickname": "Die Unabsteigbaren",
+      "nickname_ar": "الذين لا يهبطون",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 162,
+      "name": "Werder Bremen",
+      "name_ar": "فيردر بريمن",
+      "code": "SVW",
+      "logo": "https://media.api-sports.io/football/teams/162.png",
+      "founded": 1899,
+      "stadium": {
+        "name": "Weserstadion",
+        "name_ar": "فيزرستاديون",
+        "capacity": 42100,
+        "city": "Bremen",
+        "city_ar": "بريمن"
+      },
+      "nickname": "Die Werderaner",
+      "nickname_ar": "الأخضر",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 4,
+        "domestic_cups": 6,
+        "european_cups": 1
+      }
+    },
+    {
+      "id": 192,
+      "name": "FC Heidenheim",
+      "name_ar": "هايدنهايم",
+      "code": "HDH",
+      "logo": "https://media.api-sports.io/football/teams/192.png",
+      "founded": 1846,
+      "stadium": {
+        "name": "Voith-Arena",
+        "name_ar": "فويث أرينا",
+        "capacity": 15000,
+        "city": "Heidenheim",
+        "city_ar": "هايدنهايم"
+      },
+      "nickname": "Die Schnaitheimer",
+      "nickname_ar": "الشنايتهايمر",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 184,
+      "name": "SV Darmstadt 98",
+      "name_ar": "دارمشتات",
+      "code": "D98",
+      "logo": "https://media.api-sports.io/football/teams/184.png",
+      "founded": 1898,
+      "stadium": {
+        "name": "Merck-Stadion am Böllenfalltor",
+        "name_ar": "ميرك ستاديون",
+        "capacity": 17810,
+        "city": "Darmstadt",
+        "city_ar": "دارمشتات"
+      },
+      "nickname": "Die Lilien",
+      "nickname_ar": "الزنابق",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    }
+  ],
+  "total_teams": 18,
+  "last_updated": "2025-12-15T23:27:30Z"
+}

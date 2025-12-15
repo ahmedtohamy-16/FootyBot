@@ -1,0 +1,535 @@
+{
+  "league": {
+    "id": 135,
+    "name": "Serie A",
+    "name_ar": "الدوري الإيطالي",
+    "country": "Italy",
+    "country_ar": "إيطاليا",
+    "logo": "https://media.api-sports.io/football/leagues/135.png",
+    "season": "2024-2025"
+  },
+  "teams": [
+    {
+      "id": 487,
+      "name": "Inter",
+      "name_ar": "إنتر ميلان",
+      "code": "INT",
+      "logo": "https://media.api-sports.io/football/teams/487.png",
+      "founded": 1908,
+      "stadium": {
+        "name": "San Siro",
+        "name_ar": "سان سيرو",
+        "capacity": 80018,
+        "city": "Milan",
+        "city_ar": "ميلان"
+      },
+      "nickname": "Nerazzurri",
+      "nickname_ar": "النيرازوري",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 19,
+        "domestic_cups": 8,
+        "european_cups": 3
+      }
+    },
+    {
+      "id": 489,
+      "name": "AC Milan",
+      "name_ar": "ميلان",
+      "code": "MIL",
+      "logo": "https://media.api-sports.io/football/teams/489.png",
+      "founded": 1899,
+      "stadium": {
+        "name": "San Siro",
+        "name_ar": "سان سيرو",
+        "capacity": 80018,
+        "city": "Milan",
+        "city_ar": "ميلان"
+      },
+      "nickname": "Rossoneri",
+      "nickname_ar": "الروسونيري",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 19,
+        "domestic_cups": 5,
+        "european_cups": 7
+      }
+    },
+    {
+      "id": 496,
+      "name": "Juventus",
+      "name_ar": "يوفنتوس",
+      "code": "JUV",
+      "logo": "https://media.api-sports.io/football/teams/496.png",
+      "founded": 1897,
+      "stadium": {
+        "name": "Allianz Stadium",
+        "name_ar": "أليانز ستاديوم",
+        "capacity": 41507,
+        "city": "Turin",
+        "city_ar": "تورينو"
+      },
+      "nickname": "Bianconeri",
+      "nickname_ar": "البيانكونيري",
+      "colors": {
+        "primary": "White",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 36,
+        "domestic_cups": 14,
+        "european_cups": 2
+      }
+    },
+    {
+      "id": 492,
+      "name": "Napoli",
+      "name_ar": "نابولي",
+      "code": "NAP",
+      "logo": "https://media.api-sports.io/football/teams/492.png",
+      "founded": 1926,
+      "stadium": {
+        "name": "Diego Armando Maradona",
+        "name_ar": "دييغو أرماندو مارادونا",
+        "capacity": 54726,
+        "city": "Naples",
+        "city_ar": "نابولي"
+      },
+      "nickname": "Partenopei",
+      "nickname_ar": "البارتينوبي",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 3,
+        "domestic_cups": 6,
+        "european_cups": 1
+      }
+    },
+    {
+      "id": 497,
+      "name": "AS Roma",
+      "name_ar": "روما",
+      "code": "ROM",
+      "logo": "https://media.api-sports.io/football/teams/497.png",
+      "founded": 1927,
+      "stadium": {
+        "name": "Stadio Olimpico",
+        "name_ar": "الملعب الأولمبي",
+        "capacity": 70634,
+        "city": "Rome",
+        "city_ar": "روما"
+      },
+      "nickname": "Giallorossi",
+      "nickname_ar": "الجيالوروسي",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 3,
+        "domestic_cups": 9,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 488,
+      "name": "Lazio",
+      "name_ar": "لاتسيو",
+      "code": "LAZ",
+      "logo": "https://media.api-sports.io/football/teams/488.png",
+      "founded": 1900,
+      "stadium": {
+        "name": "Stadio Olimpico",
+        "name_ar": "الملعب الأولمبي",
+        "capacity": 70634,
+        "city": "Rome",
+        "city_ar": "روما"
+      },
+      "nickname": "Biancocelesti",
+      "nickname_ar": "البيانكوشيليستي",
+      "colors": {
+        "primary": "Sky Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 2,
+        "domestic_cups": 7,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 500,
+      "name": "Atalanta",
+      "name_ar": "أتالانتا",
+      "code": "ATA",
+      "logo": "https://media.api-sports.io/football/teams/500.png",
+      "founded": 1907,
+      "stadium": {
+        "name": "Gewiss Stadium",
+        "name_ar": "جيويس ستاديوم",
+        "capacity": 24950,
+        "city": "Bergamo",
+        "city_ar": "بيرغامو"
+      },
+      "nickname": "La Dea",
+      "nickname_ar": "الإلهة",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 1,
+        "european_cups": 1
+      }
+    },
+    {
+      "id": 502,
+      "name": "Fiorentina",
+      "name_ar": "فيورنتينا",
+      "code": "FIO",
+      "logo": "https://media.api-sports.io/football/teams/502.png",
+      "founded": 1926,
+      "stadium": {
+        "name": "Stadio Artemio Franchi",
+        "name_ar": "ملعب أرتيميو فرانكي",
+        "capacity": 43147,
+        "city": "Florence",
+        "city_ar": "فلورنسا"
+      },
+      "nickname": "Viola",
+      "nickname_ar": "الفيولا",
+      "colors": {
+        "primary": "Purple",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 2,
+        "domestic_cups": 6,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 495,
+      "name": "Torino",
+      "name_ar": "تورينو",
+      "code": "TOR",
+      "logo": "https://media.api-sports.io/football/teams/495.png",
+      "founded": 1906,
+      "stadium": {
+        "name": "Stadio Olimpico Grande Torino",
+        "name_ar": "الأولمبي غراند تورينو",
+        "capacity": 27994,
+        "city": "Turin",
+        "city_ar": "تورينو"
+      },
+      "nickname": "Granata",
+      "nickname_ar": "الغراناتا",
+      "colors": {
+        "primary": "Maroon",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 7,
+        "domestic_cups": 5,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 499,
+      "name": "Sampdoria",
+      "name_ar": "سامبدوريا",
+      "code": "SAM",
+      "logo": "https://media.api-sports.io/football/teams/499.png",
+      "founded": 1946,
+      "stadium": {
+        "name": "Stadio Luigi Ferraris",
+        "name_ar": "لويجي فيراريس",
+        "capacity": 36599,
+        "city": "Genoa",
+        "city_ar": "جنوة"
+      },
+      "nickname": "Blucerchiati",
+      "nickname_ar": "البلوتشيركياتي",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 1,
+        "domestic_cups": 4,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 490,
+      "name": "Cagliari",
+      "name_ar": "كالياري",
+      "code": "CAG",
+      "logo": "https://media.api-sports.io/football/teams/490.png",
+      "founded": 1920,
+      "stadium": {
+        "name": "Unipol Domus",
+        "name_ar": "يونيبول دوموس",
+        "capacity": 16416,
+        "city": "Cagliari",
+        "city_ar": "كالياري"
+      },
+      "nickname": "Rossoblu",
+      "nickname_ar": "الروسوبلو",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 1,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 498,
+      "name": "Udinese",
+      "name_ar": "أودينيزي",
+      "code": "UDI",
+      "logo": "https://media.api-sports.io/football/teams/498.png",
+      "founded": 1896,
+      "stadium": {
+        "name": "Dacia Arena",
+        "name_ar": "داسيا أرينا",
+        "capacity": 25144,
+        "city": "Udine",
+        "city_ar": "أودينه"
+      },
+      "nickname": "Zebrette",
+      "nickname_ar": "الحمير الوحشية",
+      "colors": {
+        "primary": "White",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 504,
+      "name": "Hellas Verona",
+      "name_ar": "هيلاس فيرونا",
+      "code": "VER",
+      "logo": "https://media.api-sports.io/football/teams/504.png",
+      "founded": 1903,
+      "stadium": {
+        "name": "Stadio Marc'Antonio Bentegodi",
+        "name_ar": "مارك أنطونيو بنتيغودي",
+        "capacity": 39371,
+        "city": "Verona",
+        "city_ar": "فيرونا"
+      },
+      "nickname": "Gialloblu",
+      "nickname_ar": "الجيالوبلو",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 1,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 503,
+      "name": "Sassuolo",
+      "name_ar": "ساسولو",
+      "code": "SAS",
+      "logo": "https://media.api-sports.io/football/teams/503.png",
+      "founded": 1920,
+      "stadium": {
+        "name": "Mapei Stadium",
+        "name_ar": "مابيه ستاديوم",
+        "capacity": 23717,
+        "city": "Reggio Emilia",
+        "city_ar": "ريجيو إميليا"
+      },
+      "nickname": "Neroverdi",
+      "nickname_ar": "الأخضر والأسود",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 505,
+      "name": "Empoli",
+      "name_ar": "إمبولي",
+      "code": "EMP",
+      "logo": "https://media.api-sports.io/football/teams/505.png",
+      "founded": 1920,
+      "stadium": {
+        "name": "Carlo Castellani",
+        "name_ar": "كارلو كاستيلاني",
+        "capacity": 16800,
+        "city": "Empoli",
+        "city_ar": "إمبولي"
+      },
+      "nickname": "Azzurri",
+      "nickname_ar": "الأزرق",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 511,
+      "name": "Bologna",
+      "name_ar": "بولونيا",
+      "code": "BOL",
+      "logo": "https://media.api-sports.io/football/teams/511.png",
+      "founded": 1909,
+      "stadium": {
+        "name": "Stadio Renato Dall'Ara",
+        "name_ar": "ريناتو دال آرا",
+        "capacity": 38279,
+        "city": "Bologna",
+        "city_ar": "بولونيا"
+      },
+      "nickname": "Rossoblù",
+      "nickname_ar": "الأحمر والأزرق",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 7,
+        "domestic_cups": 2,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 494,
+      "name": "Genoa",
+      "name_ar": "جنوى",
+      "code": "GEN",
+      "logo": "https://media.api-sports.io/football/teams/494.png",
+      "founded": 1893,
+      "stadium": {
+        "name": "Stadio Luigi Ferraris",
+        "name_ar": "لويجي فيراريس",
+        "capacity": 36599,
+        "city": "Genoa",
+        "city_ar": "جنوة"
+      },
+      "nickname": "Grifone",
+      "nickname_ar": "الغريفون",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 9,
+        "domestic_cups": 1,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 514,
+      "name": "Lecce",
+      "name_ar": "ليتشي",
+      "code": "LEC",
+      "logo": "https://media.api-sports.io/football/teams/514.png",
+      "founded": 1908,
+      "stadium": {
+        "name": "Stadio Via del Mare",
+        "name_ar": "فيا ديل ماري",
+        "capacity": 31533,
+        "city": "Lecce",
+        "city_ar": "ليتشي"
+      },
+      "nickname": "Giallorossi",
+      "nickname_ar": "الجيالوروسي",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Red"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 867,
+      "name": "Monza",
+      "name_ar": "مونزا",
+      "code": "MON",
+      "logo": "https://media.api-sports.io/football/teams/867.png",
+      "founded": 1912,
+      "stadium": {
+        "name": "U-Power Stadium",
+        "name_ar": "يو باور ستاديوم",
+        "capacity": 15039,
+        "city": "Monza",
+        "city_ar": "مونزا"
+      },
+      "nickname": "Biancorossi",
+      "nickname_ar": "الأبيض والأحمر",
+      "colors": {
+        "primary": "White",
+        "secondary": "Red"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 517,
+      "name": "Frosinone",
+      "name_ar": "فروزينوني",
+      "code": "FRO",
+      "logo": "https://media.api-sports.io/football/teams/517.png",
+      "founded": 1928,
+      "stadium": {
+        "name": "Stadio Benito Stirpe",
+        "name_ar": "بينيتو ستيربي",
+        "capacity": 16227,
+        "city": "Frosinone",
+        "city_ar": "فروزينوني"
+      },
+      "nickname": "Canarini",
+      "nickname_ar": "الكناري",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    }
+  ],
+  "total_teams": 20,
+  "last_updated": "2025-12-15T23:28:55Z"
+}

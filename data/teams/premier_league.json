@@ -1,0 +1,535 @@
+{
+  "league": {
+    "id": 39,
+    "name": "Premier League",
+    "name_ar": "الدوري الإنجليزي الممتاز",
+    "country": "England",
+    "country_ar": "إنجلترا",
+    "logo": "https://media.api-sports.io/football/leagues/39.png",
+    "season": "2024-2025"
+  },
+  "teams": [
+    {
+      "id": 33,
+      "name": "Manchester United",
+      "name_ar": "مانشستر يونايتد",
+      "code": "MUN",
+      "logo": "https://media.api-sports.io/football/teams/33.png",
+      "founded": 1878,
+      "stadium": {
+        "name": "Old Trafford",
+        "name_ar": "أولد ترافورد",
+        "capacity": 76000,
+        "city": "Manchester",
+        "city_ar": "مانشستر"
+      },
+      "nickname": "Red Devils",
+      "nickname_ar": "الشياطين الحمر",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 20,
+        "domestic_cups": 12,
+        "european_cups": 3
+      }
+    },
+    {
+      "id": 40,
+      "name": "Liverpool",
+      "name_ar": "ليفربول",
+      "code": "LIV",
+      "logo": "https://media.api-sports.io/football/teams/40.png",
+      "founded": 1892,
+      "stadium": {
+        "name": "Anfield",
+        "name_ar": "أنفيلد",
+        "capacity": 54074,
+        "city": "Liverpool",
+        "city_ar": "ليفربول"
+      },
+      "nickname": "The Reds",
+      "nickname_ar": "الحمر",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 19,
+        "domestic_cups": 8,
+        "european_cups": 6
+      }
+    },
+    {
+      "id": 50,
+      "name": "Manchester City",
+      "name_ar": "مانشستر سيتي",
+      "code": "MCI",
+      "logo": "https://media.api-sports.io/football/teams/50.png",
+      "founded": 1880,
+      "stadium": {
+        "name": "Etihad Stadium",
+        "name_ar": "ملعب الاتحاد",
+        "capacity": 55097,
+        "city": "Manchester",
+        "city_ar": "مانشستر"
+      },
+      "nickname": "The Citizens",
+      "nickname_ar": "السيتيزنز",
+      "colors": {
+        "primary": "Sky Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 9,
+        "domestic_cups": 7,
+        "european_cups": 1
+      }
+    },
+    {
+      "id": 49,
+      "name": "Chelsea",
+      "name_ar": "تشيلسي",
+      "code": "CHE",
+      "logo": "https://media.api-sports.io/football/teams/49.png",
+      "founded": 1905,
+      "stadium": {
+        "name": "Stamford Bridge",
+        "name_ar": "ستامفورد بريدج",
+        "capacity": 40834,
+        "city": "London",
+        "city_ar": "لندن"
+      },
+      "nickname": "The Blues",
+      "nickname_ar": "البلوز",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 6,
+        "domestic_cups": 8,
+        "european_cups": 2
+      }
+    },
+    {
+      "id": 42,
+      "name": "Arsenal",
+      "name_ar": "آرسنال",
+      "code": "ARS",
+      "logo": "https://media.api-sports.io/football/teams/42.png",
+      "founded": 1886,
+      "stadium": {
+        "name": "Emirates Stadium",
+        "name_ar": "ملعب الإمارات",
+        "capacity": 60704,
+        "city": "London",
+        "city_ar": "لندن"
+      },
+      "nickname": "The Gunners",
+      "nickname_ar": "المدفعجية",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 13,
+        "domestic_cups": 14,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 47,
+      "name": "Tottenham",
+      "name_ar": "توتنهام",
+      "code": "TOT",
+      "logo": "https://media.api-sports.io/football/teams/47.png",
+      "founded": 1882,
+      "stadium": {
+        "name": "Tottenham Hotspur Stadium",
+        "name_ar": "ملعب توتنهام هوتسبير",
+        "capacity": 62850,
+        "city": "London",
+        "city_ar": "لندن"
+      },
+      "nickname": "Spurs",
+      "nickname_ar": "السبيرز",
+      "colors": {
+        "primary": "White",
+        "secondary": "Navy Blue"
+      },
+      "trophies": {
+        "league_titles": 2,
+        "domestic_cups": 8,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 34,
+      "name": "Newcastle United",
+      "name_ar": "نيوكاسل يونايتد",
+      "code": "NEW",
+      "logo": "https://media.api-sports.io/football/teams/34.png",
+      "founded": 1892,
+      "stadium": {
+        "name": "St James' Park",
+        "name_ar": "سانت جيمس بارك",
+        "capacity": 52305,
+        "city": "Newcastle",
+        "city_ar": "نيوكاسل"
+      },
+      "nickname": "The Magpies",
+      "nickname_ar": "العقعق",
+      "colors": {
+        "primary": "Black",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 4,
+        "domestic_cups": 6,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 66,
+      "name": "Aston Villa",
+      "name_ar": "أستون فيلا",
+      "code": "AVL",
+      "logo": "https://media.api-sports.io/football/teams/66.png",
+      "founded": 1874,
+      "stadium": {
+        "name": "Villa Park",
+        "name_ar": "فيلا بارك",
+        "capacity": 42640,
+        "city": "Birmingham",
+        "city_ar": "برمنغهام"
+      },
+      "nickname": "The Villans",
+      "nickname_ar": "الفيلانز",
+      "colors": {
+        "primary": "Claret",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 7,
+        "domestic_cups": 7,
+        "european_cups": 1
+      }
+    },
+    {
+      "id": 35,
+      "name": "Bournemouth",
+      "name_ar": "بورنموث",
+      "code": "BOU",
+      "logo": "https://media.api-sports.io/football/teams/35.png",
+      "founded": 1899,
+      "stadium": {
+        "name": "Vitality Stadium",
+        "name_ar": "ملعب فيتاليتي",
+        "capacity": 11379,
+        "city": "Bournemouth",
+        "city_ar": "بورنموث"
+      },
+      "nickname": "The Cherries",
+      "nickname_ar": "الكرز",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 36,
+      "name": "Fulham",
+      "name_ar": "فولهام",
+      "code": "FUL",
+      "logo": "https://media.api-sports.io/football/teams/36.png",
+      "founded": 1879,
+      "stadium": {
+        "name": "Craven Cottage",
+        "name_ar": "كرافن كوتيج",
+        "capacity": 25700,
+        "city": "London",
+        "city_ar": "لندن"
+      },
+      "nickname": "The Cottagers",
+      "nickname_ar": "الكوتاجرز",
+      "colors": {
+        "primary": "White",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 39,
+      "name": "Wolverhampton",
+      "name_ar": "ولفرهامبتون",
+      "code": "WOL",
+      "logo": "https://media.api-sports.io/football/teams/39.png",
+      "founded": 1877,
+      "stadium": {
+        "name": "Molineux Stadium",
+        "name_ar": "ملعب مولينو",
+        "capacity": 32050,
+        "city": "Wolverhampton",
+        "city_ar": "ولفرهامبتون"
+      },
+      "nickname": "Wolves",
+      "nickname_ar": "الذئاب",
+      "colors": {
+        "primary": "Gold",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 3,
+        "domestic_cups": 4,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 45,
+      "name": "Everton",
+      "name_ar": "إيفرتون",
+      "code": "EVE",
+      "logo": "https://media.api-sports.io/football/teams/45.png",
+      "founded": 1878,
+      "stadium": {
+        "name": "Goodison Park",
+        "name_ar": "غوديسون بارك",
+        "capacity": 39414,
+        "city": "Liverpool",
+        "city_ar": "ليفربول"
+      },
+      "nickname": "The Toffees",
+      "nickname_ar": "التوفيز",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 9,
+        "domestic_cups": 5,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 51,
+      "name": "Brighton",
+      "name_ar": "برايتون",
+      "code": "BHA",
+      "logo": "https://media.api-sports.io/football/teams/51.png",
+      "founded": 1901,
+      "stadium": {
+        "name": "Amex Stadium",
+        "name_ar": "ملعب أميكس",
+        "capacity": 31800,
+        "city": "Brighton",
+        "city_ar": "برايتون"
+      },
+      "nickname": "The Seagulls",
+      "nickname_ar": "النوارس",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 52,
+      "name": "Crystal Palace",
+      "name_ar": "كريستال بالاس",
+      "code": "CRY",
+      "logo": "https://media.api-sports.io/football/teams/52.png",
+      "founded": 1905,
+      "stadium": {
+        "name": "Selhurst Park",
+        "name_ar": "سيلهيرست بارك",
+        "capacity": 25486,
+        "city": "London",
+        "city_ar": "لندن"
+      },
+      "nickname": "The Eagles",
+      "nickname_ar": "النسور",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "Red"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 55,
+      "name": "Brentford",
+      "name_ar": "برينتفورد",
+      "code": "BRE",
+      "logo": "https://media.api-sports.io/football/teams/55.png",
+      "founded": 1889,
+      "stadium": {
+        "name": "Brentford Community Stadium",
+        "name_ar": "ملعب برينتفورد المجتمعي",
+        "capacity": 17250,
+        "city": "London",
+        "city_ar": "لندن"
+      },
+      "nickname": "The Bees",
+      "nickname_ar": "النحل",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 65,
+      "name": "Nottingham Forest",
+      "name_ar": "نوتينغهام فورست",
+      "code": "NOT",
+      "logo": "https://media.api-sports.io/football/teams/65.png",
+      "founded": 1865,
+      "stadium": {
+        "name": "City Ground",
+        "name_ar": "سيتي غراوند",
+        "capacity": 30445,
+        "city": "Nottingham",
+        "city_ar": "نوتينغهام"
+      },
+      "nickname": "The Reds",
+      "nickname_ar": "الحمر",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 1,
+        "domestic_cups": 2,
+        "european_cups": 2
+      }
+    },
+    {
+      "id": 48,
+      "name": "West Ham",
+      "name_ar": "وست هام",
+      "code": "WHU",
+      "logo": "https://media.api-sports.io/football/teams/48.png",
+      "founded": 1895,
+      "stadium": {
+        "name": "London Stadium",
+        "name_ar": "ملعب لندن",
+        "capacity": 62500,
+        "city": "London",
+        "city_ar": "لندن"
+      },
+      "nickname": "The Hammers",
+      "nickname_ar": "المطارق",
+      "colors": {
+        "primary": "Claret",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 3,
+        "european_cups": 1
+      }
+    },
+    {
+      "id": 46,
+      "name": "Leicester City",
+      "name_ar": "ليستر سيتي",
+      "code": "LEI",
+      "logo": "https://media.api-sports.io/football/teams/46.png",
+      "founded": 1884,
+      "stadium": {
+        "name": "King Power Stadium",
+        "name_ar": "ملعب كينغ باور",
+        "capacity": 32261,
+        "city": "Leicester",
+        "city_ar": "ليستر"
+      },
+      "nickname": "The Foxes",
+      "nickname_ar": "الثعالب",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 1,
+        "domestic_cups": 1,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 41,
+      "name": "Southampton",
+      "name_ar": "ساوثهامبتون",
+      "code": "SOU",
+      "logo": "https://media.api-sports.io/football/teams/41.png",
+      "founded": 1885,
+      "stadium": {
+        "name": "St Mary's Stadium",
+        "name_ar": "ملعب سانت ماري",
+        "capacity": 32384,
+        "city": "Southampton",
+        "city_ar": "ساوثهامبتون"
+      },
+      "nickname": "The Saints",
+      "nickname_ar": "القديسون",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 1,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 71,
+      "name": "Ipswich Town",
+      "name_ar": "إيبسويتش تاون",
+      "code": "IPS",
+      "logo": "https://media.api-sports.io/football/teams/71.png",
+      "founded": 1878,
+      "stadium": {
+        "name": "Portman Road",
+        "name_ar": "بورتمان رود",
+        "capacity": 30311,
+        "city": "Ipswich",
+        "city_ar": "إيبسويتش"
+      },
+      "nickname": "The Tractor Boys",
+      "nickname_ar": "أولاد الجرار",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 1,
+        "domestic_cups": 1,
+        "european_cups": 1
+      }
+    }
+  ],
+  "total_teams": 20,
+  "last_updated": "2025-12-15T23:26:02Z"
+}
