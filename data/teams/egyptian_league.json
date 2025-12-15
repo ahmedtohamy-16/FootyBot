@@ -1,0 +1,483 @@
+{
+  "league": {
+    "id": 233,
+    "name": "Premier League",
+    "name_ar": "الدوري المصري الممتاز",
+    "country": "Egypt",
+    "country_ar": "مصر",
+    "logo": "https://media.api-sports.io/football/leagues/233.png",
+    "season": "2024-2025"
+  },
+  "teams": [
+    {
+      "id": 1029,
+      "name": "Al Ahly",
+      "name_ar": "الأهلي",
+      "code": "AHL",
+      "logo": "https://media.api-sports.io/football/teams/1029.png",
+      "founded": 1907,
+      "stadium": {
+        "name": "Al Ahly WE Al Salam Stadium",
+        "name_ar": "ملعب الأهلي وي السلام",
+        "capacity": 30000,
+        "city": "Cairo",
+        "city_ar": "القاهرة"
+      },
+      "nickname": "The Red Castle",
+      "nickname_ar": "القلعة الحمراء",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 43,
+        "domestic_cups": 39,
+        "african_cups": 11
+      }
+    },
+    {
+      "id": 1030,
+      "name": "Zamalek",
+      "name_ar": "الزمالك",
+      "code": "ZAM",
+      "logo": "https://media.api-sports.io/football/teams/1030.png",
+      "founded": 1911,
+      "stadium": {
+        "name": "Cairo International Stadium",
+        "name_ar": "استاد القاهرة الدولي",
+        "capacity": 75000,
+        "city": "Cairo",
+        "city_ar": "القاهرة"
+      },
+      "nickname": "The White Knights",
+      "nickname_ar": "الفرسان البيض",
+      "colors": {
+        "primary": "White",
+        "secondary": "Red"
+      },
+      "trophies": {
+        "league_titles": 14,
+        "domestic_cups": 28,
+        "african_cups": 5
+      }
+    },
+    {
+      "id": 1033,
+      "name": "Pyramids FC",
+      "name_ar": "بيراميدز",
+      "code": "PYR",
+      "logo": "https://media.api-sports.io/football/teams/1033.png",
+      "founded": 2008,
+      "stadium": {
+        "name": "30 June Stadium",
+        "name_ar": "استاد 30 يونيو",
+        "capacity": 30000,
+        "city": "Cairo",
+        "city_ar": "القاهرة"
+      },
+      "nickname": "The Pharaohs",
+      "nickname_ar": "الفراعنة",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 1,
+        "african_cups": 0
+      }
+    },
+    {
+      "id": 1046,
+      "name": "Al Masry",
+      "name_ar": "المصري",
+      "code": "MAS",
+      "logo": "https://media.api-sports.io/football/teams/1046.png",
+      "founded": 1920,
+      "stadium": {
+        "name": "Port Said Stadium",
+        "name_ar": "استاد بورسعيد",
+        "capacity": 25000,
+        "city": "Port Said",
+        "city_ar": "بورسعيد"
+      },
+      "nickname": "The Green Eagles",
+      "nickname_ar": "النسور الخضراء",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 2,
+        "african_cups": 0
+      }
+    },
+    {
+      "id": 1032,
+      "name": "Ismaily",
+      "name_ar": "الإسماعيلي",
+      "code": "ISM",
+      "logo": "https://media.api-sports.io/football/teams/1032.png",
+      "founded": 1921,
+      "stadium": {
+        "name": "Ismailia Stadium",
+        "name_ar": "استاد الإسماعيلية",
+        "capacity": 18525,
+        "city": "Ismailia",
+        "city_ar": "الإسماعيلية"
+      },
+      "nickname": "The Dervishes",
+      "nickname_ar": "الدراويش",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 3,
+        "domestic_cups": 2,
+        "african_cups": 0
+      }
+    },
+    {
+      "id": 1044,
+      "name": "Al Ittihad Alexandria",
+      "name_ar": "الاتحاد السكندري",
+      "code": "ITT",
+      "logo": "https://media.api-sports.io/football/teams/1044.png",
+      "founded": 1914,
+      "stadium": {
+        "name": "Alexandria Stadium",
+        "name_ar": "استاد الإسكندرية",
+        "capacity": 20000,
+        "city": "Alexandria",
+        "city_ar": "الإسكندرية"
+      },
+      "nickname": "The Railwaymen",
+      "nickname_ar": "السكة الحديد",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 2,
+        "african_cups": 0
+      }
+    },
+    {
+      "id": 1045,
+      "name": "Ceramica Cleopatra",
+      "name_ar": "سيراميكا كليوباترا",
+      "code": "CER",
+      "logo": "https://media.api-sports.io/football/teams/1045.png",
+      "founded": 2006,
+      "stadium": {
+        "name": "Suez Stadium",
+        "name_ar": "استاد السويس",
+        "capacity": 25000,
+        "city": "Suez",
+        "city_ar": "السويس"
+      },
+      "nickname": "The Potters",
+      "nickname_ar": "الفخاريين",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "african_cups": 0
+      }
+    },
+    {
+      "id": 1051,
+      "name": "Smouha",
+      "name_ar": "سموحة",
+      "code": "SMO",
+      "logo": "https://media.api-sports.io/football/teams/1051.png",
+      "founded": 1949,
+      "stadium": {
+        "name": "Alexandria Stadium",
+        "name_ar": "استاد الإسكندرية",
+        "capacity": 20000,
+        "city": "Alexandria",
+        "city_ar": "الإسكندرية"
+      },
+      "nickname": "The Sky Blues",
+      "nickname_ar": "السماوي",
+      "colors": {
+        "primary": "Sky Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "african_cups": 0
+      }
+    },
+    {
+      "id": 1047,
+      "name": "ZED FC",
+      "name_ar": "زيد",
+      "code": "ZED",
+      "logo": "https://media.api-sports.io/football/teams/1047.png",
+      "founded": 2020,
+      "stadium": {
+        "name": "Gehaz El Reyada Stadium",
+        "name_ar": "استاد جهاز الرياضة",
+        "capacity": 5000,
+        "city": "6th of October City",
+        "city_ar": "مدينة 6 أكتوبر"
+      },
+      "nickname": "The Warriors",
+      "nickname_ar": "المحاربون",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "african_cups": 0
+      }
+    },
+    {
+      "id": 1048,
+      "name": "Future FC",
+      "name_ar": "فيوتشر",
+      "code": "FUT",
+      "logo": "https://media.api-sports.io/football/teams/1048.png",
+      "founded": 2015,
+      "stadium": {
+        "name": "Al Salam Stadium",
+        "name_ar": "استاد السلام",
+        "capacity": 30000,
+        "city": "Cairo",
+        "city_ar": "القاهرة"
+      },
+      "nickname": "The Future",
+      "nickname_ar": "المستقبل",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "african_cups": 0
+      }
+    },
+    {
+      "id": 1049,
+      "name": "Pharco FC",
+      "name_ar": "فاركو",
+      "code": "PHA",
+      "logo": "https://media.api-sports.io/football/teams/1049.png",
+      "founded": 2009,
+      "stadium": {
+        "name": "Suez Stadium",
+        "name_ar": "استاد السويس",
+        "capacity": 25000,
+        "city": "Suez",
+        "city_ar": "السويس"
+      },
+      "nickname": "The Pharaohs",
+      "nickname_ar": "الفراعنة",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "african_cups": 0
+      }
+    },
+    {
+      "id": 1050,
+      "name": "National Bank",
+      "name_ar": "البنك الأهلي",
+      "code": "NBE",
+      "logo": "https://media.api-sports.io/football/teams/1050.png",
+      "founded": 1980,
+      "stadium": {
+        "name": "Cairo International Stadium",
+        "name_ar": "استاد القاهرة الدولي",
+        "capacity": 75000,
+        "city": "Cairo",
+        "city_ar": "القاهرة"
+      },
+      "nickname": "The Bankers",
+      "nickname_ar": "البنكيون",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "african_cups": 0
+      }
+    },
+    {
+      "id": 1052,
+      "name": "El Gouna",
+      "name_ar": "الجونة",
+      "code": "GOU",
+      "logo": "https://media.api-sports.io/football/teams/1052.png",
+      "founded": 2003,
+      "stadium": {
+        "name": "El Gouna Stadium",
+        "name_ar": "استاد الجونة",
+        "capacity": 10000,
+        "city": "El Gouna",
+        "city_ar": "الجونة"
+      },
+      "nickname": "The Red Sea Team",
+      "nickname_ar": "فريق البحر الأحمر",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "african_cups": 0
+      }
+    },
+    {
+      "id": 1053,
+      "name": "El Dakhl",
+      "name_ar": "الداخلية",
+      "code": "DAK",
+      "logo": "https://media.api-sports.io/football/teams/1053.png",
+      "founded": 1989,
+      "stadium": {
+        "name": "Military Academy Stadium",
+        "name_ar": "استاد الكلية الحربية",
+        "capacity": 22000,
+        "city": "Cairo",
+        "city_ar": "القاهرة"
+      },
+      "nickname": "The Interior",
+      "nickname_ar": "الداخلية",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "african_cups": 0
+      }
+    },
+    {
+      "id": 1054,
+      "name": "Ghazl El Mahalla",
+      "name_ar": "غزل المحلة",
+      "code": "GHZ",
+      "logo": "https://media.api-sports.io/football/teams/1054.png",
+      "founded": 1936,
+      "stadium": {
+        "name": "Ghazl El Mahalla Stadium",
+        "name_ar": "استاد غزل المحلة",
+        "capacity": 20000,
+        "city": "El Mahalla El Kubra",
+        "city_ar": "المحلة الكبرى"
+      },
+      "nickname": "The Spinners",
+      "nickname_ar": "النساجون",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Red"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "african_cups": 0
+      }
+    },
+    {
+      "id": 1055,
+      "name": "Enppi",
+      "name_ar": "إنبي",
+      "code": "ENP",
+      "logo": "https://media.api-sports.io/football/teams/1055.png",
+      "founded": 1980,
+      "stadium": {
+        "name": "Petrosport Stadium",
+        "name_ar": "استاد بتروسبورت",
+        "capacity": 25000,
+        "city": "Cairo",
+        "city_ar": "القاهرة"
+      },
+      "nickname": "The Petroleum",
+      "nickname_ar": "البترول",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "african_cups": 0
+      }
+    },
+    {
+      "id": 1056,
+      "name": "Al Mokawloon",
+      "name_ar": "المقاولون العرب",
+      "code": "MOK",
+      "logo": "https://media.api-sports.io/football/teams/1056.png",
+      "founded": 1973,
+      "stadium": {
+        "name": "Osman Ahmed Osman Stadium",
+        "name_ar": "استاد عثمان أحمد عثمان",
+        "capacity": 35000,
+        "city": "Cairo",
+        "city_ar": "القاهرة"
+      },
+      "nickname": "The Contractors",
+      "nickname_ar": "المقاولون",
+      "colors": {
+        "primary": "Orange",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 1,
+        "african_cups": 0
+      }
+    },
+    {
+      "id": 1057,
+      "name": "Baladiyat El Mahalla",
+      "name_ar": "بلدية المحلة",
+      "code": "BAL",
+      "logo": "https://media.api-sports.io/football/teams/1057.png",
+      "founded": 2006,
+      "stadium": {
+        "name": "Ghazl El Mahalla Stadium",
+        "name_ar": "استاد غزل المحلة",
+        "capacity": 20000,
+        "city": "El Mahalla El Kubra",
+        "city_ar": "المحلة الكبرى"
+      },
+      "nickname": "The Municipality",
+      "nickname_ar": "البلدية",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "african_cups": 0
+      }
+    }
+  ],
+  "total_teams": 18,
+  "last_updated": "2025-12-15T23:33:34Z"
+}

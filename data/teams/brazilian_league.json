@@ -1,0 +1,535 @@
+{
+  "league": {
+    "id": 71,
+    "name": "Serie A",
+    "name_ar": "الدوري البرازيلي",
+    "country": "Brazil",
+    "country_ar": "البرازيل",
+    "logo": "https://media.api-sports.io/football/leagues/71.png",
+    "season": "2024"
+  },
+  "teams": [
+    {
+      "id": 121,
+      "name": "Palmeiras",
+      "name_ar": "بالميراس",
+      "code": "PAL",
+      "logo": "https://media.api-sports.io/football/teams/121.png",
+      "founded": 1914,
+      "stadium": {
+        "name": "Allianz Parque",
+        "name_ar": "أليانز باركي",
+        "capacity": 43713,
+        "city": "São Paulo",
+        "city_ar": "ساو باولو"
+      },
+      "nickname": "Verdão",
+      "nickname_ar": "الأخضر الكبير",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 11,
+        "domestic_cups": 5,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 123,
+      "name": "Flamengo",
+      "name_ar": "فلامنغو",
+      "code": "FLA",
+      "logo": "https://media.api-sports.io/football/teams/123.png",
+      "founded": 1895,
+      "stadium": {
+        "name": "Maracanã",
+        "name_ar": "ماراكانا",
+        "capacity": 78838,
+        "city": "Rio de Janeiro",
+        "city_ar": "ريو دي جانيرو"
+      },
+      "nickname": "Mengão",
+      "nickname_ar": "مينغاو",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 8,
+        "domestic_cups": 4,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 6000,
+      "name": "Brazilian Team 3",
+      "name_ar": "فريق برازيلي 3",
+      "code": "BRA3",
+      "logo": "https://media.api-sports.io/football/teams/6000.png",
+      "founded": 1920,
+      "stadium": {
+        "name": "Estádio 3",
+        "name_ar": "ملعب 3",
+        "capacity": 30000,
+        "city": "Brazil",
+        "city_ar": "البرازيل"
+      },
+      "nickname": "Team 3",
+      "nickname_ar": "فريق 3",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 6001,
+      "name": "Brazilian Team 4",
+      "name_ar": "فريق برازيلي 4",
+      "code": "BRA4",
+      "logo": "https://media.api-sports.io/football/teams/6001.png",
+      "founded": 1921,
+      "stadium": {
+        "name": "Estádio 4",
+        "name_ar": "ملعب 4",
+        "capacity": 30000,
+        "city": "Brazil",
+        "city_ar": "البرازيل"
+      },
+      "nickname": "Team 4",
+      "nickname_ar": "فريق 4",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 6002,
+      "name": "Brazilian Team 5",
+      "name_ar": "فريق برازيلي 5",
+      "code": "BRA5",
+      "logo": "https://media.api-sports.io/football/teams/6002.png",
+      "founded": 1922,
+      "stadium": {
+        "name": "Estádio 5",
+        "name_ar": "ملعب 5",
+        "capacity": 30000,
+        "city": "Brazil",
+        "city_ar": "البرازيل"
+      },
+      "nickname": "Team 5",
+      "nickname_ar": "فريق 5",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 6003,
+      "name": "Brazilian Team 6",
+      "name_ar": "فريق برازيلي 6",
+      "code": "BRA6",
+      "logo": "https://media.api-sports.io/football/teams/6003.png",
+      "founded": 1923,
+      "stadium": {
+        "name": "Estádio 6",
+        "name_ar": "ملعب 6",
+        "capacity": 30000,
+        "city": "Brazil",
+        "city_ar": "البرازيل"
+      },
+      "nickname": "Team 6",
+      "nickname_ar": "فريق 6",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 6004,
+      "name": "Brazilian Team 7",
+      "name_ar": "فريق برازيلي 7",
+      "code": "BRA7",
+      "logo": "https://media.api-sports.io/football/teams/6004.png",
+      "founded": 1924,
+      "stadium": {
+        "name": "Estádio 7",
+        "name_ar": "ملعب 7",
+        "capacity": 30000,
+        "city": "Brazil",
+        "city_ar": "البرازيل"
+      },
+      "nickname": "Team 7",
+      "nickname_ar": "فريق 7",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 6005,
+      "name": "Brazilian Team 8",
+      "name_ar": "فريق برازيلي 8",
+      "code": "BRA8",
+      "logo": "https://media.api-sports.io/football/teams/6005.png",
+      "founded": 1925,
+      "stadium": {
+        "name": "Estádio 8",
+        "name_ar": "ملعب 8",
+        "capacity": 30000,
+        "city": "Brazil",
+        "city_ar": "البرازيل"
+      },
+      "nickname": "Team 8",
+      "nickname_ar": "فريق 8",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 6006,
+      "name": "Brazilian Team 9",
+      "name_ar": "فريق برازيلي 9",
+      "code": "BRA9",
+      "logo": "https://media.api-sports.io/football/teams/6006.png",
+      "founded": 1926,
+      "stadium": {
+        "name": "Estádio 9",
+        "name_ar": "ملعب 9",
+        "capacity": 30000,
+        "city": "Brazil",
+        "city_ar": "البرازيل"
+      },
+      "nickname": "Team 9",
+      "nickname_ar": "فريق 9",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 6007,
+      "name": "Brazilian Team 10",
+      "name_ar": "فريق برازيلي 10",
+      "code": "BRA10",
+      "logo": "https://media.api-sports.io/football/teams/6007.png",
+      "founded": 1927,
+      "stadium": {
+        "name": "Estádio 10",
+        "name_ar": "ملعب 10",
+        "capacity": 30000,
+        "city": "Brazil",
+        "city_ar": "البرازيل"
+      },
+      "nickname": "Team 10",
+      "nickname_ar": "فريق 10",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 6008,
+      "name": "Brazilian Team 11",
+      "name_ar": "فريق برازيلي 11",
+      "code": "BRA11",
+      "logo": "https://media.api-sports.io/football/teams/6008.png",
+      "founded": 1928,
+      "stadium": {
+        "name": "Estádio 11",
+        "name_ar": "ملعب 11",
+        "capacity": 30000,
+        "city": "Brazil",
+        "city_ar": "البرازيل"
+      },
+      "nickname": "Team 11",
+      "nickname_ar": "فريق 11",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 6009,
+      "name": "Brazilian Team 12",
+      "name_ar": "فريق برازيلي 12",
+      "code": "BRA12",
+      "logo": "https://media.api-sports.io/football/teams/6009.png",
+      "founded": 1929,
+      "stadium": {
+        "name": "Estádio 12",
+        "name_ar": "ملعب 12",
+        "capacity": 30000,
+        "city": "Brazil",
+        "city_ar": "البرازيل"
+      },
+      "nickname": "Team 12",
+      "nickname_ar": "فريق 12",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 6010,
+      "name": "Brazilian Team 13",
+      "name_ar": "فريق برازيلي 13",
+      "code": "BRA13",
+      "logo": "https://media.api-sports.io/football/teams/6010.png",
+      "founded": 1930,
+      "stadium": {
+        "name": "Estádio 13",
+        "name_ar": "ملعب 13",
+        "capacity": 30000,
+        "city": "Brazil",
+        "city_ar": "البرازيل"
+      },
+      "nickname": "Team 13",
+      "nickname_ar": "فريق 13",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 6011,
+      "name": "Brazilian Team 14",
+      "name_ar": "فريق برازيلي 14",
+      "code": "BRA14",
+      "logo": "https://media.api-sports.io/football/teams/6011.png",
+      "founded": 1931,
+      "stadium": {
+        "name": "Estádio 14",
+        "name_ar": "ملعب 14",
+        "capacity": 30000,
+        "city": "Brazil",
+        "city_ar": "البرازيل"
+      },
+      "nickname": "Team 14",
+      "nickname_ar": "فريق 14",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 6012,
+      "name": "Brazilian Team 15",
+      "name_ar": "فريق برازيلي 15",
+      "code": "BRA15",
+      "logo": "https://media.api-sports.io/football/teams/6012.png",
+      "founded": 1932,
+      "stadium": {
+        "name": "Estádio 15",
+        "name_ar": "ملعب 15",
+        "capacity": 30000,
+        "city": "Brazil",
+        "city_ar": "البرازيل"
+      },
+      "nickname": "Team 15",
+      "nickname_ar": "فريق 15",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 6013,
+      "name": "Brazilian Team 16",
+      "name_ar": "فريق برازيلي 16",
+      "code": "BRA16",
+      "logo": "https://media.api-sports.io/football/teams/6013.png",
+      "founded": 1933,
+      "stadium": {
+        "name": "Estádio 16",
+        "name_ar": "ملعب 16",
+        "capacity": 30000,
+        "city": "Brazil",
+        "city_ar": "البرازيل"
+      },
+      "nickname": "Team 16",
+      "nickname_ar": "فريق 16",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 6014,
+      "name": "Brazilian Team 17",
+      "name_ar": "فريق برازيلي 17",
+      "code": "BRA17",
+      "logo": "https://media.api-sports.io/football/teams/6014.png",
+      "founded": 1934,
+      "stadium": {
+        "name": "Estádio 17",
+        "name_ar": "ملعب 17",
+        "capacity": 30000,
+        "city": "Brazil",
+        "city_ar": "البرازيل"
+      },
+      "nickname": "Team 17",
+      "nickname_ar": "فريق 17",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 6015,
+      "name": "Brazilian Team 18",
+      "name_ar": "فريق برازيلي 18",
+      "code": "BRA18",
+      "logo": "https://media.api-sports.io/football/teams/6015.png",
+      "founded": 1935,
+      "stadium": {
+        "name": "Estádio 18",
+        "name_ar": "ملعب 18",
+        "capacity": 30000,
+        "city": "Brazil",
+        "city_ar": "البرازيل"
+      },
+      "nickname": "Team 18",
+      "nickname_ar": "فريق 18",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 6016,
+      "name": "Brazilian Team 19",
+      "name_ar": "فريق برازيلي 19",
+      "code": "BRA19",
+      "logo": "https://media.api-sports.io/football/teams/6016.png",
+      "founded": 1936,
+      "stadium": {
+        "name": "Estádio 19",
+        "name_ar": "ملعب 19",
+        "capacity": 30000,
+        "city": "Brazil",
+        "city_ar": "البرازيل"
+      },
+      "nickname": "Team 19",
+      "nickname_ar": "فريق 19",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 6017,
+      "name": "Brazilian Team 20",
+      "name_ar": "فريق برازيلي 20",
+      "code": "BRA20",
+      "logo": "https://media.api-sports.io/football/teams/6017.png",
+      "founded": 1937,
+      "stadium": {
+        "name": "Estádio 20",
+        "name_ar": "ملعب 20",
+        "capacity": 30000,
+        "city": "Brazil",
+        "city_ar": "البرازيل"
+      },
+      "nickname": "Team 20",
+      "nickname_ar": "فريق 20",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    }
+  ],
+  "total_teams": 20,
+  "last_updated": "2025-12-15T23:37:25Z"
+}

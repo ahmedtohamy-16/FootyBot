@@ -1,0 +1,527 @@
+{
+  "league": {
+    "id": 1,
+    "name": "World Cup",
+    "name_ar": "كأس العالم",
+    "country": "World",
+    "country_ar": "العالم",
+    "logo": "https://media.api-sports.io/football/leagues/1.png",
+    "season": "2022"
+  },
+  "teams": [
+    {
+      "id": 26,
+      "name": "Argentina",
+      "name_ar": "الأرجنتين",
+      "code": "ARG",
+      "logo": "https://media.api-sports.io/football/teams/26.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 3,
+        "continental_cups": 15,
+        "total_titles": 3
+      }
+    },
+    {
+      "id": 6,
+      "name": "Brazil",
+      "name_ar": "البرازيل",
+      "code": "BRA",
+      "logo": "https://media.api-sports.io/football/teams/6.png",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Green"
+      },
+      "trophies": {
+        "world_cups": 5,
+        "continental_cups": 9,
+        "total_titles": 5
+      }
+    },
+    {
+      "id": 25,
+      "name": "Germany",
+      "name_ar": "ألمانيا",
+      "code": "GER",
+      "logo": "https://media.api-sports.io/football/teams/25.png",
+      "colors": {
+        "primary": "White",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "world_cups": 4,
+        "continental_cups": 3,
+        "total_titles": 4
+      }
+    },
+    {
+      "id": 2,
+      "name": "France",
+      "name_ar": "فرنسا",
+      "code": "FRA",
+      "logo": "https://media.api-sports.io/football/teams/2.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 2,
+        "continental_cups": 2,
+        "total_titles": 2
+      }
+    },
+    {
+      "id": 10,
+      "name": "England",
+      "name_ar": "إنجلترا",
+      "code": "ENG",
+      "logo": "https://media.api-sports.io/football/teams/10.png",
+      "colors": {
+        "primary": "White",
+        "secondary": "Navy"
+      },
+      "trophies": {
+        "world_cups": 1,
+        "continental_cups": 0,
+        "total_titles": 1
+      }
+    },
+    {
+      "id": 9,
+      "name": "Spain",
+      "name_ar": "إسبانيا",
+      "code": "ESP",
+      "logo": "https://media.api-sports.io/football/teams/9.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "world_cups": 1,
+        "continental_cups": 3,
+        "total_titles": 1
+      }
+    },
+    {
+      "id": 27,
+      "name": "Portugal",
+      "name_ar": "البرتغال",
+      "code": "POR",
+      "logo": "https://media.api-sports.io/football/teams/27.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Green"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 1,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 1118,
+      "name": "Netherlands",
+      "name_ar": "هولندا",
+      "code": "NED",
+      "logo": "https://media.api-sports.io/football/teams/1118.png",
+      "colors": {
+        "primary": "Orange",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 1,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20000,
+      "name": "WC Team 9",
+      "name_ar": "منتخب كأس العالم 9",
+      "code": "WC9",
+      "logo": "https://media.api-sports.io/football/teams/20000.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20001,
+      "name": "WC Team 10",
+      "name_ar": "منتخب كأس العالم 10",
+      "code": "WC10",
+      "logo": "https://media.api-sports.io/football/teams/20001.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20002,
+      "name": "WC Team 11",
+      "name_ar": "منتخب كأس العالم 11",
+      "code": "WC11",
+      "logo": "https://media.api-sports.io/football/teams/20002.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20003,
+      "name": "WC Team 12",
+      "name_ar": "منتخب كأس العالم 12",
+      "code": "WC12",
+      "logo": "https://media.api-sports.io/football/teams/20003.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20004,
+      "name": "WC Team 13",
+      "name_ar": "منتخب كأس العالم 13",
+      "code": "WC13",
+      "logo": "https://media.api-sports.io/football/teams/20004.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20005,
+      "name": "WC Team 14",
+      "name_ar": "منتخب كأس العالم 14",
+      "code": "WC14",
+      "logo": "https://media.api-sports.io/football/teams/20005.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20006,
+      "name": "WC Team 15",
+      "name_ar": "منتخب كأس العالم 15",
+      "code": "WC15",
+      "logo": "https://media.api-sports.io/football/teams/20006.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20007,
+      "name": "WC Team 16",
+      "name_ar": "منتخب كأس العالم 16",
+      "code": "WC16",
+      "logo": "https://media.api-sports.io/football/teams/20007.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20008,
+      "name": "WC Team 17",
+      "name_ar": "منتخب كأس العالم 17",
+      "code": "WC17",
+      "logo": "https://media.api-sports.io/football/teams/20008.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20009,
+      "name": "WC Team 18",
+      "name_ar": "منتخب كأس العالم 18",
+      "code": "WC18",
+      "logo": "https://media.api-sports.io/football/teams/20009.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20010,
+      "name": "WC Team 19",
+      "name_ar": "منتخب كأس العالم 19",
+      "code": "WC19",
+      "logo": "https://media.api-sports.io/football/teams/20010.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20011,
+      "name": "WC Team 20",
+      "name_ar": "منتخب كأس العالم 20",
+      "code": "WC20",
+      "logo": "https://media.api-sports.io/football/teams/20011.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20012,
+      "name": "WC Team 21",
+      "name_ar": "منتخب كأس العالم 21",
+      "code": "WC21",
+      "logo": "https://media.api-sports.io/football/teams/20012.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20013,
+      "name": "WC Team 22",
+      "name_ar": "منتخب كأس العالم 22",
+      "code": "WC22",
+      "logo": "https://media.api-sports.io/football/teams/20013.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20014,
+      "name": "WC Team 23",
+      "name_ar": "منتخب كأس العالم 23",
+      "code": "WC23",
+      "logo": "https://media.api-sports.io/football/teams/20014.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20015,
+      "name": "WC Team 24",
+      "name_ar": "منتخب كأس العالم 24",
+      "code": "WC24",
+      "logo": "https://media.api-sports.io/football/teams/20015.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20016,
+      "name": "WC Team 25",
+      "name_ar": "منتخب كأس العالم 25",
+      "code": "WC25",
+      "logo": "https://media.api-sports.io/football/teams/20016.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20017,
+      "name": "WC Team 26",
+      "name_ar": "منتخب كأس العالم 26",
+      "code": "WC26",
+      "logo": "https://media.api-sports.io/football/teams/20017.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20018,
+      "name": "WC Team 27",
+      "name_ar": "منتخب كأس العالم 27",
+      "code": "WC27",
+      "logo": "https://media.api-sports.io/football/teams/20018.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20019,
+      "name": "WC Team 28",
+      "name_ar": "منتخب كأس العالم 28",
+      "code": "WC28",
+      "logo": "https://media.api-sports.io/football/teams/20019.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20020,
+      "name": "WC Team 29",
+      "name_ar": "منتخب كأس العالم 29",
+      "code": "WC29",
+      "logo": "https://media.api-sports.io/football/teams/20020.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20021,
+      "name": "WC Team 30",
+      "name_ar": "منتخب كأس العالم 30",
+      "code": "WC30",
+      "logo": "https://media.api-sports.io/football/teams/20021.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20022,
+      "name": "WC Team 31",
+      "name_ar": "منتخب كأس العالم 31",
+      "code": "WC31",
+      "logo": "https://media.api-sports.io/football/teams/20022.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 20023,
+      "name": "WC Team 32",
+      "name_ar": "منتخب كأس العالم 32",
+      "code": "WC32",
+      "logo": "https://media.api-sports.io/football/teams/20023.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    }
+  ],
+  "total_teams": 32,
+  "last_updated": "2025-12-15T23:38:29Z"
+}

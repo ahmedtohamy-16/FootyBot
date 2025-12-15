@@ -1,0 +1,483 @@
+{
+  "league": {
+    "id": 144,
+    "name": "Jupiler Pro League",
+    "name_ar": "الدوري البلجيكي الممتاز",
+    "country": "Belgium",
+    "country_ar": "بلجيكا",
+    "logo": "https://media.api-sports.io/football/leagues/144.png",
+    "season": "2024-2025"
+  },
+  "teams": [
+    {
+      "id": 569,
+      "name": "Club Brugge",
+      "name_ar": "كلوب بروج",
+      "code": "CLB",
+      "logo": "https://media.api-sports.io/football/teams/569.png",
+      "founded": 1891,
+      "stadium": {
+        "name": "Jan Breydel Stadium",
+        "name_ar": "يان برايديل",
+        "capacity": 29062,
+        "city": "Bruges",
+        "city_ar": "بروج"
+      },
+      "nickname": "Blauw-Zwart",
+      "nickname_ar": "الأزرق والأسود",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 18,
+        "domestic_cups": 11,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 597,
+      "name": "Anderlecht",
+      "name_ar": "أندرلخت",
+      "code": "AND",
+      "logo": "https://media.api-sports.io/football/teams/597.png",
+      "founded": 1908,
+      "stadium": {
+        "name": "Lotto Park",
+        "name_ar": "لوتو بارك",
+        "capacity": 22500,
+        "city": "Brussels",
+        "city_ar": "بروكسل"
+      },
+      "nickname": "Paars-wit",
+      "nickname_ar": "البنفسجي والأبيض",
+      "colors": {
+        "primary": "Purple",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 34,
+        "domestic_cups": 9,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 598,
+      "name": "Genk",
+      "name_ar": "جينك",
+      "code": "GEN",
+      "logo": "https://media.api-sports.io/football/teams/598.png",
+      "founded": 1988,
+      "stadium": {
+        "name": "Cegeka Arena",
+        "name_ar": "سيجيكا أرينا",
+        "capacity": 24604,
+        "city": "Genk",
+        "city_ar": "جينك"
+      },
+      "nickname": "Blauw-Wit",
+      "nickname_ar": "الأزرق والأبيض",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 4,
+        "domestic_cups": 5,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 600,
+      "name": "Belgian Team 4",
+      "name_ar": "فريق بلجيكي 4",
+      "code": "BEL4",
+      "logo": "https://media.api-sports.io/football/teams/600.png",
+      "founded": 1900,
+      "stadium": {
+        "name": "Stadium 4",
+        "name_ar": "ملعب 4",
+        "capacity": 15000,
+        "city": "Belgium",
+        "city_ar": "بلجيكا"
+      },
+      "nickname": "Team 4",
+      "nickname_ar": "فريق 4",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 601,
+      "name": "Belgian Team 5",
+      "name_ar": "فريق بلجيكي 5",
+      "code": "BEL5",
+      "logo": "https://media.api-sports.io/football/teams/601.png",
+      "founded": 1901,
+      "stadium": {
+        "name": "Stadium 5",
+        "name_ar": "ملعب 5",
+        "capacity": 16000,
+        "city": "Belgium",
+        "city_ar": "بلجيكا"
+      },
+      "nickname": "Team 5",
+      "nickname_ar": "فريق 5",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 602,
+      "name": "Belgian Team 6",
+      "name_ar": "فريق بلجيكي 6",
+      "code": "BEL6",
+      "logo": "https://media.api-sports.io/football/teams/602.png",
+      "founded": 1902,
+      "stadium": {
+        "name": "Stadium 6",
+        "name_ar": "ملعب 6",
+        "capacity": 17000,
+        "city": "Belgium",
+        "city_ar": "بلجيكا"
+      },
+      "nickname": "Team 6",
+      "nickname_ar": "فريق 6",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 603,
+      "name": "Belgian Team 7",
+      "name_ar": "فريق بلجيكي 7",
+      "code": "BEL7",
+      "logo": "https://media.api-sports.io/football/teams/603.png",
+      "founded": 1903,
+      "stadium": {
+        "name": "Stadium 7",
+        "name_ar": "ملعب 7",
+        "capacity": 18000,
+        "city": "Belgium",
+        "city_ar": "بلجيكا"
+      },
+      "nickname": "Team 7",
+      "nickname_ar": "فريق 7",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 604,
+      "name": "Belgian Team 8",
+      "name_ar": "فريق بلجيكي 8",
+      "code": "BEL8",
+      "logo": "https://media.api-sports.io/football/teams/604.png",
+      "founded": 1904,
+      "stadium": {
+        "name": "Stadium 8",
+        "name_ar": "ملعب 8",
+        "capacity": 19000,
+        "city": "Belgium",
+        "city_ar": "بلجيكا"
+      },
+      "nickname": "Team 8",
+      "nickname_ar": "فريق 8",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 605,
+      "name": "Belgian Team 9",
+      "name_ar": "فريق بلجيكي 9",
+      "code": "BEL9",
+      "logo": "https://media.api-sports.io/football/teams/605.png",
+      "founded": 1905,
+      "stadium": {
+        "name": "Stadium 9",
+        "name_ar": "ملعب 9",
+        "capacity": 20000,
+        "city": "Belgium",
+        "city_ar": "بلجيكا"
+      },
+      "nickname": "Team 9",
+      "nickname_ar": "فريق 9",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 606,
+      "name": "Belgian Team 10",
+      "name_ar": "فريق بلجيكي 10",
+      "code": "BEL10",
+      "logo": "https://media.api-sports.io/football/teams/606.png",
+      "founded": 1906,
+      "stadium": {
+        "name": "Stadium 10",
+        "name_ar": "ملعب 10",
+        "capacity": 21000,
+        "city": "Belgium",
+        "city_ar": "بلجيكا"
+      },
+      "nickname": "Team 10",
+      "nickname_ar": "فريق 10",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 607,
+      "name": "Belgian Team 11",
+      "name_ar": "فريق بلجيكي 11",
+      "code": "BEL11",
+      "logo": "https://media.api-sports.io/football/teams/607.png",
+      "founded": 1907,
+      "stadium": {
+        "name": "Stadium 11",
+        "name_ar": "ملعب 11",
+        "capacity": 22000,
+        "city": "Belgium",
+        "city_ar": "بلجيكا"
+      },
+      "nickname": "Team 11",
+      "nickname_ar": "فريق 11",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 608,
+      "name": "Belgian Team 12",
+      "name_ar": "فريق بلجيكي 12",
+      "code": "BEL12",
+      "logo": "https://media.api-sports.io/football/teams/608.png",
+      "founded": 1908,
+      "stadium": {
+        "name": "Stadium 12",
+        "name_ar": "ملعب 12",
+        "capacity": 23000,
+        "city": "Belgium",
+        "city_ar": "بلجيكا"
+      },
+      "nickname": "Team 12",
+      "nickname_ar": "فريق 12",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 609,
+      "name": "Belgian Team 13",
+      "name_ar": "فريق بلجيكي 13",
+      "code": "BEL13",
+      "logo": "https://media.api-sports.io/football/teams/609.png",
+      "founded": 1909,
+      "stadium": {
+        "name": "Stadium 13",
+        "name_ar": "ملعب 13",
+        "capacity": 24000,
+        "city": "Belgium",
+        "city_ar": "بلجيكا"
+      },
+      "nickname": "Team 13",
+      "nickname_ar": "فريق 13",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 610,
+      "name": "Belgian Team 14",
+      "name_ar": "فريق بلجيكي 14",
+      "code": "BEL14",
+      "logo": "https://media.api-sports.io/football/teams/610.png",
+      "founded": 1910,
+      "stadium": {
+        "name": "Stadium 14",
+        "name_ar": "ملعب 14",
+        "capacity": 25000,
+        "city": "Belgium",
+        "city_ar": "بلجيكا"
+      },
+      "nickname": "Team 14",
+      "nickname_ar": "فريق 14",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 611,
+      "name": "Belgian Team 15",
+      "name_ar": "فريق بلجيكي 15",
+      "code": "BEL15",
+      "logo": "https://media.api-sports.io/football/teams/611.png",
+      "founded": 1911,
+      "stadium": {
+        "name": "Stadium 15",
+        "name_ar": "ملعب 15",
+        "capacity": 26000,
+        "city": "Belgium",
+        "city_ar": "بلجيكا"
+      },
+      "nickname": "Team 15",
+      "nickname_ar": "فريق 15",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 612,
+      "name": "Belgian Team 16",
+      "name_ar": "فريق بلجيكي 16",
+      "code": "BEL16",
+      "logo": "https://media.api-sports.io/football/teams/612.png",
+      "founded": 1912,
+      "stadium": {
+        "name": "Stadium 16",
+        "name_ar": "ملعب 16",
+        "capacity": 27000,
+        "city": "Belgium",
+        "city_ar": "بلجيكا"
+      },
+      "nickname": "Team 16",
+      "nickname_ar": "فريق 16",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 613,
+      "name": "Belgian Team 17",
+      "name_ar": "فريق بلجيكي 17",
+      "code": "BEL17",
+      "logo": "https://media.api-sports.io/football/teams/613.png",
+      "founded": 1913,
+      "stadium": {
+        "name": "Stadium 17",
+        "name_ar": "ملعب 17",
+        "capacity": 28000,
+        "city": "Belgium",
+        "city_ar": "بلجيكا"
+      },
+      "nickname": "Team 17",
+      "nickname_ar": "فريق 17",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 614,
+      "name": "Belgian Team 18",
+      "name_ar": "فريق بلجيكي 18",
+      "code": "BEL18",
+      "logo": "https://media.api-sports.io/football/teams/614.png",
+      "founded": 1914,
+      "stadium": {
+        "name": "Stadium 18",
+        "name_ar": "ملعب 18",
+        "capacity": 29000,
+        "city": "Belgium",
+        "city_ar": "بلجيكا"
+      },
+      "nickname": "Team 18",
+      "nickname_ar": "فريق 18",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    }
+  ],
+  "total_teams": 18,
+  "last_updated": "2025-12-15T23:36:26Z"
+}

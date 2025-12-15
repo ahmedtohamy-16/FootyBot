@@ -1,0 +1,535 @@
+{
+  "league": {
+    "id": 136,
+    "name": "Serie B",
+    "name_ar": "الدوري الإيطالي الدرجة الثانية",
+    "country": "Italy",
+    "country_ar": "إيطاليا",
+    "logo": "https://media.api-sports.io/football/leagues/136.png",
+    "season": "2024-2025"
+  },
+  "teams": [
+    {
+      "id": 3000,
+      "name": "Serie B Team 1",
+      "name_ar": "فريق سيريي بي 1",
+      "code": "SRB1",
+      "logo": "https://media.api-sports.io/football/teams/3000.png",
+      "founded": 1920,
+      "stadium": {
+        "name": "Stadio 1",
+        "name_ar": "ملعب 1",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 1",
+      "nickname_ar": "فريق 1",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3001,
+      "name": "Serie B Team 2",
+      "name_ar": "فريق سيريي بي 2",
+      "code": "SRB2",
+      "logo": "https://media.api-sports.io/football/teams/3001.png",
+      "founded": 1921,
+      "stadium": {
+        "name": "Stadio 2",
+        "name_ar": "ملعب 2",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 2",
+      "nickname_ar": "فريق 2",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3002,
+      "name": "Serie B Team 3",
+      "name_ar": "فريق سيريي بي 3",
+      "code": "SRB3",
+      "logo": "https://media.api-sports.io/football/teams/3002.png",
+      "founded": 1922,
+      "stadium": {
+        "name": "Stadio 3",
+        "name_ar": "ملعب 3",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 3",
+      "nickname_ar": "فريق 3",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3003,
+      "name": "Serie B Team 4",
+      "name_ar": "فريق سيريي بي 4",
+      "code": "SRB4",
+      "logo": "https://media.api-sports.io/football/teams/3003.png",
+      "founded": 1923,
+      "stadium": {
+        "name": "Stadio 4",
+        "name_ar": "ملعب 4",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 4",
+      "nickname_ar": "فريق 4",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3004,
+      "name": "Serie B Team 5",
+      "name_ar": "فريق سيريي بي 5",
+      "code": "SRB5",
+      "logo": "https://media.api-sports.io/football/teams/3004.png",
+      "founded": 1924,
+      "stadium": {
+        "name": "Stadio 5",
+        "name_ar": "ملعب 5",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 5",
+      "nickname_ar": "فريق 5",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3005,
+      "name": "Serie B Team 6",
+      "name_ar": "فريق سيريي بي 6",
+      "code": "SRB6",
+      "logo": "https://media.api-sports.io/football/teams/3005.png",
+      "founded": 1925,
+      "stadium": {
+        "name": "Stadio 6",
+        "name_ar": "ملعب 6",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 6",
+      "nickname_ar": "فريق 6",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3006,
+      "name": "Serie B Team 7",
+      "name_ar": "فريق سيريي بي 7",
+      "code": "SRB7",
+      "logo": "https://media.api-sports.io/football/teams/3006.png",
+      "founded": 1926,
+      "stadium": {
+        "name": "Stadio 7",
+        "name_ar": "ملعب 7",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 7",
+      "nickname_ar": "فريق 7",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3007,
+      "name": "Serie B Team 8",
+      "name_ar": "فريق سيريي بي 8",
+      "code": "SRB8",
+      "logo": "https://media.api-sports.io/football/teams/3007.png",
+      "founded": 1927,
+      "stadium": {
+        "name": "Stadio 8",
+        "name_ar": "ملعب 8",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 8",
+      "nickname_ar": "فريق 8",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3008,
+      "name": "Serie B Team 9",
+      "name_ar": "فريق سيريي بي 9",
+      "code": "SRB9",
+      "logo": "https://media.api-sports.io/football/teams/3008.png",
+      "founded": 1928,
+      "stadium": {
+        "name": "Stadio 9",
+        "name_ar": "ملعب 9",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 9",
+      "nickname_ar": "فريق 9",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3009,
+      "name": "Serie B Team 10",
+      "name_ar": "فريق سيريي بي 10",
+      "code": "SRB10",
+      "logo": "https://media.api-sports.io/football/teams/3009.png",
+      "founded": 1929,
+      "stadium": {
+        "name": "Stadio 10",
+        "name_ar": "ملعب 10",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 10",
+      "nickname_ar": "فريق 10",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3010,
+      "name": "Serie B Team 11",
+      "name_ar": "فريق سيريي بي 11",
+      "code": "SRB11",
+      "logo": "https://media.api-sports.io/football/teams/3010.png",
+      "founded": 1930,
+      "stadium": {
+        "name": "Stadio 11",
+        "name_ar": "ملعب 11",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 11",
+      "nickname_ar": "فريق 11",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3011,
+      "name": "Serie B Team 12",
+      "name_ar": "فريق سيريي بي 12",
+      "code": "SRB12",
+      "logo": "https://media.api-sports.io/football/teams/3011.png",
+      "founded": 1931,
+      "stadium": {
+        "name": "Stadio 12",
+        "name_ar": "ملعب 12",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 12",
+      "nickname_ar": "فريق 12",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3012,
+      "name": "Serie B Team 13",
+      "name_ar": "فريق سيريي بي 13",
+      "code": "SRB13",
+      "logo": "https://media.api-sports.io/football/teams/3012.png",
+      "founded": 1932,
+      "stadium": {
+        "name": "Stadio 13",
+        "name_ar": "ملعب 13",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 13",
+      "nickname_ar": "فريق 13",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3013,
+      "name": "Serie B Team 14",
+      "name_ar": "فريق سيريي بي 14",
+      "code": "SRB14",
+      "logo": "https://media.api-sports.io/football/teams/3013.png",
+      "founded": 1933,
+      "stadium": {
+        "name": "Stadio 14",
+        "name_ar": "ملعب 14",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 14",
+      "nickname_ar": "فريق 14",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3014,
+      "name": "Serie B Team 15",
+      "name_ar": "فريق سيريي بي 15",
+      "code": "SRB15",
+      "logo": "https://media.api-sports.io/football/teams/3014.png",
+      "founded": 1934,
+      "stadium": {
+        "name": "Stadio 15",
+        "name_ar": "ملعب 15",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 15",
+      "nickname_ar": "فريق 15",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3015,
+      "name": "Serie B Team 16",
+      "name_ar": "فريق سيريي بي 16",
+      "code": "SRB16",
+      "logo": "https://media.api-sports.io/football/teams/3015.png",
+      "founded": 1935,
+      "stadium": {
+        "name": "Stadio 16",
+        "name_ar": "ملعب 16",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 16",
+      "nickname_ar": "فريق 16",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3016,
+      "name": "Serie B Team 17",
+      "name_ar": "فريق سيريي بي 17",
+      "code": "SRB17",
+      "logo": "https://media.api-sports.io/football/teams/3016.png",
+      "founded": 1936,
+      "stadium": {
+        "name": "Stadio 17",
+        "name_ar": "ملعب 17",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 17",
+      "nickname_ar": "فريق 17",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3017,
+      "name": "Serie B Team 18",
+      "name_ar": "فريق سيريي بي 18",
+      "code": "SRB18",
+      "logo": "https://media.api-sports.io/football/teams/3017.png",
+      "founded": 1937,
+      "stadium": {
+        "name": "Stadio 18",
+        "name_ar": "ملعب 18",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 18",
+      "nickname_ar": "فريق 18",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3018,
+      "name": "Serie B Team 19",
+      "name_ar": "فريق سيريي بي 19",
+      "code": "SRB19",
+      "logo": "https://media.api-sports.io/football/teams/3018.png",
+      "founded": 1938,
+      "stadium": {
+        "name": "Stadio 19",
+        "name_ar": "ملعب 19",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 19",
+      "nickname_ar": "فريق 19",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3019,
+      "name": "Serie B Team 20",
+      "name_ar": "فريق سيريي بي 20",
+      "code": "SRB20",
+      "logo": "https://media.api-sports.io/football/teams/3019.png",
+      "founded": 1939,
+      "stadium": {
+        "name": "Stadio 20",
+        "name_ar": "ملعب 20",
+        "capacity": 15000,
+        "city": "Italy",
+        "city_ar": "إيطاليا"
+      },
+      "nickname": "Team 20",
+      "nickname_ar": "فريق 20",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    }
+  ],
+  "total_teams": 20,
+  "last_updated": "2025-12-15T23:37:25Z"
+}

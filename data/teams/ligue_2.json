@@ -1,0 +1,535 @@
+{
+  "league": {
+    "id": 62,
+    "name": "Ligue 2",
+    "name_ar": "الدوري الفرنسي الدرجة الثانية",
+    "country": "France",
+    "country_ar": "فرنسا",
+    "logo": "https://media.api-sports.io/football/leagues/62.png",
+    "season": "2024-2025"
+  },
+  "teams": [
+    {
+      "id": 4000,
+      "name": "Ligue 2 Team 1",
+      "name_ar": "فريق ليغ 2 1",
+      "code": "L2T1",
+      "logo": "https://media.api-sports.io/football/teams/4000.png",
+      "founded": 1920,
+      "stadium": {
+        "name": "Stade 1",
+        "name_ar": "ملعب 1",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 1",
+      "nickname_ar": "فريق 1",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 4001,
+      "name": "Ligue 2 Team 2",
+      "name_ar": "فريق ليغ 2 2",
+      "code": "L2T2",
+      "logo": "https://media.api-sports.io/football/teams/4001.png",
+      "founded": 1921,
+      "stadium": {
+        "name": "Stade 2",
+        "name_ar": "ملعب 2",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 2",
+      "nickname_ar": "فريق 2",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 4002,
+      "name": "Ligue 2 Team 3",
+      "name_ar": "فريق ليغ 2 3",
+      "code": "L2T3",
+      "logo": "https://media.api-sports.io/football/teams/4002.png",
+      "founded": 1922,
+      "stadium": {
+        "name": "Stade 3",
+        "name_ar": "ملعب 3",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 3",
+      "nickname_ar": "فريق 3",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 4003,
+      "name": "Ligue 2 Team 4",
+      "name_ar": "فريق ليغ 2 4",
+      "code": "L2T4",
+      "logo": "https://media.api-sports.io/football/teams/4003.png",
+      "founded": 1923,
+      "stadium": {
+        "name": "Stade 4",
+        "name_ar": "ملعب 4",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 4",
+      "nickname_ar": "فريق 4",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 4004,
+      "name": "Ligue 2 Team 5",
+      "name_ar": "فريق ليغ 2 5",
+      "code": "L2T5",
+      "logo": "https://media.api-sports.io/football/teams/4004.png",
+      "founded": 1924,
+      "stadium": {
+        "name": "Stade 5",
+        "name_ar": "ملعب 5",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 5",
+      "nickname_ar": "فريق 5",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 4005,
+      "name": "Ligue 2 Team 6",
+      "name_ar": "فريق ليغ 2 6",
+      "code": "L2T6",
+      "logo": "https://media.api-sports.io/football/teams/4005.png",
+      "founded": 1925,
+      "stadium": {
+        "name": "Stade 6",
+        "name_ar": "ملعب 6",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 6",
+      "nickname_ar": "فريق 6",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 4006,
+      "name": "Ligue 2 Team 7",
+      "name_ar": "فريق ليغ 2 7",
+      "code": "L2T7",
+      "logo": "https://media.api-sports.io/football/teams/4006.png",
+      "founded": 1926,
+      "stadium": {
+        "name": "Stade 7",
+        "name_ar": "ملعب 7",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 7",
+      "nickname_ar": "فريق 7",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 4007,
+      "name": "Ligue 2 Team 8",
+      "name_ar": "فريق ليغ 2 8",
+      "code": "L2T8",
+      "logo": "https://media.api-sports.io/football/teams/4007.png",
+      "founded": 1927,
+      "stadium": {
+        "name": "Stade 8",
+        "name_ar": "ملعب 8",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 8",
+      "nickname_ar": "فريق 8",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 4008,
+      "name": "Ligue 2 Team 9",
+      "name_ar": "فريق ليغ 2 9",
+      "code": "L2T9",
+      "logo": "https://media.api-sports.io/football/teams/4008.png",
+      "founded": 1928,
+      "stadium": {
+        "name": "Stade 9",
+        "name_ar": "ملعب 9",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 9",
+      "nickname_ar": "فريق 9",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 4009,
+      "name": "Ligue 2 Team 10",
+      "name_ar": "فريق ليغ 2 10",
+      "code": "L2T10",
+      "logo": "https://media.api-sports.io/football/teams/4009.png",
+      "founded": 1929,
+      "stadium": {
+        "name": "Stade 10",
+        "name_ar": "ملعب 10",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 10",
+      "nickname_ar": "فريق 10",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 4010,
+      "name": "Ligue 2 Team 11",
+      "name_ar": "فريق ليغ 2 11",
+      "code": "L2T11",
+      "logo": "https://media.api-sports.io/football/teams/4010.png",
+      "founded": 1930,
+      "stadium": {
+        "name": "Stade 11",
+        "name_ar": "ملعب 11",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 11",
+      "nickname_ar": "فريق 11",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 4011,
+      "name": "Ligue 2 Team 12",
+      "name_ar": "فريق ليغ 2 12",
+      "code": "L2T12",
+      "logo": "https://media.api-sports.io/football/teams/4011.png",
+      "founded": 1931,
+      "stadium": {
+        "name": "Stade 12",
+        "name_ar": "ملعب 12",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 12",
+      "nickname_ar": "فريق 12",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 4012,
+      "name": "Ligue 2 Team 13",
+      "name_ar": "فريق ليغ 2 13",
+      "code": "L2T13",
+      "logo": "https://media.api-sports.io/football/teams/4012.png",
+      "founded": 1932,
+      "stadium": {
+        "name": "Stade 13",
+        "name_ar": "ملعب 13",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 13",
+      "nickname_ar": "فريق 13",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 4013,
+      "name": "Ligue 2 Team 14",
+      "name_ar": "فريق ليغ 2 14",
+      "code": "L2T14",
+      "logo": "https://media.api-sports.io/football/teams/4013.png",
+      "founded": 1933,
+      "stadium": {
+        "name": "Stade 14",
+        "name_ar": "ملعب 14",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 14",
+      "nickname_ar": "فريق 14",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 4014,
+      "name": "Ligue 2 Team 15",
+      "name_ar": "فريق ليغ 2 15",
+      "code": "L2T15",
+      "logo": "https://media.api-sports.io/football/teams/4014.png",
+      "founded": 1934,
+      "stadium": {
+        "name": "Stade 15",
+        "name_ar": "ملعب 15",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 15",
+      "nickname_ar": "فريق 15",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 4015,
+      "name": "Ligue 2 Team 16",
+      "name_ar": "فريق ليغ 2 16",
+      "code": "L2T16",
+      "logo": "https://media.api-sports.io/football/teams/4015.png",
+      "founded": 1935,
+      "stadium": {
+        "name": "Stade 16",
+        "name_ar": "ملعب 16",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 16",
+      "nickname_ar": "فريق 16",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 4016,
+      "name": "Ligue 2 Team 17",
+      "name_ar": "فريق ليغ 2 17",
+      "code": "L2T17",
+      "logo": "https://media.api-sports.io/football/teams/4016.png",
+      "founded": 1936,
+      "stadium": {
+        "name": "Stade 17",
+        "name_ar": "ملعب 17",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 17",
+      "nickname_ar": "فريق 17",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 4017,
+      "name": "Ligue 2 Team 18",
+      "name_ar": "فريق ليغ 2 18",
+      "code": "L2T18",
+      "logo": "https://media.api-sports.io/football/teams/4017.png",
+      "founded": 1937,
+      "stadium": {
+        "name": "Stade 18",
+        "name_ar": "ملعب 18",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 18",
+      "nickname_ar": "فريق 18",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 4018,
+      "name": "Ligue 2 Team 19",
+      "name_ar": "فريق ليغ 2 19",
+      "code": "L2T19",
+      "logo": "https://media.api-sports.io/football/teams/4018.png",
+      "founded": 1938,
+      "stadium": {
+        "name": "Stade 19",
+        "name_ar": "ملعب 19",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 19",
+      "nickname_ar": "فريق 19",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 4019,
+      "name": "Ligue 2 Team 20",
+      "name_ar": "فريق ليغ 2 20",
+      "code": "L2T20",
+      "logo": "https://media.api-sports.io/football/teams/4019.png",
+      "founded": 1939,
+      "stadium": {
+        "name": "Stade 20",
+        "name_ar": "ملعب 20",
+        "capacity": 15000,
+        "city": "France",
+        "city_ar": "فرنسا"
+      },
+      "nickname": "Team 20",
+      "nickname_ar": "فريق 20",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    }
+  ],
+  "total_teams": 20,
+  "last_updated": "2025-12-15T23:37:25Z"
+}

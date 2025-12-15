@@ -1,0 +1,483 @@
+{
+  "league": {
+    "id": 98,
+    "name": "J1 League",
+    "name_ar": "الدوري الياباني",
+    "country": "Japan",
+    "country_ar": "اليابان",
+    "logo": "https://media.api-sports.io/football/leagues/98.png",
+    "season": "2024"
+  },
+  "teams": [
+    {
+      "id": 9000,
+      "name": "Japanese Team 1",
+      "name_ar": "فريق ياباني 1",
+      "code": "JPN1",
+      "logo": "https://media.api-sports.io/football/teams/9000.png",
+      "founded": 1920,
+      "stadium": {
+        "name": "Stadium 1",
+        "name_ar": "ملعب 1",
+        "capacity": 25000,
+        "city": "Japan",
+        "city_ar": "اليابان"
+      },
+      "nickname": "Team 1",
+      "nickname_ar": "فريق 1",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 9001,
+      "name": "Japanese Team 2",
+      "name_ar": "فريق ياباني 2",
+      "code": "JPN2",
+      "logo": "https://media.api-sports.io/football/teams/9001.png",
+      "founded": 1921,
+      "stadium": {
+        "name": "Stadium 2",
+        "name_ar": "ملعب 2",
+        "capacity": 25000,
+        "city": "Japan",
+        "city_ar": "اليابان"
+      },
+      "nickname": "Team 2",
+      "nickname_ar": "فريق 2",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 9002,
+      "name": "Japanese Team 3",
+      "name_ar": "فريق ياباني 3",
+      "code": "JPN3",
+      "logo": "https://media.api-sports.io/football/teams/9002.png",
+      "founded": 1922,
+      "stadium": {
+        "name": "Stadium 3",
+        "name_ar": "ملعب 3",
+        "capacity": 25000,
+        "city": "Japan",
+        "city_ar": "اليابان"
+      },
+      "nickname": "Team 3",
+      "nickname_ar": "فريق 3",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 9003,
+      "name": "Japanese Team 4",
+      "name_ar": "فريق ياباني 4",
+      "code": "JPN4",
+      "logo": "https://media.api-sports.io/football/teams/9003.png",
+      "founded": 1923,
+      "stadium": {
+        "name": "Stadium 4",
+        "name_ar": "ملعب 4",
+        "capacity": 25000,
+        "city": "Japan",
+        "city_ar": "اليابان"
+      },
+      "nickname": "Team 4",
+      "nickname_ar": "فريق 4",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 9004,
+      "name": "Japanese Team 5",
+      "name_ar": "فريق ياباني 5",
+      "code": "JPN5",
+      "logo": "https://media.api-sports.io/football/teams/9004.png",
+      "founded": 1924,
+      "stadium": {
+        "name": "Stadium 5",
+        "name_ar": "ملعب 5",
+        "capacity": 25000,
+        "city": "Japan",
+        "city_ar": "اليابان"
+      },
+      "nickname": "Team 5",
+      "nickname_ar": "فريق 5",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 9005,
+      "name": "Japanese Team 6",
+      "name_ar": "فريق ياباني 6",
+      "code": "JPN6",
+      "logo": "https://media.api-sports.io/football/teams/9005.png",
+      "founded": 1925,
+      "stadium": {
+        "name": "Stadium 6",
+        "name_ar": "ملعب 6",
+        "capacity": 25000,
+        "city": "Japan",
+        "city_ar": "اليابان"
+      },
+      "nickname": "Team 6",
+      "nickname_ar": "فريق 6",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 9006,
+      "name": "Japanese Team 7",
+      "name_ar": "فريق ياباني 7",
+      "code": "JPN7",
+      "logo": "https://media.api-sports.io/football/teams/9006.png",
+      "founded": 1926,
+      "stadium": {
+        "name": "Stadium 7",
+        "name_ar": "ملعب 7",
+        "capacity": 25000,
+        "city": "Japan",
+        "city_ar": "اليابان"
+      },
+      "nickname": "Team 7",
+      "nickname_ar": "فريق 7",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 9007,
+      "name": "Japanese Team 8",
+      "name_ar": "فريق ياباني 8",
+      "code": "JPN8",
+      "logo": "https://media.api-sports.io/football/teams/9007.png",
+      "founded": 1927,
+      "stadium": {
+        "name": "Stadium 8",
+        "name_ar": "ملعب 8",
+        "capacity": 25000,
+        "city": "Japan",
+        "city_ar": "اليابان"
+      },
+      "nickname": "Team 8",
+      "nickname_ar": "فريق 8",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 9008,
+      "name": "Japanese Team 9",
+      "name_ar": "فريق ياباني 9",
+      "code": "JPN9",
+      "logo": "https://media.api-sports.io/football/teams/9008.png",
+      "founded": 1928,
+      "stadium": {
+        "name": "Stadium 9",
+        "name_ar": "ملعب 9",
+        "capacity": 25000,
+        "city": "Japan",
+        "city_ar": "اليابان"
+      },
+      "nickname": "Team 9",
+      "nickname_ar": "فريق 9",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 9009,
+      "name": "Japanese Team 10",
+      "name_ar": "فريق ياباني 10",
+      "code": "JPN10",
+      "logo": "https://media.api-sports.io/football/teams/9009.png",
+      "founded": 1929,
+      "stadium": {
+        "name": "Stadium 10",
+        "name_ar": "ملعب 10",
+        "capacity": 25000,
+        "city": "Japan",
+        "city_ar": "اليابان"
+      },
+      "nickname": "Team 10",
+      "nickname_ar": "فريق 10",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 9010,
+      "name": "Japanese Team 11",
+      "name_ar": "فريق ياباني 11",
+      "code": "JPN11",
+      "logo": "https://media.api-sports.io/football/teams/9010.png",
+      "founded": 1930,
+      "stadium": {
+        "name": "Stadium 11",
+        "name_ar": "ملعب 11",
+        "capacity": 25000,
+        "city": "Japan",
+        "city_ar": "اليابان"
+      },
+      "nickname": "Team 11",
+      "nickname_ar": "فريق 11",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 9011,
+      "name": "Japanese Team 12",
+      "name_ar": "فريق ياباني 12",
+      "code": "JPN12",
+      "logo": "https://media.api-sports.io/football/teams/9011.png",
+      "founded": 1931,
+      "stadium": {
+        "name": "Stadium 12",
+        "name_ar": "ملعب 12",
+        "capacity": 25000,
+        "city": "Japan",
+        "city_ar": "اليابان"
+      },
+      "nickname": "Team 12",
+      "nickname_ar": "فريق 12",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 9012,
+      "name": "Japanese Team 13",
+      "name_ar": "فريق ياباني 13",
+      "code": "JPN13",
+      "logo": "https://media.api-sports.io/football/teams/9012.png",
+      "founded": 1932,
+      "stadium": {
+        "name": "Stadium 13",
+        "name_ar": "ملعب 13",
+        "capacity": 25000,
+        "city": "Japan",
+        "city_ar": "اليابان"
+      },
+      "nickname": "Team 13",
+      "nickname_ar": "فريق 13",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 9013,
+      "name": "Japanese Team 14",
+      "name_ar": "فريق ياباني 14",
+      "code": "JPN14",
+      "logo": "https://media.api-sports.io/football/teams/9013.png",
+      "founded": 1933,
+      "stadium": {
+        "name": "Stadium 14",
+        "name_ar": "ملعب 14",
+        "capacity": 25000,
+        "city": "Japan",
+        "city_ar": "اليابان"
+      },
+      "nickname": "Team 14",
+      "nickname_ar": "فريق 14",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 9014,
+      "name": "Japanese Team 15",
+      "name_ar": "فريق ياباني 15",
+      "code": "JPN15",
+      "logo": "https://media.api-sports.io/football/teams/9014.png",
+      "founded": 1934,
+      "stadium": {
+        "name": "Stadium 15",
+        "name_ar": "ملعب 15",
+        "capacity": 25000,
+        "city": "Japan",
+        "city_ar": "اليابان"
+      },
+      "nickname": "Team 15",
+      "nickname_ar": "فريق 15",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 9015,
+      "name": "Japanese Team 16",
+      "name_ar": "فريق ياباني 16",
+      "code": "JPN16",
+      "logo": "https://media.api-sports.io/football/teams/9015.png",
+      "founded": 1935,
+      "stadium": {
+        "name": "Stadium 16",
+        "name_ar": "ملعب 16",
+        "capacity": 25000,
+        "city": "Japan",
+        "city_ar": "اليابان"
+      },
+      "nickname": "Team 16",
+      "nickname_ar": "فريق 16",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 9016,
+      "name": "Japanese Team 17",
+      "name_ar": "فريق ياباني 17",
+      "code": "JPN17",
+      "logo": "https://media.api-sports.io/football/teams/9016.png",
+      "founded": 1936,
+      "stadium": {
+        "name": "Stadium 17",
+        "name_ar": "ملعب 17",
+        "capacity": 25000,
+        "city": "Japan",
+        "city_ar": "اليابان"
+      },
+      "nickname": "Team 17",
+      "nickname_ar": "فريق 17",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 9017,
+      "name": "Japanese Team 18",
+      "name_ar": "فريق ياباني 18",
+      "code": "JPN18",
+      "logo": "https://media.api-sports.io/football/teams/9017.png",
+      "founded": 1937,
+      "stadium": {
+        "name": "Stadium 18",
+        "name_ar": "ملعب 18",
+        "capacity": 25000,
+        "city": "Japan",
+        "city_ar": "اليابان"
+      },
+      "nickname": "Team 18",
+      "nickname_ar": "فريق 18",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    }
+  ],
+  "total_teams": 18,
+  "last_updated": "2025-12-15T23:37:25Z"
+}

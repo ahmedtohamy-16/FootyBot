@@ -1,0 +1,483 @@
+{
+  "league": {
+    "id": 307,
+    "name": "Saudi Professional League",
+    "name_ar": "دوري روشن السعودي",
+    "country": "Saudi Arabia",
+    "country_ar": "السعودية",
+    "logo": "https://media.api-sports.io/football/leagues/307.png",
+    "season": "2024-2025"
+  },
+  "teams": [
+    {
+      "id": 2939,
+      "name": "Al Nassr",
+      "name_ar": "النصر",
+      "code": "NAS",
+      "logo": "https://media.api-sports.io/football/teams/2939.png",
+      "founded": 1955,
+      "stadium": {
+        "name": "Mrsool Park",
+        "name_ar": "مرسول بارك",
+        "capacity": 25000,
+        "city": "Riyadh",
+        "city_ar": "الرياض"
+      },
+      "nickname": "Al Alami",
+      "nickname_ar": "العالمي",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 9,
+        "domestic_cups": 6,
+        "asian_cups": 0
+      }
+    },
+    {
+      "id": 2931,
+      "name": "Al Hilal",
+      "name_ar": "الهلال",
+      "code": "HIL",
+      "logo": "https://media.api-sports.io/football/teams/2931.png",
+      "founded": 1957,
+      "stadium": {
+        "name": "King Fahd Stadium",
+        "name_ar": "ملعب الملك فهد",
+        "capacity": 67000,
+        "city": "Riyadh",
+        "city_ar": "الرياض"
+      },
+      "nickname": "Al Zaeem",
+      "nickname_ar": "الزعيم",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 18,
+        "domestic_cups": 10,
+        "asian_cups": 4
+      }
+    },
+    {
+      "id": 2933,
+      "name": "Al Ittihad",
+      "name_ar": "الاتحاد",
+      "code": "ITT",
+      "logo": "https://media.api-sports.io/football/teams/2933.png",
+      "founded": 1927,
+      "stadium": {
+        "name": "King Abdullah Sports City",
+        "name_ar": "مدينة الملك عبدالله الرياضية",
+        "capacity": 62000,
+        "city": "Jeddah",
+        "city_ar": "جدة"
+      },
+      "nickname": "Al Ameed",
+      "nickname_ar": "العميد",
+      "colors": {
+        "primary": "Black",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 9,
+        "domestic_cups": 9,
+        "asian_cups": 2
+      }
+    },
+    {
+      "id": 2932,
+      "name": "Al Ahli",
+      "name_ar": "الأهلي",
+      "code": "AHL",
+      "logo": "https://media.api-sports.io/football/teams/2932.png",
+      "founded": 1937,
+      "stadium": {
+        "name": "King Abdullah Sports City",
+        "name_ar": "مدينة الملك عبدالله الرياضية",
+        "capacity": 62000,
+        "city": "Jeddah",
+        "city_ar": "جدة"
+      },
+      "nickname": "Al Rayyan",
+      "nickname_ar": "الريان",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 3,
+        "domestic_cups": 13,
+        "asian_cups": 0
+      }
+    },
+    {
+      "id": 2955,
+      "name": "Al Shabab",
+      "name_ar": "الشباب",
+      "code": "SHA",
+      "logo": "https://media.api-sports.io/football/teams/2955.png",
+      "founded": 1947,
+      "stadium": {
+        "name": "Prince Faisal bin Fahd Stadium",
+        "name_ar": "ملعب الأمير فيصل بن فهد",
+        "capacity": 25000,
+        "city": "Riyadh",
+        "city_ar": "الرياض"
+      },
+      "nickname": "Al Abyadh",
+      "nickname_ar": "الأبيض",
+      "colors": {
+        "primary": "White",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 6,
+        "domestic_cups": 5,
+        "asian_cups": 0
+      }
+    },
+    {
+      "id": 2938,
+      "name": "Al Taawoun",
+      "name_ar": "التعاون",
+      "code": "TAA",
+      "logo": "https://media.api-sports.io/football/teams/2938.png",
+      "founded": 1956,
+      "stadium": {
+        "name": "King Abdullah Sport City Stadium",
+        "name_ar": "ملعب مدينة الملك عبدالله الرياضية",
+        "capacity": 15000,
+        "city": "Buraidah",
+        "city_ar": "بريدة"
+      },
+      "nickname": "Al Asoud",
+      "nickname_ar": "الأسود",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "asian_cups": 0
+      }
+    },
+    {
+      "id": 2940,
+      "name": "Al Fateh",
+      "name_ar": "الفتح",
+      "code": "FAT",
+      "logo": "https://media.api-sports.io/football/teams/2940.png",
+      "founded": 1958,
+      "stadium": {
+        "name": "Prince Abdullah bin Jalawi Stadium",
+        "name_ar": "ملعب الأمير عبدالله بن جلوي",
+        "capacity": 22000,
+        "city": "Al-Hasa",
+        "city_ar": "الأحساء"
+      },
+      "nickname": "Al Romansi",
+      "nickname_ar": "الرومانسي",
+      "colors": {
+        "primary": "Orange",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 2,
+        "asian_cups": 0
+      }
+    },
+    {
+      "id": 2944,
+      "name": "Al Khaleej",
+      "name_ar": "الخليج",
+      "code": "KHA",
+      "logo": "https://media.api-sports.io/football/teams/2944.png",
+      "founded": 1945,
+      "stadium": {
+        "name": "Prince Mohamed bin Fahd Stadium",
+        "name_ar": "ملعب الأمير محمد بن فهد",
+        "capacity": 35000,
+        "city": "Dammam",
+        "city_ar": "الدمام"
+      },
+      "nickname": "Al Omrani",
+      "nickname_ar": "العمراني",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 1,
+        "asian_cups": 0
+      }
+    },
+    {
+      "id": 2947,
+      "name": "Al Ettifaq",
+      "name_ar": "الاتفاق",
+      "code": "ETT",
+      "logo": "https://media.api-sports.io/football/teams/2947.png",
+      "founded": 1945,
+      "stadium": {
+        "name": "Prince Mohamed bin Fahd Stadium",
+        "name_ar": "ملعب الأمير محمد بن فهد",
+        "capacity": 35000,
+        "city": "Dammam",
+        "city_ar": "الدمام"
+      },
+      "nickname": "Al Thalab",
+      "nickname_ar": "الثعلب",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 1,
+        "domestic_cups": 2,
+        "asian_cups": 0
+      }
+    },
+    {
+      "id": 2952,
+      "name": "Damac",
+      "name_ar": "ضمك",
+      "code": "DAM",
+      "logo": "https://media.api-sports.io/football/teams/2952.png",
+      "founded": 1972,
+      "stadium": {
+        "name": "Prince Sultan bin Abdulaziz Stadium",
+        "name_ar": "ملعب الأمير سلطان بن عبدالعزيز",
+        "capacity": 7000,
+        "city": "Abha",
+        "city_ar": "أبها"
+      },
+      "nickname": "Al Nour",
+      "nickname_ar": "النور",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "asian_cups": 0
+      }
+    },
+    {
+      "id": 2937,
+      "name": "Al Feiha",
+      "name_ar": "الفيحاء",
+      "code": "FEI",
+      "logo": "https://media.api-sports.io/football/teams/2937.png",
+      "founded": 1954,
+      "stadium": {
+        "name": "Al Majma'ah Sports City Stadium",
+        "name_ar": "ملعب مدينة المجمعة الرياضية",
+        "capacity": 6500,
+        "city": "Al Majma'ah",
+        "city_ar": "المجمعة"
+      },
+      "nickname": "Al Anwar",
+      "nickname_ar": "الأنوار",
+      "colors": {
+        "primary": "Orange",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "asian_cups": 0
+      }
+    },
+    {
+      "id": 2950,
+      "name": "Al Raed",
+      "name_ar": "الرائد",
+      "code": "RAE",
+      "logo": "https://media.api-sports.io/football/teams/2950.png",
+      "founded": 1954,
+      "stadium": {
+        "name": "King Abdullah Sport City Stadium",
+        "name_ar": "ملعب مدينة الملك عبدالله الرياضية",
+        "capacity": 15000,
+        "city": "Buraidah",
+        "city_ar": "بريدة"
+      },
+      "nickname": "Al Akhdar",
+      "nickname_ar": "الأخضر",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "asian_cups": 0
+      }
+    },
+    {
+      "id": 2946,
+      "name": "Al Wehda",
+      "name_ar": "الوحدة",
+      "code": "WEH",
+      "logo": "https://media.api-sports.io/football/teams/2946.png",
+      "founded": 1945,
+      "stadium": {
+        "name": "King Abdulaziz Stadium",
+        "name_ar": "ملعب الملك عبدالعزيز",
+        "capacity": 24000,
+        "city": "Mecca",
+        "city_ar": "مكة"
+      },
+      "nickname": "Al Amamah",
+      "nickname_ar": "العمامة",
+      "colors": {
+        "primary": "Orange",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 1,
+        "asian_cups": 0
+      }
+    },
+    {
+      "id": 15489,
+      "name": "Abha",
+      "name_ar": "أبها",
+      "code": "ABH",
+      "logo": "https://media.api-sports.io/football/teams/15489.png",
+      "founded": 2003,
+      "stadium": {
+        "name": "Prince Sultan bin Abdulaziz Stadium",
+        "name_ar": "ملعب الأمير سلطان بن عبدالعزيز",
+        "capacity": 7000,
+        "city": "Abha",
+        "city_ar": "أبها"
+      },
+      "nickname": "Al Najoom",
+      "nickname_ar": "النجوم",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "asian_cups": 0
+      }
+    },
+    {
+      "id": 14484,
+      "name": "Al Riyadh",
+      "name_ar": "الرياض",
+      "code": "RIY",
+      "logo": "https://media.api-sports.io/football/teams/14484.png",
+      "founded": 1953,
+      "stadium": {
+        "name": "Prince Turki bin Abdulaziz Stadium",
+        "name_ar": "ملعب الأمير تركي بن عبدالعزيز",
+        "capacity": 10000,
+        "city": "Riyadh",
+        "city_ar": "الرياض"
+      },
+      "nickname": "Al Farhani",
+      "nickname_ar": "الفرحاني",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "asian_cups": 0
+      }
+    },
+    {
+      "id": 2935,
+      "name": "Al Tai",
+      "name_ar": "التعاون",
+      "code": "TAI",
+      "logo": "https://media.api-sports.io/football/teams/2935.png",
+      "founded": 1956,
+      "stadium": {
+        "name": "Hail City Stadium",
+        "name_ar": "ملعب مدينة حائل",
+        "capacity": 12000,
+        "city": "Hail",
+        "city_ar": "حائل"
+      },
+      "nickname": "Al Jabalain",
+      "nickname_ar": "الجبلين",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "asian_cups": 0
+      }
+    },
+    {
+      "id": 2953,
+      "name": "Al Hazem",
+      "name_ar": "الحزم",
+      "code": "HAZ",
+      "logo": "https://media.api-sports.io/football/teams/2953.png",
+      "founded": 1956,
+      "stadium": {
+        "name": "Prince Saud bin Jalawi Stadium",
+        "name_ar": "ملعب الأمير سعود بن جلوي",
+        "capacity": 7000,
+        "city": "Al-Rass",
+        "city_ar": "الرس"
+      },
+      "nickname": "Al Sakaliba",
+      "nickname_ar": "الصقالبة",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "Red"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "asian_cups": 0
+      }
+    },
+    {
+      "id": 2948,
+      "name": "Al Okhdood",
+      "name_ar": "العقد",
+      "code": "OKH",
+      "logo": "https://media.api-sports.io/football/teams/2948.png",
+      "founded": 1984,
+      "stadium": {
+        "name": "Prince Faisal bin Fahd Stadium",
+        "name_ar": "ملعب الأمير فيصل بن فهد",
+        "capacity": 5000,
+        "city": "Najran",
+        "city_ar": "نجران"
+      },
+      "nickname": "Al Janoubieen",
+      "nickname_ar": "الجنوبيين",
+      "colors": {
+        "primary": "Orange",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "asian_cups": 0
+      }
+    }
+  ],
+  "total_teams": 18,
+  "last_updated": "2025-12-15T23:33:34Z"
+}

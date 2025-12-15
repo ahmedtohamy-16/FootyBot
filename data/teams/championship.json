@@ -1,0 +1,639 @@
+{
+  "league": {
+    "id": 40,
+    "name": "Championship",
+    "name_ar": "الدرجة الأولى الإنجليزية",
+    "country": "England",
+    "country_ar": "إنجلترا",
+    "logo": "https://media.api-sports.io/football/leagues/40.png",
+    "season": "2024-2025"
+  },
+  "teams": [
+    {
+      "id": 72,
+      "name": "Leeds United",
+      "name_ar": "ليدز يونايتد",
+      "code": "LEE",
+      "logo": "https://media.api-sports.io/football/teams/72.png",
+      "founded": 1919,
+      "stadium": {
+        "name": "Elland Road",
+        "name_ar": "إيلاند رود",
+        "capacity": 37890,
+        "city": "Leeds",
+        "city_ar": "ليدز"
+      },
+      "nickname": "The Whites",
+      "nickname_ar": "البيض",
+      "colors": {
+        "primary": "White",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 3,
+        "domestic_cups": 1,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 73,
+      "name": "Sheffield Wednesday",
+      "name_ar": "شفيلد وينزداي",
+      "code": "SHE",
+      "logo": "https://media.api-sports.io/football/teams/73.png",
+      "founded": 1867,
+      "stadium": {
+        "name": "Hillsborough",
+        "name_ar": "هيلزبره",
+        "capacity": 39732,
+        "city": "Sheffield",
+        "city_ar": "شفيلد"
+      },
+      "nickname": "The Owls",
+      "nickname_ar": "البوم",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 4,
+        "domestic_cups": 3,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1000,
+      "name": "Championship Team 3",
+      "name_ar": "فريق تشامبيون3",
+      "code": "CH3",
+      "logo": "https://media.api-sports.io/football/teams/1000.png",
+      "founded": 1900,
+      "stadium": {
+        "name": "Stadium 3",
+        "name_ar": "ملعب 3",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 3",
+      "nickname_ar": "فريق 3",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1001,
+      "name": "Championship Team 4",
+      "name_ar": "فريق تشامبيون4",
+      "code": "CH4",
+      "logo": "https://media.api-sports.io/football/teams/1001.png",
+      "founded": 1901,
+      "stadium": {
+        "name": "Stadium 4",
+        "name_ar": "ملعب 4",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 4",
+      "nickname_ar": "فريق 4",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1002,
+      "name": "Championship Team 5",
+      "name_ar": "فريق تشامبيون5",
+      "code": "CH5",
+      "logo": "https://media.api-sports.io/football/teams/1002.png",
+      "founded": 1902,
+      "stadium": {
+        "name": "Stadium 5",
+        "name_ar": "ملعب 5",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 5",
+      "nickname_ar": "فريق 5",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1003,
+      "name": "Championship Team 6",
+      "name_ar": "فريق تشامبيون6",
+      "code": "CH6",
+      "logo": "https://media.api-sports.io/football/teams/1003.png",
+      "founded": 1903,
+      "stadium": {
+        "name": "Stadium 6",
+        "name_ar": "ملعب 6",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 6",
+      "nickname_ar": "فريق 6",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1004,
+      "name": "Championship Team 7",
+      "name_ar": "فريق تشامبيون7",
+      "code": "CH7",
+      "logo": "https://media.api-sports.io/football/teams/1004.png",
+      "founded": 1904,
+      "stadium": {
+        "name": "Stadium 7",
+        "name_ar": "ملعب 7",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 7",
+      "nickname_ar": "فريق 7",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1005,
+      "name": "Championship Team 8",
+      "name_ar": "فريق تشامبيون8",
+      "code": "CH8",
+      "logo": "https://media.api-sports.io/football/teams/1005.png",
+      "founded": 1905,
+      "stadium": {
+        "name": "Stadium 8",
+        "name_ar": "ملعب 8",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 8",
+      "nickname_ar": "فريق 8",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1006,
+      "name": "Championship Team 9",
+      "name_ar": "فريق تشامبيون9",
+      "code": "CH9",
+      "logo": "https://media.api-sports.io/football/teams/1006.png",
+      "founded": 1906,
+      "stadium": {
+        "name": "Stadium 9",
+        "name_ar": "ملعب 9",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 9",
+      "nickname_ar": "فريق 9",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1007,
+      "name": "Championship Team 10",
+      "name_ar": "فريق تشامبيون10",
+      "code": "CH10",
+      "logo": "https://media.api-sports.io/football/teams/1007.png",
+      "founded": 1907,
+      "stadium": {
+        "name": "Stadium 10",
+        "name_ar": "ملعب 10",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 10",
+      "nickname_ar": "فريق 10",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1008,
+      "name": "Championship Team 11",
+      "name_ar": "فريق تشامبيون11",
+      "code": "CH11",
+      "logo": "https://media.api-sports.io/football/teams/1008.png",
+      "founded": 1908,
+      "stadium": {
+        "name": "Stadium 11",
+        "name_ar": "ملعب 11",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 11",
+      "nickname_ar": "فريق 11",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1009,
+      "name": "Championship Team 12",
+      "name_ar": "فريق تشامبيون12",
+      "code": "CH12",
+      "logo": "https://media.api-sports.io/football/teams/1009.png",
+      "founded": 1909,
+      "stadium": {
+        "name": "Stadium 12",
+        "name_ar": "ملعب 12",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 12",
+      "nickname_ar": "فريق 12",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1010,
+      "name": "Championship Team 13",
+      "name_ar": "فريق تشامبيون13",
+      "code": "CH13",
+      "logo": "https://media.api-sports.io/football/teams/1010.png",
+      "founded": 1910,
+      "stadium": {
+        "name": "Stadium 13",
+        "name_ar": "ملعب 13",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 13",
+      "nickname_ar": "فريق 13",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1011,
+      "name": "Championship Team 14",
+      "name_ar": "فريق تشامبيون14",
+      "code": "CH14",
+      "logo": "https://media.api-sports.io/football/teams/1011.png",
+      "founded": 1911,
+      "stadium": {
+        "name": "Stadium 14",
+        "name_ar": "ملعب 14",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 14",
+      "nickname_ar": "فريق 14",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1012,
+      "name": "Championship Team 15",
+      "name_ar": "فريق تشامبيون15",
+      "code": "CH15",
+      "logo": "https://media.api-sports.io/football/teams/1012.png",
+      "founded": 1912,
+      "stadium": {
+        "name": "Stadium 15",
+        "name_ar": "ملعب 15",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 15",
+      "nickname_ar": "فريق 15",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1013,
+      "name": "Championship Team 16",
+      "name_ar": "فريق تشامبيون16",
+      "code": "CH16",
+      "logo": "https://media.api-sports.io/football/teams/1013.png",
+      "founded": 1913,
+      "stadium": {
+        "name": "Stadium 16",
+        "name_ar": "ملعب 16",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 16",
+      "nickname_ar": "فريق 16",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1014,
+      "name": "Championship Team 17",
+      "name_ar": "فريق تشامبيون17",
+      "code": "CH17",
+      "logo": "https://media.api-sports.io/football/teams/1014.png",
+      "founded": 1914,
+      "stadium": {
+        "name": "Stadium 17",
+        "name_ar": "ملعب 17",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 17",
+      "nickname_ar": "فريق 17",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1015,
+      "name": "Championship Team 18",
+      "name_ar": "فريق تشامبيون18",
+      "code": "CH18",
+      "logo": "https://media.api-sports.io/football/teams/1015.png",
+      "founded": 1915,
+      "stadium": {
+        "name": "Stadium 18",
+        "name_ar": "ملعب 18",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 18",
+      "nickname_ar": "فريق 18",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1016,
+      "name": "Championship Team 19",
+      "name_ar": "فريق تشامبيون19",
+      "code": "CH19",
+      "logo": "https://media.api-sports.io/football/teams/1016.png",
+      "founded": 1916,
+      "stadium": {
+        "name": "Stadium 19",
+        "name_ar": "ملعب 19",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 19",
+      "nickname_ar": "فريق 19",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1017,
+      "name": "Championship Team 20",
+      "name_ar": "فريق تشامبيون20",
+      "code": "CH20",
+      "logo": "https://media.api-sports.io/football/teams/1017.png",
+      "founded": 1917,
+      "stadium": {
+        "name": "Stadium 20",
+        "name_ar": "ملعب 20",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 20",
+      "nickname_ar": "فريق 20",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1018,
+      "name": "Championship Team 21",
+      "name_ar": "فريق تشامبيون21",
+      "code": "CH21",
+      "logo": "https://media.api-sports.io/football/teams/1018.png",
+      "founded": 1918,
+      "stadium": {
+        "name": "Stadium 21",
+        "name_ar": "ملعب 21",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 21",
+      "nickname_ar": "فريق 21",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1019,
+      "name": "Championship Team 22",
+      "name_ar": "فريق تشامبيون22",
+      "code": "CH22",
+      "logo": "https://media.api-sports.io/football/teams/1019.png",
+      "founded": 1919,
+      "stadium": {
+        "name": "Stadium 22",
+        "name_ar": "ملعب 22",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 22",
+      "nickname_ar": "فريق 22",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1020,
+      "name": "Championship Team 23",
+      "name_ar": "فريق تشامبيون23",
+      "code": "CH23",
+      "logo": "https://media.api-sports.io/football/teams/1020.png",
+      "founded": 1920,
+      "stadium": {
+        "name": "Stadium 23",
+        "name_ar": "ملعب 23",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 23",
+      "nickname_ar": "فريق 23",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1021,
+      "name": "Championship Team 24",
+      "name_ar": "فريق تشامبيون24",
+      "code": "CH24",
+      "logo": "https://media.api-sports.io/football/teams/1021.png",
+      "founded": 1921,
+      "stadium": {
+        "name": "Stadium 24",
+        "name_ar": "ملعب 24",
+        "capacity": 20000,
+        "city": "England",
+        "city_ar": "إنجلترا"
+      },
+      "nickname": "Team 24",
+      "nickname_ar": "فريق 24",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    }
+  ],
+  "total_teams": 24,
+  "last_updated": "2025-12-15T23:37:25Z"
+}
