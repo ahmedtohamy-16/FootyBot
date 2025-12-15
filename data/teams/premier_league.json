@@ -1,0 +1,131 @@
+{
+  "league_id": 39,
+  "league_name": "Premier League",
+  "league_name_ar": "الدوري الإنجليزي الممتاز",
+  "country": "England",
+  "country_ar": "إنجلترا",
+  "season": 2024,
+  "last_updated": "2025-12-15",
+  "teams": [
+    {
+      "id": 33,
+      "name": "Manchester United",
+      "name_ar": "مانشستر يونايتد",
+      "code": "MUN",
+      "logo": "https://media.api-sports.io/football/teams/33.png",
+      "founded": 1878,
+      "venue": {
+        "name": "Old Trafford",
+        "name_ar": "أولد ترافورد",
+        "capacity": 76212,
+        "city": "Manchester",
+        "city_ar": "مانشستر"
+      }
+    },
+    {
+      "id": 34,
+      "name": "Newcastle United",
+      "name_ar": "نيوكاسل يونايتد",
+      "code": "NEW",
+      "logo": "https://media.api-sports.io/football/teams/34.png",
+      "founded": 1892,
+      "venue": {
+        "name": "St. James' Park",
+        "name_ar": "سانت جيمس بارك",
+        "capacity": 52305,
+        "city": "Newcastle",
+        "city_ar": "نيوكاسل"
+      }
+    },
+    {
+      "id": 40,
+      "name": "Liverpool",
+      "name_ar": "ليفربول",
+      "code": "LIV",
+      "logo": "https://media.api-sports.io/football/teams/40.png",
+      "founded": 1892,
+      "venue": {
+        "name": "Anfield",
+        "name_ar": "أنفيلد",
+        "capacity": 53394,
+        "city": "Liverpool",
+        "city_ar": "ليفربول"
+      }
+    },
+    {
+      "id": 42,
+      "name": "Arsenal",
+      "name_ar": "أرسنال",
+      "code": "ARS",
+      "logo": "https://media.api-sports.io/football/teams/42.png",
+      "founded": 1886,
+      "venue": {
+        "name": "Emirates Stadium",
+        "name_ar": "ملعب الإمارات",
+        "capacity": 60260,
+        "city": "London",
+        "city_ar": "لندن"
+      }
+    },
+    {
+      "id": 47,
+      "name": "Tottenham",
+      "name_ar": "توتنهام",
+      "code": "TOT",
+      "logo": "https://media.api-sports.io/football/teams/47.png",
+      "founded": 1882,
+      "venue": {
+        "name": "Tottenham Hotspur Stadium",
+        "name_ar": "ملعب توتنهام هوتسبير",
+        "capacity": 62850,
+        "city": "London",
+        "city_ar": "لندن"
+      }
+    },
+    {
+      "id": 49,
+      "name": "Chelsea",
+      "name_ar": "تشيلسي",
+      "code": "CHE",
+      "logo": "https://media.api-sports.io/football/teams/49.png",
+      "founded": 1905,
+      "venue": {
+        "name": "Stamford Bridge",
+        "name_ar": "ستامفورد بريدج",
+        "capacity": 40834,
+        "city": "London",
+        "city_ar": "لندن"
+      }
+    },
+    {
+      "id": 50,
+      "name": "Manchester City",
+      "name_ar": "مانشستر سيتي",
+      "code": "MCI",
+      "logo": "https://media.api-sports.io/football/teams/50.png",
+      "founded": 1880,
+      "venue": {
+        "name": "Etihad Stadium",
+        "name_ar": "ملعب الاتحاد",
+        "capacity": 55097,
+        "city": "Manchester",
+        "city_ar": "مانشستر"
+      }
+    },
+    {
+      "id": 66,
+      "name": "Aston Villa",
+      "name_ar": "أستون فيلا",
+      "code": "AST",
+      "logo": "https://media.api-sports.io/football/teams/66.png",
+      "founded": 1874,
+      "venue": {
+        "name": "Villa Park",
+        "name_ar": "فيلا بارك",
+        "capacity": 42785,
+        "city": "Birmingham",
+        "city_ar": "برمنغهام"
+      }
+    }
+  ]
+}

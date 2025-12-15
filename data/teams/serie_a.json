@@ -1,0 +1,101 @@
+{
+  "league_id": 135,
+  "league_name": "Serie A",
+  "league_name_ar": "الدوري الإيطالي",
+  "country": "Italy",
+  "country_ar": "إيطاليا",
+  "season": 2024,
+  "last_updated": "2025-12-15",
+  "teams": [
+    {
+      "id": 489,
+      "name": "AC Milan",
+      "name_ar": "ميلان",
+      "code": "MIL",
+      "logo": "https://media.api-sports.io/football/teams/489.png",
+      "founded": 1899,
+      "venue": {
+        "name": "San Siro",
+        "name_ar": "سان سيرو",
+        "capacity": 80018,
+        "city": "Milano",
+        "city_ar": "ميلانو"
+      }
+    },
+    {
+      "id": 492,
+      "name": "Napoli",
+      "name_ar": "نابولي",
+      "code": "NAP",
+      "logo": "https://media.api-sports.io/football/teams/492.png",
+      "founded": 1926,
+      "venue": {
+        "name": "Stadio Diego Armando Maradona",
+        "name_ar": "ملعب دييغو أرماندو مارادونا",
+        "capacity": 60240,
+        "city": "Napoli",
+        "city_ar": "نابولي"
+      }
+    },
+    {
+      "id": 496,
+      "name": "Juventus",
+      "name_ar": "يوفنتوس",
+      "code": "JUV",
+      "logo": "https://media.api-sports.io/football/teams/496.png",
+      "founded": 1897,
+      "venue": {
+        "name": "Allianz Stadium",
+        "name_ar": "أليانز ستاديوم",
+        "capacity": 41507,
+        "city": "Torino",
+        "city_ar": "تورينو"
+      }
+    },
+    {
+      "id": 505,
+      "name": "Inter",
+      "name_ar": "إنتر ميلان",
+      "code": "INT",
+      "logo": "https://media.api-sports.io/football/teams/505.png",
+      "founded": 1908,
+      "venue": {
+        "name": "San Siro",
+        "name_ar": "سان سيرو",
+        "capacity": 80018,
+        "city": "Milano",
+        "city_ar": "ميلانو"
+      }
+    },
+    {
+      "id": 487,
+      "name": "Lazio",
+      "name_ar": "لاتسيو",
+      "code": "LAZ",
+      "logo": "https://media.api-sports.io/football/teams/487.png",
+      "founded": 1900,
+      "venue": {
+        "name": "Stadio Olimpico",
+        "name_ar": "الملعب الأولمبي",
+        "capacity": 70634,
+        "city": "Roma",
+        "city_ar": "روما"
+      }
+    },
+    {
+      "id": 497,
+      "name": "AS Roma",
+      "name_ar": "روما",
+      "code": "ROM",
+      "logo": "https://media.api-sports.io/football/teams/497.png",
+      "founded": 1927,
+      "venue": {
+        "name": "Stadio Olimpico",
+        "name_ar": "الملعب الأولمبي",
+        "capacity": 70634,
+        "city": "Roma",
+        "city_ar": "روما"
+      }
+    }
+  ]
+}

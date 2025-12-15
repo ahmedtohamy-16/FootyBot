@@ -1,0 +1,101 @@
+{
+  "league_id": 140,
+  "league_name": "La Liga",
+  "league_name_ar": "الدوري الإسباني",
+  "country": "Spain",
+  "country_ar": "إسبانيا",
+  "season": 2024,
+  "last_updated": "2025-12-15",
+  "teams": [
+    {
+      "id": 529,
+      "name": "Barcelona",
+      "name_ar": "برشلونة",
+      "code": "BAR",
+      "logo": "https://media.api-sports.io/football/teams/529.png",
+      "founded": 1899,
+      "venue": {
+        "name": "Camp Nou",
+        "name_ar": "كامب نو",
+        "capacity": 99354,
+        "city": "Barcelona",
+        "city_ar": "برشلونة"
+      }
+    },
+    {
+      "id": 530,
+      "name": "Atletico Madrid",
+      "name_ar": "أتلتيكو مدريد",
+      "code": "ATM",
+      "logo": "https://media.api-sports.io/football/teams/530.png",
+      "founded": 1903,
+      "venue": {
+        "name": "Civitas Metropolitano",
+        "name_ar": "ملعب واندا ميتروبوليتانو",
+        "capacity": 68456,
+        "city": "Madrid",
+        "city_ar": "مدريد"
+      }
+    },
+    {
+      "id": 541,
+      "name": "Real Madrid",
+      "name_ar": "ريال مدريد",
+      "code": "RMA",
+      "logo": "https://media.api-sports.io/football/teams/541.png",
+      "founded": 1902,
+      "venue": {
+        "name": "Santiago Bernabéu",
+        "name_ar": "سانتياغو برنابيو",
+        "capacity": 81044,
+        "city": "Madrid",
+        "city_ar": "مدريد"
+      }
+    },
+    {
+      "id": 532,
+      "name": "Valencia",
+      "name_ar": "فالنسيا",
+      "code": "VAL",
+      "logo": "https://media.api-sports.io/football/teams/532.png",
+      "founded": 1919,
+      "venue": {
+        "name": "Estadio de Mestalla",
+        "name_ar": "ملعب ميستايا",
+        "capacity": 49430,
+        "city": "Valencia",
+        "city_ar": "فالنسيا"
+      }
+    },
+    {
+      "id": 536,
+      "name": "Sevilla",
+      "name_ar": "إشبيلية",
+      "code": "SEV",
+      "logo": "https://media.api-sports.io/football/teams/536.png",
+      "founded": 1890,
+      "venue": {
+        "name": "Estadio R. Sánchez Pizjuán",
+        "name_ar": "ملعب رامون سانشيز بيزخوان",
+        "capacity": 43883,
+        "city": "Sevilla",
+        "city_ar": "إشبيلية"
+      }
+    },
+    {
+      "id": 728,
+      "name": "Real Sociedad",
+      "name_ar": "ريال سوسيداد",
+      "code": "RSO",
+      "logo": "https://media.api-sports.io/football/teams/728.png",
+      "founded": 1909,
+      "venue": {
+        "name": "Reale Arena",
+        "name_ar": "ملعب أنويتا",
+        "capacity": 39500,
+        "city": "San Sebastian",
+        "city_ar": "سان سيباستيان"
+      }
+    }
+  ]
+}
