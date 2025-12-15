@@ -1,0 +1,71 @@
+{
+  "league_id": 78,
+  "league_name": "Bundesliga",
+  "league_name_ar": "الدوري الألماني",
+  "country": "Germany",
+  "country_ar": "ألمانيا",
+  "season": 2024,
+  "last_updated": "2025-12-15",
+  "teams": [
+    {
+      "id": 157,
+      "name": "Bayern Munich",
+      "name_ar": "بايرن ميونخ",
+      "code": "BAY",
+      "logo": "https://media.api-sports.io/football/teams/157.png",
+      "founded": 1900,
+      "venue": {
+        "name": "Allianz Arena",
+        "name_ar": "أليانز أرينا",
+        "capacity": 75000,
+        "city": "München",
+        "city_ar": "ميونخ"
+      }
+    },
+    {
+      "id": 165,
+      "name": "Borussia Dortmund",
+      "name_ar": "بوروسيا دورتموند",
+      "code": "DOR",
+      "logo": "https://media.api-sports.io/football/teams/165.png",
+      "founded": 1909,
+      "venue": {
+        "name": "Signal-Iduna-Park",
+        "name_ar": "سيغنال إيدونا بارك",
+        "capacity": 81365,
+        "city": "Dortmund",
+        "city_ar": "دورتموند"
+      }
+    },
+    {
+      "id": 173,
+      "name": "RB Leipzig",
+      "name_ar": "لايبزيغ",
+      "code": "LEI",
+      "logo": "https://media.api-sports.io/football/teams/173.png",
+      "founded": 2009,
+      "venue": {
+        "name": "Red Bull Arena",
+        "name_ar": "ريد بول أرينا",
+        "capacity": 47069,
+        "city": "Leipzig",
+        "city_ar": "لايبزيغ"
+      }
+    },
+    {
+      "id": 168,
+      "name": "Bayer Leverkusen",
+      "name_ar": "باير ليفركوزن",
+      "code": "LEV",
+      "logo": "https://media.api-sports.io/football/teams/168.png",
+      "founded": 1904,
+      "venue": {
+        "name": "BayArena",
+        "name_ar": "باي أرينا",
+        "capacity": 30210,
+        "city": "Leverkusen",
+        "city_ar": "ليفركوزن"
+      }
+    }
+  ]
+}

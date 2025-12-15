@@ -1,0 +1,101 @@
+{
+  "league_id": 307,
+  "league_name": "Saudi Professional League",
+  "league_name_ar": "دوري روشن السعودي",
+  "country": "Saudi Arabia",
+  "country_ar": "المملكة العربية السعودية",
+  "season": 2024,
+  "last_updated": "2025-12-15",
+  "teams": [
+    {
+      "id": 2939,
+      "name": "Al Hilal",
+      "name_ar": "الهلال",
+      "code": "HIL",
+      "logo": "https://media.api-sports.io/football/teams/2939.png",
+      "founded": 1957,
+      "venue": {
+        "name": "Kingdom Arena",
+        "name_ar": "ملعب المملكة أرينا",
+        "capacity": 68000,
+        "city": "Riyadh",
+        "city_ar": "الرياض"
+      }
+    },
+    {
+      "id": 2931,
+      "name": "Al Nassr",
+      "name_ar": "النصر",
+      "code": "NAS",
+      "logo": "https://media.api-sports.io/football/teams/2931.png",
+      "founded": 1955,
+      "venue": {
+        "name": "Al-Awwal Park",
+        "name_ar": "ملعب الأول بارك",
+        "capacity": 25000,
+        "city": "Riyadh",
+        "city_ar": "الرياض"
+      }
+    },
+    {
+      "id": 2933,
+      "name": "Al Ittihad",
+      "name_ar": "الاتحاد",
+      "code": "ITT",
+      "logo": "https://media.api-sports.io/football/teams/2933.png",
+      "founded": 1927,
+      "venue": {
+        "name": "King Abdullah Sports City",
+        "name_ar": "مدينة الملك عبدالله الرياضية",
+        "capacity": 62345,
+        "city": "Jeddah",
+        "city_ar": "جدة"
+      }
+    },
+    {
+      "id": 2947,
+      "name": "Al Ahli",
+      "name_ar": "الأهلي",
+      "code": "AHL",
+      "logo": "https://media.api-sports.io/football/teams/2947.png",
+      "founded": 1937,
+      "venue": {
+        "name": "King Abdullah Sports City",
+        "name_ar": "مدينة الملك عبدالله الرياضية",
+        "capacity": 62345,
+        "city": "Jeddah",
+        "city_ar": "جدة"
+      }
+    },
+    {
+      "id": 2948,
+      "name": "Al Shabab",
+      "name_ar": "الشباب",
+      "code": "SHA",
+      "logo": "https://media.api-sports.io/football/teams/2948.png",
+      "founded": 1947,
+      "venue": {
+        "name": "Al Shabab Club Stadium",
+        "name_ar": "ملعب نادي الشباب",
+        "capacity": 25000,
+        "city": "Riyadh",
+        "city_ar": "الرياض"
+      }
+    },
+    {
+      "id": 2934,
+      "name": "Al Ettifaq",
+      "name_ar": "الاتفاق",
+      "code": "ETT",
+      "logo": "https://media.api-sports.io/football/teams/2934.png",
+      "founded": 1945,
+      "venue": {
+        "name": "Prince Mohamed bin Fahd Stadium",
+        "name_ar": "ملعب الأمير محمد بن فهد",
+        "capacity": 26000,
+        "city": "Dammam",
+        "city_ar": "الدمام"
+      }
+    }
+  ]
+}

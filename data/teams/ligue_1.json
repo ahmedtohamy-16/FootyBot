@@ -1,0 +1,101 @@
+{
+  "league_id": 61,
+  "league_name": "Ligue 1",
+  "league_name_ar": "الدوري الفرنسي",
+  "country": "France",
+  "country_ar": "فرنسا",
+  "season": 2024,
+  "last_updated": "2025-12-15",
+  "teams": [
+    {
+      "id": 85,
+      "name": "Paris Saint Germain",
+      "name_ar": "باريس سان جيرمان",
+      "code": "PSG",
+      "logo": "https://media.api-sports.io/football/teams/85.png",
+      "founded": 1970,
+      "venue": {
+        "name": "Parc des Princes",
+        "name_ar": "حديقة الأمراء",
+        "capacity": 47929,
+        "city": "Paris",
+        "city_ar": "باريس"
+      }
+    },
+    {
+      "id": 79,
+      "name": "Lille",
+      "name_ar": "ليل",
+      "code": "LIL",
+      "logo": "https://media.api-sports.io/football/teams/79.png",
+      "founded": 1944,
+      "venue": {
+        "name": "Stade Pierre Mauroy",
+        "name_ar": "ملعب بيير موروي",
+        "capacity": 50186,
+        "city": "Villeneuve d'Ascq",
+        "city_ar": "فيلنوف داسك"
+      }
+    },
+    {
+      "id": 81,
+      "name": "Marseille",
+      "name_ar": "مارسيليا",
+      "code": "MAR",
+      "logo": "https://media.api-sports.io/football/teams/81.png",
+      "founded": 1899,
+      "venue": {
+        "name": "Stade Vélodrome",
+        "name_ar": "ملعب فيلودروم",
+        "capacity": 67394,
+        "city": "Marseille",
+        "city_ar": "مارسيليا"
+      }
+    },
+    {
+      "id": 84,
+      "name": "Nice",
+      "name_ar": "نيس",
+      "code": "NIC",
+      "logo": "https://media.api-sports.io/football/teams/84.png",
+      "founded": 1904,
+      "venue": {
+        "name": "Allianz Riviera",
+        "name_ar": "أليانز ريفييرا",
+        "capacity": 36178,
+        "city": "Nice",
+        "city_ar": "نيس"
+      }
+    },
+    {
+      "id": 91,
+      "name": "Monaco",
+      "name_ar": "موناكو",
+      "code": "MON",
+      "logo": "https://media.api-sports.io/football/teams/91.png",
+      "founded": 1924,
+      "venue": {
+        "name": "Stade Louis II",
+        "name_ar": "ملعب لويس الثاني",
+        "capacity": 18523,
+        "city": "Monaco",
+        "city_ar": "موناكو"
+      }
+    },
+    {
+      "id": 80,
+      "name": "Lyon",
+      "name_ar": "ليون",
+      "code": "LYO",
+      "logo": "https://media.api-sports.io/football/teams/80.png",
+      "founded": 1950,
+      "venue": {
+        "name": "Groupama Stadium",
+        "name_ar": "ملعب جروباما",
+        "capacity": 59186,
+        "city": "Décines-Charpieu",
+        "city_ar": "ديسين شاربيو"
+      }
+    }
+  ]
+}

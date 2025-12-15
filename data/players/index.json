@@ -1,0 +1,109 @@
+{
+  "last_updated": "2025-12-15",
+  "players": [
+    {
+      "id": 874,
+      "name": "Cristiano Ronaldo",
+      "name_ar": "كريستيانو رونالدو",
+      "nationality": "Portugal",
+      "nationality_ar": "البرتغال",
+      "current_team": "Al Nassr",
+      "current_team_ar": "النصر",
+      "position": "Forward",
+      "position_ar": "مهاجم",
+      "age": 39,
+      "photo": "https://media.api-sports.io/football/players/874.png"
+    },
+    {
+      "id": 154,
+      "name": "Lionel Messi",
+      "name_ar": "ليونيل ميسي",
+      "nationality": "Argentina",
+      "nationality_ar": "الأرجنتين",
+      "current_team": "Inter Miami",
+      "current_team_ar": "إنتر ميامي",
+      "position": "Forward",
+      "position_ar": "مهاجم",
+      "age": 37,
+      "photo": "https://media.api-sports.io/football/players/154.png"
+    },
+    {
+      "id": 1100,
+      "name": "Neymar Jr",
+      "name_ar": "نيمار جونيور",
+      "nationality": "Brazil",
+      "nationality_ar": "البرازيل",
+      "current_team": "Al Hilal",
+      "current_team_ar": "الهلال",
+      "position": "Forward",
+      "position_ar": "مهاجم",
+      "age": 32,
+      "photo": "https://media.api-sports.io/football/players/1100.png"
+    },
+    {
+      "id": 184,
+      "name": "Mohamed Salah",
+      "name_ar": "محمد صلاح",
+      "nationality": "Egypt",
+      "nationality_ar": "مصر",
+      "current_team": "Liverpool",
+      "current_team_ar": "ليفربول",
+      "position": "Forward",
+      "position_ar": "مهاجم",
+      "age": 32,
+      "photo": "https://media.api-sports.io/football/players/184.png"
+    },
+    {
+      "id": 85,
+      "name": "Karim Benzema",
+      "name_ar": "كريم بنزيما",
+      "nationality": "France",
+      "nationality_ar": "فرنسا",
+      "current_team": "Al Ittihad",
+      "current_team_ar": "الاتحاد",
+      "position": "Forward",
+      "position_ar": "مهاجم",
+      "age": 36,
+      "photo": "https://media.api-sports.io/football/players/85.png"
+    },
+    {
+      "id": 1456,
+      "name": "Kylian Mbappé",
+      "name_ar": "كيليان مبابي",
+      "nationality": "France",
+      "nationality_ar": "فرنسا",
+      "current_team": "Real Madrid",
+      "current_team_ar": "ريال مدريد",
+      "position": "Forward",
+      "position_ar": "مهاجم",
+      "age": 25,
+      "photo": "https://media.api-sports.io/football/players/1456.png"
+    },
+    {
+      "id": 276,
+      "name": "Kevin De Bruyne",
+      "name_ar": "كيفن دي بروين",
+      "nationality": "Belgium",
+      "nationality_ar": "بلجيكا",
+      "current_team": "Manchester City",
+      "current_team_ar": "مانشستر سيتي",
+      "position": "Midfielder",
+      "position_ar": "وسط",
+      "age": 33,
+      "photo": "https://media.api-sports.io/football/players/276.png"
+    },
+    {
+      "id": 882,
+      "name": "Erling Haaland",
+      "name_ar": "إيرلينج هالاند",
+      "nationality": "Norway",
+      "nationality_ar": "النرويج",
+      "current_team": "Manchester City",
+      "current_team_ar": "مانشستر سيتي",
+      "position": "Forward",
+      "position_ar": "مهاجم",
+      "age": 24,
+      "photo": "https://media.api-sports.io/football/players/882.png"
+    }
+  ]
+}
