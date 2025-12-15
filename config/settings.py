@@ -157,6 +157,10 @@ class TelegramConfig:
     ]
 
 
+# Alias for compatibility with different naming conventions
+TelegramBotConfig = TelegramConfig
+
+
 # =============================================================================
 # API-Football Configuration
 # =============================================================================
@@ -500,6 +504,7 @@ __all__ = [
     'EnvironmentConfig',
     'SupabaseConfig',
     'TelegramConfig',
+    'TelegramBotConfig',
     'APIFootballConfig',
     'PointsSystem',
     'CacheConfig',
