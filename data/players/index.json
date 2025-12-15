@@ -1,0 +1,75 @@
+{
+  "total_players": 9900,
+  "categories": {
+    "by_league": {
+      "premier_league": 500,
+      "la_liga": 500,
+      "bundesliga": 400,
+      "serie_a": 500,
+      "ligue_1": 400,
+      "saudi_league": 300,
+      "egyptian_league": 300
+    },
+    "by_position": {
+      "goalkeepers": 500,
+      "defenders": 1500,
+      "midfielders": 2000,
+      "forwards": 1500
+    },
+    "by_region": {
+      "african_players": 500,
+      "asian_players": 500,
+      "south_american_players": 800
+    },
+    "special": {
+      "international_stars": 1000,
+      "legends": 500,
+      "young_talents": 500
+    }
+  },
+  "search_index": {
+    "1": {
+      "name": "Kylian Mbappé",
+      "name_ar": "كيليان مبابي",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "file": "international_stars.json"
+    },
+    "2": {
+      "name": "Vinicius Junior",
+      "name_ar": "فينيسيوس جونيور",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "file": "international_stars.json"
+    },
+    "276": {
+      "name": "Mohamed Salah",
+      "name_ar": "محمد صلاح",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "file": "premier_league_players.json"
+    },
+    "2294": {
+      "name": "Erling Haaland",
+      "name_ar": "إيرلينغ هالاند",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "file": "premier_league_players.json"
+    },
+    "200000": {
+      "name": "Cristiano Ronaldo",
+      "name_ar": "كريستيانو رونالدو",
+      "team": "Al Nassr",
+      "league": "Saudi League",
+      "file": "legends.json"
+    },
+    "200001": {
+      "name": "Lionel Messi",
+      "name_ar": "ليونيل ميسي",
+      "team": "Inter Miami",
+      "league": "MLS",
+      "file": "legends.json"
+    }
+  },
+  "last_updated": "2025-12-15T23:41:46Z"
+}

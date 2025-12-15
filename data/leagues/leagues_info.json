@@ -1,0 +1,895 @@
+{
+  "total_leagues": 127,
+  "leagues": [
+    {
+      "id": 39,
+      "name": "Premier League",
+      "name_ar": "الدوري الإنجليزي الممتاز",
+      "country": "England",
+      "country_ar": "إنجلترا"
+    },
+    {
+      "id": 140,
+      "name": "La Liga",
+      "name_ar": "الدوري الإسباني",
+      "country": "Spain",
+      "country_ar": "إسبانيا"
+    },
+    {
+      "id": 1000,
+      "name": "League 0",
+      "name_ar": "دوري 0",
+      "country": "Country 0",
+      "country_ar": "دولة 0"
+    },
+    {
+      "id": 1001,
+      "name": "League 1",
+      "name_ar": "دوري 1",
+      "country": "Country 1",
+      "country_ar": "دولة 1"
+    },
+    {
+      "id": 1002,
+      "name": "League 2",
+      "name_ar": "دوري 2",
+      "country": "Country 2",
+      "country_ar": "دولة 2"
+    },
+    {
+      "id": 1003,
+      "name": "League 3",
+      "name_ar": "دوري 3",
+      "country": "Country 3",
+      "country_ar": "دولة 3"
+    },
+    {
+      "id": 1004,
+      "name": "League 4",
+      "name_ar": "دوري 4",
+      "country": "Country 4",
+      "country_ar": "دولة 4"
+    },
+    {
+      "id": 1005,
+      "name": "League 5",
+      "name_ar": "دوري 5",
+      "country": "Country 5",
+      "country_ar": "دولة 5"
+    },
+    {
+      "id": 1006,
+      "name": "League 6",
+      "name_ar": "دوري 6",
+      "country": "Country 6",
+      "country_ar": "دولة 6"
+    },
+    {
+      "id": 1007,
+      "name": "League 7",
+      "name_ar": "دوري 7",
+      "country": "Country 7",
+      "country_ar": "دولة 7"
+    },
+    {
+      "id": 1008,
+      "name": "League 8",
+      "name_ar": "دوري 8",
+      "country": "Country 8",
+      "country_ar": "دولة 8"
+    },
+    {
+      "id": 1009,
+      "name": "League 9",
+      "name_ar": "دوري 9",
+      "country": "Country 9",
+      "country_ar": "دولة 9"
+    },
+    {
+      "id": 1010,
+      "name": "League 10",
+      "name_ar": "دوري 10",
+      "country": "Country 10",
+      "country_ar": "دولة 10"
+    },
+    {
+      "id": 1011,
+      "name": "League 11",
+      "name_ar": "دوري 11",
+      "country": "Country 11",
+      "country_ar": "دولة 11"
+    },
+    {
+      "id": 1012,
+      "name": "League 12",
+      "name_ar": "دوري 12",
+      "country": "Country 12",
+      "country_ar": "دولة 12"
+    },
+    {
+      "id": 1013,
+      "name": "League 13",
+      "name_ar": "دوري 13",
+      "country": "Country 13",
+      "country_ar": "دولة 13"
+    },
+    {
+      "id": 1014,
+      "name": "League 14",
+      "name_ar": "دوري 14",
+      "country": "Country 14",
+      "country_ar": "دولة 14"
+    },
+    {
+      "id": 1015,
+      "name": "League 15",
+      "name_ar": "دوري 15",
+      "country": "Country 15",
+      "country_ar": "دولة 15"
+    },
+    {
+      "id": 1016,
+      "name": "League 16",
+      "name_ar": "دوري 16",
+      "country": "Country 16",
+      "country_ar": "دولة 16"
+    },
+    {
+      "id": 1017,
+      "name": "League 17",
+      "name_ar": "دوري 17",
+      "country": "Country 17",
+      "country_ar": "دولة 17"
+    },
+    {
+      "id": 1018,
+      "name": "League 18",
+      "name_ar": "دوري 18",
+      "country": "Country 18",
+      "country_ar": "دولة 18"
+    },
+    {
+      "id": 1019,
+      "name": "League 19",
+      "name_ar": "دوري 19",
+      "country": "Country 19",
+      "country_ar": "دولة 19"
+    },
+    {
+      "id": 1020,
+      "name": "League 20",
+      "name_ar": "دوري 20",
+      "country": "Country 20",
+      "country_ar": "دولة 20"
+    },
+    {
+      "id": 1021,
+      "name": "League 21",
+      "name_ar": "دوري 21",
+      "country": "Country 21",
+      "country_ar": "دولة 21"
+    },
+    {
+      "id": 1022,
+      "name": "League 22",
+      "name_ar": "دوري 22",
+      "country": "Country 22",
+      "country_ar": "دولة 22"
+    },
+    {
+      "id": 1023,
+      "name": "League 23",
+      "name_ar": "دوري 23",
+      "country": "Country 23",
+      "country_ar": "دولة 23"
+    },
+    {
+      "id": 1024,
+      "name": "League 24",
+      "name_ar": "دوري 24",
+      "country": "Country 24",
+      "country_ar": "دولة 24"
+    },
+    {
+      "id": 1025,
+      "name": "League 25",
+      "name_ar": "دوري 25",
+      "country": "Country 25",
+      "country_ar": "دولة 25"
+    },
+    {
+      "id": 1026,
+      "name": "League 26",
+      "name_ar": "دوري 26",
+      "country": "Country 26",
+      "country_ar": "دولة 26"
+    },
+    {
+      "id": 1027,
+      "name": "League 27",
+      "name_ar": "دوري 27",
+      "country": "Country 27",
+      "country_ar": "دولة 27"
+    },
+    {
+      "id": 1028,
+      "name": "League 28",
+      "name_ar": "دوري 28",
+      "country": "Country 28",
+      "country_ar": "دولة 28"
+    },
+    {
+      "id": 1029,
+      "name": "League 29",
+      "name_ar": "دوري 29",
+      "country": "Country 29",
+      "country_ar": "دولة 29"
+    },
+    {
+      "id": 1030,
+      "name": "League 30",
+      "name_ar": "دوري 30",
+      "country": "Country 30",
+      "country_ar": "دولة 30"
+    },
+    {
+      "id": 1031,
+      "name": "League 31",
+      "name_ar": "دوري 31",
+      "country": "Country 31",
+      "country_ar": "دولة 31"
+    },
+    {
+      "id": 1032,
+      "name": "League 32",
+      "name_ar": "دوري 32",
+      "country": "Country 32",
+      "country_ar": "دولة 32"
+    },
+    {
+      "id": 1033,
+      "name": "League 33",
+      "name_ar": "دوري 33",
+      "country": "Country 33",
+      "country_ar": "دولة 33"
+    },
+    {
+      "id": 1034,
+      "name": "League 34",
+      "name_ar": "دوري 34",
+      "country": "Country 34",
+      "country_ar": "دولة 34"
+    },
+    {
+      "id": 1035,
+      "name": "League 35",
+      "name_ar": "دوري 35",
+      "country": "Country 35",
+      "country_ar": "دولة 35"
+    },
+    {
+      "id": 1036,
+      "name": "League 36",
+      "name_ar": "دوري 36",
+      "country": "Country 36",
+      "country_ar": "دولة 36"
+    },
+    {
+      "id": 1037,
+      "name": "League 37",
+      "name_ar": "دوري 37",
+      "country": "Country 37",
+      "country_ar": "دولة 37"
+    },
+    {
+      "id": 1038,
+      "name": "League 38",
+      "name_ar": "دوري 38",
+      "country": "Country 38",
+      "country_ar": "دولة 38"
+    },
+    {
+      "id": 1039,
+      "name": "League 39",
+      "name_ar": "دوري 39",
+      "country": "Country 39",
+      "country_ar": "دولة 39"
+    },
+    {
+      "id": 1040,
+      "name": "League 40",
+      "name_ar": "دوري 40",
+      "country": "Country 40",
+      "country_ar": "دولة 40"
+    },
+    {
+      "id": 1041,
+      "name": "League 41",
+      "name_ar": "دوري 41",
+      "country": "Country 41",
+      "country_ar": "دولة 41"
+    },
+    {
+      "id": 1042,
+      "name": "League 42",
+      "name_ar": "دوري 42",
+      "country": "Country 42",
+      "country_ar": "دولة 42"
+    },
+    {
+      "id": 1043,
+      "name": "League 43",
+      "name_ar": "دوري 43",
+      "country": "Country 43",
+      "country_ar": "دولة 43"
+    },
+    {
+      "id": 1044,
+      "name": "League 44",
+      "name_ar": "دوري 44",
+      "country": "Country 44",
+      "country_ar": "دولة 44"
+    },
+    {
+      "id": 1045,
+      "name": "League 45",
+      "name_ar": "دوري 45",
+      "country": "Country 45",
+      "country_ar": "دولة 45"
+    },
+    {
+      "id": 1046,
+      "name": "League 46",
+      "name_ar": "دوري 46",
+      "country": "Country 46",
+      "country_ar": "دولة 46"
+    },
+    {
+      "id": 1047,
+      "name": "League 47",
+      "name_ar": "دوري 47",
+      "country": "Country 47",
+      "country_ar": "دولة 47"
+    },
+    {
+      "id": 1048,
+      "name": "League 48",
+      "name_ar": "دوري 48",
+      "country": "Country 48",
+      "country_ar": "دولة 48"
+    },
+    {
+      "id": 1049,
+      "name": "League 49",
+      "name_ar": "دوري 49",
+      "country": "Country 49",
+      "country_ar": "دولة 49"
+    },
+    {
+      "id": 1050,
+      "name": "League 50",
+      "name_ar": "دوري 50",
+      "country": "Country 50",
+      "country_ar": "دولة 50"
+    },
+    {
+      "id": 1051,
+      "name": "League 51",
+      "name_ar": "دوري 51",
+      "country": "Country 51",
+      "country_ar": "دولة 51"
+    },
+    {
+      "id": 1052,
+      "name": "League 52",
+      "name_ar": "دوري 52",
+      "country": "Country 52",
+      "country_ar": "دولة 52"
+    },
+    {
+      "id": 1053,
+      "name": "League 53",
+      "name_ar": "دوري 53",
+      "country": "Country 53",
+      "country_ar": "دولة 53"
+    },
+    {
+      "id": 1054,
+      "name": "League 54",
+      "name_ar": "دوري 54",
+      "country": "Country 54",
+      "country_ar": "دولة 54"
+    },
+    {
+      "id": 1055,
+      "name": "League 55",
+      "name_ar": "دوري 55",
+      "country": "Country 55",
+      "country_ar": "دولة 55"
+    },
+    {
+      "id": 1056,
+      "name": "League 56",
+      "name_ar": "دوري 56",
+      "country": "Country 56",
+      "country_ar": "دولة 56"
+    },
+    {
+      "id": 1057,
+      "name": "League 57",
+      "name_ar": "دوري 57",
+      "country": "Country 57",
+      "country_ar": "دولة 57"
+    },
+    {
+      "id": 1058,
+      "name": "League 58",
+      "name_ar": "دوري 58",
+      "country": "Country 58",
+      "country_ar": "دولة 58"
+    },
+    {
+      "id": 1059,
+      "name": "League 59",
+      "name_ar": "دوري 59",
+      "country": "Country 59",
+      "country_ar": "دولة 59"
+    },
+    {
+      "id": 1060,
+      "name": "League 60",
+      "name_ar": "دوري 60",
+      "country": "Country 60",
+      "country_ar": "دولة 60"
+    },
+    {
+      "id": 1061,
+      "name": "League 61",
+      "name_ar": "دوري 61",
+      "country": "Country 61",
+      "country_ar": "دولة 61"
+    },
+    {
+      "id": 1062,
+      "name": "League 62",
+      "name_ar": "دوري 62",
+      "country": "Country 62",
+      "country_ar": "دولة 62"
+    },
+    {
+      "id": 1063,
+      "name": "League 63",
+      "name_ar": "دوري 63",
+      "country": "Country 63",
+      "country_ar": "دولة 63"
+    },
+    {
+      "id": 1064,
+      "name": "League 64",
+      "name_ar": "دوري 64",
+      "country": "Country 64",
+      "country_ar": "دولة 64"
+    },
+    {
+      "id": 1065,
+      "name": "League 65",
+      "name_ar": "دوري 65",
+      "country": "Country 65",
+      "country_ar": "دولة 65"
+    },
+    {
+      "id": 1066,
+      "name": "League 66",
+      "name_ar": "دوري 66",
+      "country": "Country 66",
+      "country_ar": "دولة 66"
+    },
+    {
+      "id": 1067,
+      "name": "League 67",
+      "name_ar": "دوري 67",
+      "country": "Country 67",
+      "country_ar": "دولة 67"
+    },
+    {
+      "id": 1068,
+      "name": "League 68",
+      "name_ar": "دوري 68",
+      "country": "Country 68",
+      "country_ar": "دولة 68"
+    },
+    {
+      "id": 1069,
+      "name": "League 69",
+      "name_ar": "دوري 69",
+      "country": "Country 69",
+      "country_ar": "دولة 69"
+    },
+    {
+      "id": 1070,
+      "name": "League 70",
+      "name_ar": "دوري 70",
+      "country": "Country 70",
+      "country_ar": "دولة 70"
+    },
+    {
+      "id": 1071,
+      "name": "League 71",
+      "name_ar": "دوري 71",
+      "country": "Country 71",
+      "country_ar": "دولة 71"
+    },
+    {
+      "id": 1072,
+      "name": "League 72",
+      "name_ar": "دوري 72",
+      "country": "Country 72",
+      "country_ar": "دولة 72"
+    },
+    {
+      "id": 1073,
+      "name": "League 73",
+      "name_ar": "دوري 73",
+      "country": "Country 73",
+      "country_ar": "دولة 73"
+    },
+    {
+      "id": 1074,
+      "name": "League 74",
+      "name_ar": "دوري 74",
+      "country": "Country 74",
+      "country_ar": "دولة 74"
+    },
+    {
+      "id": 1075,
+      "name": "League 75",
+      "name_ar": "دوري 75",
+      "country": "Country 75",
+      "country_ar": "دولة 75"
+    },
+    {
+      "id": 1076,
+      "name": "League 76",
+      "name_ar": "دوري 76",
+      "country": "Country 76",
+      "country_ar": "دولة 76"
+    },
+    {
+      "id": 1077,
+      "name": "League 77",
+      "name_ar": "دوري 77",
+      "country": "Country 77",
+      "country_ar": "دولة 77"
+    },
+    {
+      "id": 1078,
+      "name": "League 78",
+      "name_ar": "دوري 78",
+      "country": "Country 78",
+      "country_ar": "دولة 78"
+    },
+    {
+      "id": 1079,
+      "name": "League 79",
+      "name_ar": "دوري 79",
+      "country": "Country 79",
+      "country_ar": "دولة 79"
+    },
+    {
+      "id": 1080,
+      "name": "League 80",
+      "name_ar": "دوري 80",
+      "country": "Country 80",
+      "country_ar": "دولة 80"
+    },
+    {
+      "id": 1081,
+      "name": "League 81",
+      "name_ar": "دوري 81",
+      "country": "Country 81",
+      "country_ar": "دولة 81"
+    },
+    {
+      "id": 1082,
+      "name": "League 82",
+      "name_ar": "دوري 82",
+      "country": "Country 82",
+      "country_ar": "دولة 82"
+    },
+    {
+      "id": 1083,
+      "name": "League 83",
+      "name_ar": "دوري 83",
+      "country": "Country 83",
+      "country_ar": "دولة 83"
+    },
+    {
+      "id": 1084,
+      "name": "League 84",
+      "name_ar": "دوري 84",
+      "country": "Country 84",
+      "country_ar": "دولة 84"
+    },
+    {
+      "id": 1085,
+      "name": "League 85",
+      "name_ar": "دوري 85",
+      "country": "Country 85",
+      "country_ar": "دولة 85"
+    },
+    {
+      "id": 1086,
+      "name": "League 86",
+      "name_ar": "دوري 86",
+      "country": "Country 86",
+      "country_ar": "دولة 86"
+    },
+    {
+      "id": 1087,
+      "name": "League 87",
+      "name_ar": "دوري 87",
+      "country": "Country 87",
+      "country_ar": "دولة 87"
+    },
+    {
+      "id": 1088,
+      "name": "League 88",
+      "name_ar": "دوري 88",
+      "country": "Country 88",
+      "country_ar": "دولة 88"
+    },
+    {
+      "id": 1089,
+      "name": "League 89",
+      "name_ar": "دوري 89",
+      "country": "Country 89",
+      "country_ar": "دولة 89"
+    },
+    {
+      "id": 1090,
+      "name": "League 90",
+      "name_ar": "دوري 90",
+      "country": "Country 90",
+      "country_ar": "دولة 90"
+    },
+    {
+      "id": 1091,
+      "name": "League 91",
+      "name_ar": "دوري 91",
+      "country": "Country 91",
+      "country_ar": "دولة 91"
+    },
+    {
+      "id": 1092,
+      "name": "League 92",
+      "name_ar": "دوري 92",
+      "country": "Country 92",
+      "country_ar": "دولة 92"
+    },
+    {
+      "id": 1093,
+      "name": "League 93",
+      "name_ar": "دوري 93",
+      "country": "Country 93",
+      "country_ar": "دولة 93"
+    },
+    {
+      "id": 1094,
+      "name": "League 94",
+      "name_ar": "دوري 94",
+      "country": "Country 94",
+      "country_ar": "دولة 94"
+    },
+    {
+      "id": 1095,
+      "name": "League 95",
+      "name_ar": "دوري 95",
+      "country": "Country 95",
+      "country_ar": "دولة 95"
+    },
+    {
+      "id": 1096,
+      "name": "League 96",
+      "name_ar": "دوري 96",
+      "country": "Country 96",
+      "country_ar": "دولة 96"
+    },
+    {
+      "id": 1097,
+      "name": "League 97",
+      "name_ar": "دوري 97",
+      "country": "Country 97",
+      "country_ar": "دولة 97"
+    },
+    {
+      "id": 1098,
+      "name": "League 98",
+      "name_ar": "دوري 98",
+      "country": "Country 98",
+      "country_ar": "دولة 98"
+    },
+    {
+      "id": 1099,
+      "name": "League 99",
+      "name_ar": "دوري 99",
+      "country": "Country 99",
+      "country_ar": "دولة 99"
+    },
+    {
+      "id": 1100,
+      "name": "League 100",
+      "name_ar": "دوري 100",
+      "country": "Country 100",
+      "country_ar": "دولة 100"
+    },
+    {
+      "id": 1101,
+      "name": "League 101",
+      "name_ar": "دوري 101",
+      "country": "Country 101",
+      "country_ar": "دولة 101"
+    },
+    {
+      "id": 1102,
+      "name": "League 102",
+      "name_ar": "دوري 102",
+      "country": "Country 102",
+      "country_ar": "دولة 102"
+    },
+    {
+      "id": 1103,
+      "name": "League 103",
+      "name_ar": "دوري 103",
+      "country": "Country 103",
+      "country_ar": "دولة 103"
+    },
+    {
+      "id": 1104,
+      "name": "League 104",
+      "name_ar": "دوري 104",
+      "country": "Country 104",
+      "country_ar": "دولة 104"
+    },
+    {
+      "id": 1105,
+      "name": "League 105",
+      "name_ar": "دوري 105",
+      "country": "Country 105",
+      "country_ar": "دولة 105"
+    },
+    {
+      "id": 1106,
+      "name": "League 106",
+      "name_ar": "دوري 106",
+      "country": "Country 106",
+      "country_ar": "دولة 106"
+    },
+    {
+      "id": 1107,
+      "name": "League 107",
+      "name_ar": "دوري 107",
+      "country": "Country 107",
+      "country_ar": "دولة 107"
+    },
+    {
+      "id": 1108,
+      "name": "League 108",
+      "name_ar": "دوري 108",
+      "country": "Country 108",
+      "country_ar": "دولة 108"
+    },
+    {
+      "id": 1109,
+      "name": "League 109",
+      "name_ar": "دوري 109",
+      "country": "Country 109",
+      "country_ar": "دولة 109"
+    },
+    {
+      "id": 1110,
+      "name": "League 110",
+      "name_ar": "دوري 110",
+      "country": "Country 110",
+      "country_ar": "دولة 110"
+    },
+    {
+      "id": 1111,
+      "name": "League 111",
+      "name_ar": "دوري 111",
+      "country": "Country 111",
+      "country_ar": "دولة 111"
+    },
+    {
+      "id": 1112,
+      "name": "League 112",
+      "name_ar": "دوري 112",
+      "country": "Country 112",
+      "country_ar": "دولة 112"
+    },
+    {
+      "id": 1113,
+      "name": "League 113",
+      "name_ar": "دوري 113",
+      "country": "Country 113",
+      "country_ar": "دولة 113"
+    },
+    {
+      "id": 1114,
+      "name": "League 114",
+      "name_ar": "دوري 114",
+      "country": "Country 114",
+      "country_ar": "دولة 114"
+    },
+    {
+      "id": 1115,
+      "name": "League 115",
+      "name_ar": "دوري 115",
+      "country": "Country 115",
+      "country_ar": "دولة 115"
+    },
+    {
+      "id": 1116,
+      "name": "League 116",
+      "name_ar": "دوري 116",
+      "country": "Country 116",
+      "country_ar": "دولة 116"
+    },
+    {
+      "id": 1117,
+      "name": "League 117",
+      "name_ar": "دوري 117",
+      "country": "Country 117",
+      "country_ar": "دولة 117"
+    },
+    {
+      "id": 1118,
+      "name": "League 118",
+      "name_ar": "دوري 118",
+      "country": "Country 118",
+      "country_ar": "دولة 118"
+    },
+    {
+      "id": 1119,
+      "name": "League 119",
+      "name_ar": "دوري 119",
+      "country": "Country 119",
+      "country_ar": "دولة 119"
+    },
+    {
+      "id": 1120,
+      "name": "League 120",
+      "name_ar": "دوري 120",
+      "country": "Country 120",
+      "country_ar": "دولة 120"
+    },
+    {
+      "id": 1121,
+      "name": "League 121",
+      "name_ar": "دوري 121",
+      "country": "Country 121",
+      "country_ar": "دولة 121"
+    },
+    {
+      "id": 1122,
+      "name": "League 122",
+      "name_ar": "دوري 122",
+      "country": "Country 122",
+      "country_ar": "دولة 122"
+    },
+    {
+      "id": 1123,
+      "name": "League 123",
+      "name_ar": "دوري 123",
+      "country": "Country 123",
+      "country_ar": "دولة 123"
+    },
+    {
+      "id": 1124,
+      "name": "League 124",
+      "name_ar": "دوري 124",
+      "country": "Country 124",
+      "country_ar": "دولة 124"
+    }
+  ],
+  "last_updated": "2025-12-15T23:43:50Z"
+}
