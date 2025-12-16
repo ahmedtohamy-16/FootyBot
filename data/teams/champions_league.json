@@ -1,0 +1,847 @@
+{
+  "league": {
+    "id": 2,
+    "name": "UEFA Champions League",
+    "name_ar": "دوري أبطال أوروبا",
+    "country": "Europe",
+    "country_ar": "أوروبا",
+    "logo": "https://media.api-sports.io/football/leagues/2.png",
+    "season": "2024-2025"
+  },
+  "teams": [
+    {
+      "id": 50,
+      "name": "Manchester City",
+      "name_ar": "مانشستر سيتي",
+      "code": "MCI",
+      "logo": "https://media.api-sports.io/football/teams/50.png",
+      "founded": 1880,
+      "stadium": {
+        "name": "Etihad Stadium",
+        "name_ar": "الاتحاد",
+        "capacity": 55097,
+        "city": "Manchester",
+        "city_ar": "مانشستر"
+      },
+      "nickname": "Citizens",
+      "nickname_ar": "السيتيزنز",
+      "colors": {
+        "primary": "Sky Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 9,
+        "domestic_cups": 7,
+        "european_cups": 1
+      }
+    },
+    {
+      "id": 40,
+      "name": "Liverpool",
+      "name_ar": "ليفربول",
+      "code": "LIV",
+      "logo": "https://media.api-sports.io/football/teams/40.png",
+      "founded": 1892,
+      "stadium": {
+        "name": "Anfield",
+        "name_ar": "أنفيلد",
+        "capacity": 54074,
+        "city": "Liverpool",
+        "city_ar": "ليفربول"
+      },
+      "nickname": "The Reds",
+      "nickname_ar": "الحمر",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 19,
+        "domestic_cups": 8,
+        "european_cups": 6
+      }
+    },
+    {
+      "id": 541,
+      "name": "Real Madrid",
+      "name_ar": "ريال مدريد",
+      "code": "RMA",
+      "logo": "https://media.api-sports.io/football/teams/541.png",
+      "founded": 1902,
+      "stadium": {
+        "name": "Santiago Bernabéu",
+        "name_ar": "برنابيو",
+        "capacity": 81044,
+        "city": "Madrid",
+        "city_ar": "مدريد"
+      },
+      "nickname": "Los Blancos",
+      "nickname_ar": "الملكي",
+      "colors": {
+        "primary": "White",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 35,
+        "domestic_cups": 19,
+        "european_cups": 14
+      }
+    },
+    {
+      "id": 529,
+      "name": "Barcelona",
+      "name_ar": "برشلونة",
+      "code": "BAR",
+      "logo": "https://media.api-sports.io/football/teams/529.png",
+      "founded": 1899,
+      "stadium": {
+        "name": "Camp Nou",
+        "name_ar": "كامب نو",
+        "capacity": 99354,
+        "city": "Barcelona",
+        "city_ar": "برشلونة"
+      },
+      "nickname": "Blaugrana",
+      "nickname_ar": "البلوغرانا",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "Red"
+      },
+      "trophies": {
+        "league_titles": 27,
+        "domestic_cups": 31,
+        "european_cups": 5
+      }
+    },
+    {
+      "id": 157,
+      "name": "Bayern Munich",
+      "name_ar": "بايرن ميونخ",
+      "code": "BAY",
+      "logo": "https://media.api-sports.io/football/teams/157.png",
+      "founded": 1900,
+      "stadium": {
+        "name": "Allianz Arena",
+        "name_ar": "أليانز",
+        "capacity": 75000,
+        "city": "Munich",
+        "city_ar": "ميونخ"
+      },
+      "nickname": "Die Roten",
+      "nickname_ar": "الحمر",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 33,
+        "domestic_cups": 20,
+        "european_cups": 6
+      }
+    },
+    {
+      "id": 487,
+      "name": "Inter Milan",
+      "name_ar": "إنتر ميلان",
+      "code": "INT",
+      "logo": "https://media.api-sports.io/football/teams/487.png",
+      "founded": 1908,
+      "stadium": {
+        "name": "San Siro",
+        "name_ar": "سان سيرو",
+        "capacity": 80018,
+        "city": "Milan",
+        "city_ar": "ميلان"
+      },
+      "nickname": "Nerazzurri",
+      "nickname_ar": "النيرازوري",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 19,
+        "domestic_cups": 8,
+        "european_cups": 3
+      }
+    },
+    {
+      "id": 15000,
+      "name": "UCL Team 7",
+      "name_ar": "فريق دوري أبطال 7",
+      "code": "UCL7",
+      "logo": "https://media.api-sports.io/football/teams/15000.png",
+      "founded": 1900,
+      "stadium": {
+        "name": "Stadium 7",
+        "name_ar": "ملعب 7",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 7",
+      "nickname_ar": "فريق 7",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15001,
+      "name": "UCL Team 8",
+      "name_ar": "فريق دوري أبطال 8",
+      "code": "UCL8",
+      "logo": "https://media.api-sports.io/football/teams/15001.png",
+      "founded": 1901,
+      "stadium": {
+        "name": "Stadium 8",
+        "name_ar": "ملعب 8",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 8",
+      "nickname_ar": "فريق 8",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15002,
+      "name": "UCL Team 9",
+      "name_ar": "فريق دوري أبطال 9",
+      "code": "UCL9",
+      "logo": "https://media.api-sports.io/football/teams/15002.png",
+      "founded": 1902,
+      "stadium": {
+        "name": "Stadium 9",
+        "name_ar": "ملعب 9",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 9",
+      "nickname_ar": "فريق 9",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15003,
+      "name": "UCL Team 10",
+      "name_ar": "فريق دوري أبطال 10",
+      "code": "UCL10",
+      "logo": "https://media.api-sports.io/football/teams/15003.png",
+      "founded": 1903,
+      "stadium": {
+        "name": "Stadium 10",
+        "name_ar": "ملعب 10",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 10",
+      "nickname_ar": "فريق 10",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15004,
+      "name": "UCL Team 11",
+      "name_ar": "فريق دوري أبطال 11",
+      "code": "UCL11",
+      "logo": "https://media.api-sports.io/football/teams/15004.png",
+      "founded": 1904,
+      "stadium": {
+        "name": "Stadium 11",
+        "name_ar": "ملعب 11",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 11",
+      "nickname_ar": "فريق 11",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15005,
+      "name": "UCL Team 12",
+      "name_ar": "فريق دوري أبطال 12",
+      "code": "UCL12",
+      "logo": "https://media.api-sports.io/football/teams/15005.png",
+      "founded": 1905,
+      "stadium": {
+        "name": "Stadium 12",
+        "name_ar": "ملعب 12",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 12",
+      "nickname_ar": "فريق 12",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15006,
+      "name": "UCL Team 13",
+      "name_ar": "فريق دوري أبطال 13",
+      "code": "UCL13",
+      "logo": "https://media.api-sports.io/football/teams/15006.png",
+      "founded": 1906,
+      "stadium": {
+        "name": "Stadium 13",
+        "name_ar": "ملعب 13",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 13",
+      "nickname_ar": "فريق 13",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15007,
+      "name": "UCL Team 14",
+      "name_ar": "فريق دوري أبطال 14",
+      "code": "UCL14",
+      "logo": "https://media.api-sports.io/football/teams/15007.png",
+      "founded": 1907,
+      "stadium": {
+        "name": "Stadium 14",
+        "name_ar": "ملعب 14",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 14",
+      "nickname_ar": "فريق 14",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15008,
+      "name": "UCL Team 15",
+      "name_ar": "فريق دوري أبطال 15",
+      "code": "UCL15",
+      "logo": "https://media.api-sports.io/football/teams/15008.png",
+      "founded": 1908,
+      "stadium": {
+        "name": "Stadium 15",
+        "name_ar": "ملعب 15",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 15",
+      "nickname_ar": "فريق 15",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15009,
+      "name": "UCL Team 16",
+      "name_ar": "فريق دوري أبطال 16",
+      "code": "UCL16",
+      "logo": "https://media.api-sports.io/football/teams/15009.png",
+      "founded": 1909,
+      "stadium": {
+        "name": "Stadium 16",
+        "name_ar": "ملعب 16",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 16",
+      "nickname_ar": "فريق 16",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15010,
+      "name": "UCL Team 17",
+      "name_ar": "فريق دوري أبطال 17",
+      "code": "UCL17",
+      "logo": "https://media.api-sports.io/football/teams/15010.png",
+      "founded": 1910,
+      "stadium": {
+        "name": "Stadium 17",
+        "name_ar": "ملعب 17",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 17",
+      "nickname_ar": "فريق 17",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15011,
+      "name": "UCL Team 18",
+      "name_ar": "فريق دوري أبطال 18",
+      "code": "UCL18",
+      "logo": "https://media.api-sports.io/football/teams/15011.png",
+      "founded": 1911,
+      "stadium": {
+        "name": "Stadium 18",
+        "name_ar": "ملعب 18",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 18",
+      "nickname_ar": "فريق 18",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15012,
+      "name": "UCL Team 19",
+      "name_ar": "فريق دوري أبطال 19",
+      "code": "UCL19",
+      "logo": "https://media.api-sports.io/football/teams/15012.png",
+      "founded": 1912,
+      "stadium": {
+        "name": "Stadium 19",
+        "name_ar": "ملعب 19",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 19",
+      "nickname_ar": "فريق 19",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15013,
+      "name": "UCL Team 20",
+      "name_ar": "فريق دوري أبطال 20",
+      "code": "UCL20",
+      "logo": "https://media.api-sports.io/football/teams/15013.png",
+      "founded": 1913,
+      "stadium": {
+        "name": "Stadium 20",
+        "name_ar": "ملعب 20",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 20",
+      "nickname_ar": "فريق 20",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15014,
+      "name": "UCL Team 21",
+      "name_ar": "فريق دوري أبطال 21",
+      "code": "UCL21",
+      "logo": "https://media.api-sports.io/football/teams/15014.png",
+      "founded": 1914,
+      "stadium": {
+        "name": "Stadium 21",
+        "name_ar": "ملعب 21",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 21",
+      "nickname_ar": "فريق 21",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15015,
+      "name": "UCL Team 22",
+      "name_ar": "فريق دوري أبطال 22",
+      "code": "UCL22",
+      "logo": "https://media.api-sports.io/football/teams/15015.png",
+      "founded": 1915,
+      "stadium": {
+        "name": "Stadium 22",
+        "name_ar": "ملعب 22",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 22",
+      "nickname_ar": "فريق 22",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15016,
+      "name": "UCL Team 23",
+      "name_ar": "فريق دوري أبطال 23",
+      "code": "UCL23",
+      "logo": "https://media.api-sports.io/football/teams/15016.png",
+      "founded": 1916,
+      "stadium": {
+        "name": "Stadium 23",
+        "name_ar": "ملعب 23",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 23",
+      "nickname_ar": "فريق 23",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15017,
+      "name": "UCL Team 24",
+      "name_ar": "فريق دوري أبطال 24",
+      "code": "UCL24",
+      "logo": "https://media.api-sports.io/football/teams/15017.png",
+      "founded": 1917,
+      "stadium": {
+        "name": "Stadium 24",
+        "name_ar": "ملعب 24",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 24",
+      "nickname_ar": "فريق 24",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15018,
+      "name": "UCL Team 25",
+      "name_ar": "فريق دوري أبطال 25",
+      "code": "UCL25",
+      "logo": "https://media.api-sports.io/football/teams/15018.png",
+      "founded": 1918,
+      "stadium": {
+        "name": "Stadium 25",
+        "name_ar": "ملعب 25",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 25",
+      "nickname_ar": "فريق 25",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15019,
+      "name": "UCL Team 26",
+      "name_ar": "فريق دوري أبطال 26",
+      "code": "UCL26",
+      "logo": "https://media.api-sports.io/football/teams/15019.png",
+      "founded": 1919,
+      "stadium": {
+        "name": "Stadium 26",
+        "name_ar": "ملعب 26",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 26",
+      "nickname_ar": "فريق 26",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15020,
+      "name": "UCL Team 27",
+      "name_ar": "فريق دوري أبطال 27",
+      "code": "UCL27",
+      "logo": "https://media.api-sports.io/football/teams/15020.png",
+      "founded": 1920,
+      "stadium": {
+        "name": "Stadium 27",
+        "name_ar": "ملعب 27",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 27",
+      "nickname_ar": "فريق 27",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15021,
+      "name": "UCL Team 28",
+      "name_ar": "فريق دوري أبطال 28",
+      "code": "UCL28",
+      "logo": "https://media.api-sports.io/football/teams/15021.png",
+      "founded": 1921,
+      "stadium": {
+        "name": "Stadium 28",
+        "name_ar": "ملعب 28",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 28",
+      "nickname_ar": "فريق 28",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15022,
+      "name": "UCL Team 29",
+      "name_ar": "فريق دوري أبطال 29",
+      "code": "UCL29",
+      "logo": "https://media.api-sports.io/football/teams/15022.png",
+      "founded": 1922,
+      "stadium": {
+        "name": "Stadium 29",
+        "name_ar": "ملعب 29",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 29",
+      "nickname_ar": "فريق 29",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15023,
+      "name": "UCL Team 30",
+      "name_ar": "فريق دوري أبطال 30",
+      "code": "UCL30",
+      "logo": "https://media.api-sports.io/football/teams/15023.png",
+      "founded": 1923,
+      "stadium": {
+        "name": "Stadium 30",
+        "name_ar": "ملعب 30",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 30",
+      "nickname_ar": "فريق 30",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15024,
+      "name": "UCL Team 31",
+      "name_ar": "فريق دوري أبطال 31",
+      "code": "UCL31",
+      "logo": "https://media.api-sports.io/football/teams/15024.png",
+      "founded": 1924,
+      "stadium": {
+        "name": "Stadium 31",
+        "name_ar": "ملعب 31",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 31",
+      "nickname_ar": "فريق 31",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 15025,
+      "name": "UCL Team 32",
+      "name_ar": "فريق دوري أبطال 32",
+      "code": "UCL32",
+      "logo": "https://media.api-sports.io/football/teams/15025.png",
+      "founded": 1925,
+      "stadium": {
+        "name": "Stadium 32",
+        "name_ar": "ملعب 32",
+        "capacity": 40000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 32",
+      "nickname_ar": "فريق 32",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    }
+  ],
+  "total_teams": 32,
+  "last_updated": "2025-12-15T23:38:29Z"
+}

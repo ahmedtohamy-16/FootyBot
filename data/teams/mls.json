@@ -1,0 +1,769 @@
+{
+  "league": {
+    "id": 253,
+    "name": "MLS",
+    "name_ar": "الدوري الأمريكي لكرة القدم",
+    "country": "USA",
+    "country_ar": "الولايات المتحدة",
+    "logo": "https://media.api-sports.io/football/leagues/253.png",
+    "season": "2024"
+  },
+  "teams": [
+    {
+      "id": 1598,
+      "name": "Inter Miami",
+      "name_ar": "إنتر ميامي",
+      "code": "MIA",
+      "logo": "https://media.api-sports.io/football/teams/1598.png",
+      "founded": 2018,
+      "stadium": {
+        "name": "DRV PNK Stadium",
+        "name_ar": "دي آر في بي إن كيه",
+        "capacity": 18000,
+        "city": "Miami",
+        "city_ar": "ميامي"
+      },
+      "nickname": "The Herons",
+      "nickname_ar": "مالك الحزين",
+      "colors": {
+        "primary": "Pink",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 1601,
+      "name": "LA Galaxy",
+      "name_ar": "لوس أنجلوس غالاكسي",
+      "code": "LAG",
+      "logo": "https://media.api-sports.io/football/teams/1601.png",
+      "founded": 1995,
+      "stadium": {
+        "name": "Dignity Health Sports Park",
+        "name_ar": "ديجنتي هيلث",
+        "capacity": 27000,
+        "city": "Los Angeles",
+        "city_ar": "لوس أنجلوس"
+      },
+      "nickname": "The Galaxy",
+      "nickname_ar": "المجرة",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "Gold"
+      },
+      "trophies": {
+        "league_titles": 5,
+        "domestic_cups": 2,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5000,
+      "name": "MLS Team 3",
+      "name_ar": "فريق أم إل إس 3",
+      "code": "MLS3",
+      "logo": "https://media.api-sports.io/football/teams/5000.png",
+      "founded": 2000,
+      "stadium": {
+        "name": "Stadium 3",
+        "name_ar": "ملعب 3",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 3",
+      "nickname_ar": "فريق 3",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5001,
+      "name": "MLS Team 4",
+      "name_ar": "فريق أم إل إس 4",
+      "code": "MLS4",
+      "logo": "https://media.api-sports.io/football/teams/5001.png",
+      "founded": 2001,
+      "stadium": {
+        "name": "Stadium 4",
+        "name_ar": "ملعب 4",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 4",
+      "nickname_ar": "فريق 4",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5002,
+      "name": "MLS Team 5",
+      "name_ar": "فريق أم إل إس 5",
+      "code": "MLS5",
+      "logo": "https://media.api-sports.io/football/teams/5002.png",
+      "founded": 2002,
+      "stadium": {
+        "name": "Stadium 5",
+        "name_ar": "ملعب 5",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 5",
+      "nickname_ar": "فريق 5",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5003,
+      "name": "MLS Team 6",
+      "name_ar": "فريق أم إل إس 6",
+      "code": "MLS6",
+      "logo": "https://media.api-sports.io/football/teams/5003.png",
+      "founded": 2003,
+      "stadium": {
+        "name": "Stadium 6",
+        "name_ar": "ملعب 6",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 6",
+      "nickname_ar": "فريق 6",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5004,
+      "name": "MLS Team 7",
+      "name_ar": "فريق أم إل إس 7",
+      "code": "MLS7",
+      "logo": "https://media.api-sports.io/football/teams/5004.png",
+      "founded": 2004,
+      "stadium": {
+        "name": "Stadium 7",
+        "name_ar": "ملعب 7",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 7",
+      "nickname_ar": "فريق 7",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5005,
+      "name": "MLS Team 8",
+      "name_ar": "فريق أم إل إس 8",
+      "code": "MLS8",
+      "logo": "https://media.api-sports.io/football/teams/5005.png",
+      "founded": 2005,
+      "stadium": {
+        "name": "Stadium 8",
+        "name_ar": "ملعب 8",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 8",
+      "nickname_ar": "فريق 8",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5006,
+      "name": "MLS Team 9",
+      "name_ar": "فريق أم إل إس 9",
+      "code": "MLS9",
+      "logo": "https://media.api-sports.io/football/teams/5006.png",
+      "founded": 2006,
+      "stadium": {
+        "name": "Stadium 9",
+        "name_ar": "ملعب 9",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 9",
+      "nickname_ar": "فريق 9",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5007,
+      "name": "MLS Team 10",
+      "name_ar": "فريق أم إل إس 10",
+      "code": "MLS10",
+      "logo": "https://media.api-sports.io/football/teams/5007.png",
+      "founded": 2007,
+      "stadium": {
+        "name": "Stadium 10",
+        "name_ar": "ملعب 10",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 10",
+      "nickname_ar": "فريق 10",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5008,
+      "name": "MLS Team 11",
+      "name_ar": "فريق أم إل إس 11",
+      "code": "MLS11",
+      "logo": "https://media.api-sports.io/football/teams/5008.png",
+      "founded": 2008,
+      "stadium": {
+        "name": "Stadium 11",
+        "name_ar": "ملعب 11",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 11",
+      "nickname_ar": "فريق 11",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5009,
+      "name": "MLS Team 12",
+      "name_ar": "فريق أم إل إس 12",
+      "code": "MLS12",
+      "logo": "https://media.api-sports.io/football/teams/5009.png",
+      "founded": 2009,
+      "stadium": {
+        "name": "Stadium 12",
+        "name_ar": "ملعب 12",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 12",
+      "nickname_ar": "فريق 12",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5010,
+      "name": "MLS Team 13",
+      "name_ar": "فريق أم إل إس 13",
+      "code": "MLS13",
+      "logo": "https://media.api-sports.io/football/teams/5010.png",
+      "founded": 2010,
+      "stadium": {
+        "name": "Stadium 13",
+        "name_ar": "ملعب 13",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 13",
+      "nickname_ar": "فريق 13",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5011,
+      "name": "MLS Team 14",
+      "name_ar": "فريق أم إل إس 14",
+      "code": "MLS14",
+      "logo": "https://media.api-sports.io/football/teams/5011.png",
+      "founded": 2011,
+      "stadium": {
+        "name": "Stadium 14",
+        "name_ar": "ملعب 14",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 14",
+      "nickname_ar": "فريق 14",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5012,
+      "name": "MLS Team 15",
+      "name_ar": "فريق أم إل إس 15",
+      "code": "MLS15",
+      "logo": "https://media.api-sports.io/football/teams/5012.png",
+      "founded": 2012,
+      "stadium": {
+        "name": "Stadium 15",
+        "name_ar": "ملعب 15",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 15",
+      "nickname_ar": "فريق 15",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5013,
+      "name": "MLS Team 16",
+      "name_ar": "فريق أم إل إس 16",
+      "code": "MLS16",
+      "logo": "https://media.api-sports.io/football/teams/5013.png",
+      "founded": 2013,
+      "stadium": {
+        "name": "Stadium 16",
+        "name_ar": "ملعب 16",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 16",
+      "nickname_ar": "فريق 16",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5014,
+      "name": "MLS Team 17",
+      "name_ar": "فريق أم إل إس 17",
+      "code": "MLS17",
+      "logo": "https://media.api-sports.io/football/teams/5014.png",
+      "founded": 2014,
+      "stadium": {
+        "name": "Stadium 17",
+        "name_ar": "ملعب 17",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 17",
+      "nickname_ar": "فريق 17",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5015,
+      "name": "MLS Team 18",
+      "name_ar": "فريق أم إل إس 18",
+      "code": "MLS18",
+      "logo": "https://media.api-sports.io/football/teams/5015.png",
+      "founded": 2015,
+      "stadium": {
+        "name": "Stadium 18",
+        "name_ar": "ملعب 18",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 18",
+      "nickname_ar": "فريق 18",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5016,
+      "name": "MLS Team 19",
+      "name_ar": "فريق أم إل إس 19",
+      "code": "MLS19",
+      "logo": "https://media.api-sports.io/football/teams/5016.png",
+      "founded": 2016,
+      "stadium": {
+        "name": "Stadium 19",
+        "name_ar": "ملعب 19",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 19",
+      "nickname_ar": "فريق 19",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5017,
+      "name": "MLS Team 20",
+      "name_ar": "فريق أم إل إس 20",
+      "code": "MLS20",
+      "logo": "https://media.api-sports.io/football/teams/5017.png",
+      "founded": 2017,
+      "stadium": {
+        "name": "Stadium 20",
+        "name_ar": "ملعب 20",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 20",
+      "nickname_ar": "فريق 20",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5018,
+      "name": "MLS Team 21",
+      "name_ar": "فريق أم إل إس 21",
+      "code": "MLS21",
+      "logo": "https://media.api-sports.io/football/teams/5018.png",
+      "founded": 2018,
+      "stadium": {
+        "name": "Stadium 21",
+        "name_ar": "ملعب 21",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 21",
+      "nickname_ar": "فريق 21",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5019,
+      "name": "MLS Team 22",
+      "name_ar": "فريق أم إل إس 22",
+      "code": "MLS22",
+      "logo": "https://media.api-sports.io/football/teams/5019.png",
+      "founded": 2019,
+      "stadium": {
+        "name": "Stadium 22",
+        "name_ar": "ملعب 22",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 22",
+      "nickname_ar": "فريق 22",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5020,
+      "name": "MLS Team 23",
+      "name_ar": "فريق أم إل إس 23",
+      "code": "MLS23",
+      "logo": "https://media.api-sports.io/football/teams/5020.png",
+      "founded": 2020,
+      "stadium": {
+        "name": "Stadium 23",
+        "name_ar": "ملعب 23",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 23",
+      "nickname_ar": "فريق 23",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5021,
+      "name": "MLS Team 24",
+      "name_ar": "فريق أم إل إس 24",
+      "code": "MLS24",
+      "logo": "https://media.api-sports.io/football/teams/5021.png",
+      "founded": 2021,
+      "stadium": {
+        "name": "Stadium 24",
+        "name_ar": "ملعب 24",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 24",
+      "nickname_ar": "فريق 24",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5022,
+      "name": "MLS Team 25",
+      "name_ar": "فريق أم إل إس 25",
+      "code": "MLS25",
+      "logo": "https://media.api-sports.io/football/teams/5022.png",
+      "founded": 2022,
+      "stadium": {
+        "name": "Stadium 25",
+        "name_ar": "ملعب 25",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 25",
+      "nickname_ar": "فريق 25",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5023,
+      "name": "MLS Team 26",
+      "name_ar": "فريق أم إل إس 26",
+      "code": "MLS26",
+      "logo": "https://media.api-sports.io/football/teams/5023.png",
+      "founded": 2023,
+      "stadium": {
+        "name": "Stadium 26",
+        "name_ar": "ملعب 26",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 26",
+      "nickname_ar": "فريق 26",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5024,
+      "name": "MLS Team 27",
+      "name_ar": "فريق أم إل إس 27",
+      "code": "MLS27",
+      "logo": "https://media.api-sports.io/football/teams/5024.png",
+      "founded": 2024,
+      "stadium": {
+        "name": "Stadium 27",
+        "name_ar": "ملعب 27",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 27",
+      "nickname_ar": "فريق 27",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5025,
+      "name": "MLS Team 28",
+      "name_ar": "فريق أم إل إس 28",
+      "code": "MLS28",
+      "logo": "https://media.api-sports.io/football/teams/5025.png",
+      "founded": 2025,
+      "stadium": {
+        "name": "Stadium 28",
+        "name_ar": "ملعب 28",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 28",
+      "nickname_ar": "فريق 28",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 5026,
+      "name": "MLS Team 29",
+      "name_ar": "فريق أم إل إس 29",
+      "code": "MLS29",
+      "logo": "https://media.api-sports.io/football/teams/5026.png",
+      "founded": 2026,
+      "stadium": {
+        "name": "Stadium 29",
+        "name_ar": "ملعب 29",
+        "capacity": 20000,
+        "city": "USA",
+        "city_ar": "أمريكا"
+      },
+      "nickname": "Team 29",
+      "nickname_ar": "فريق 29",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    }
+  ],
+  "total_teams": 29,
+  "last_updated": "2025-12-15T23:37:25Z"
+}

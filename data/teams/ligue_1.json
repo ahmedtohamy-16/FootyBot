@@ -1,0 +1,483 @@
+{
+  "league": {
+    "id": 61,
+    "name": "Ligue 1",
+    "name_ar": "الدوري الفرنسي",
+    "country": "France",
+    "country_ar": "فرنسا",
+    "logo": "https://media.api-sports.io/football/leagues/61.png",
+    "season": "2024-2025"
+  },
+  "teams": [
+    {
+      "id": 85,
+      "name": "Paris Saint Germain",
+      "name_ar": "باريس سان جيرمان",
+      "code": "PSG",
+      "logo": "https://media.api-sports.io/football/teams/85.png",
+      "founded": 1970,
+      "stadium": {
+        "name": "Parc des Princes",
+        "name_ar": "حديقة الأمراء",
+        "capacity": 47929,
+        "city": "Paris",
+        "city_ar": "باريس"
+      },
+      "nickname": "Les Parisiens",
+      "nickname_ar": "الباريسيون",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "Red"
+      },
+      "trophies": {
+        "league_titles": 11,
+        "domestic_cups": 14,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 79,
+      "name": "Lille",
+      "name_ar": "ليل",
+      "code": "LIL",
+      "logo": "https://media.api-sports.io/football/teams/79.png",
+      "founded": 1944,
+      "stadium": {
+        "name": "Stade Pierre-Mauroy",
+        "name_ar": "ملعب بيير موروي",
+        "capacity": 50186,
+        "city": "Lille",
+        "city_ar": "ليل"
+      },
+      "nickname": "Les Dogues",
+      "nickname_ar": "الكلاب",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 4,
+        "domestic_cups": 6,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 81,
+      "name": "Marseille",
+      "name_ar": "مارسيليا",
+      "code": "OLM",
+      "logo": "https://media.api-sports.io/football/teams/81.png",
+      "founded": 1899,
+      "stadium": {
+        "name": "Stade Vélodrome",
+        "name_ar": "ملعب فيلودروم",
+        "capacity": 67394,
+        "city": "Marseille",
+        "city_ar": "مارسيليا"
+      },
+      "nickname": "L'OM",
+      "nickname_ar": "الأولمبي",
+      "colors": {
+        "primary": "White",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 10,
+        "domestic_cups": 10,
+        "european_cups": 1
+      }
+    },
+    {
+      "id": 80,
+      "name": "Lyon",
+      "name_ar": "ليون",
+      "code": "OLY",
+      "logo": "https://media.api-sports.io/football/teams/80.png",
+      "founded": 1950,
+      "stadium": {
+        "name": "Groupama Stadium",
+        "name_ar": "غروباما ستاديوم",
+        "capacity": 59186,
+        "city": "Lyon",
+        "city_ar": "ليون"
+      },
+      "nickname": "Les Gones",
+      "nickname_ar": "الأولاد",
+      "colors": {
+        "primary": "White",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 7,
+        "domestic_cups": 5,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 82,
+      "name": "Monaco",
+      "name_ar": "موناكو",
+      "code": "MON",
+      "logo": "https://media.api-sports.io/football/teams/82.png",
+      "founded": 1924,
+      "stadium": {
+        "name": "Stade Louis II",
+        "name_ar": "ملعب لويس الثاني",
+        "capacity": 18523,
+        "city": "Monaco",
+        "city_ar": "موناكو"
+      },
+      "nickname": "Les Monégasques",
+      "nickname_ar": "الموناكويون",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 8,
+        "domestic_cups": 5,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 84,
+      "name": "Nice",
+      "name_ar": "نيس",
+      "code": "NIC",
+      "logo": "https://media.api-sports.io/football/teams/84.png",
+      "founded": 1904,
+      "stadium": {
+        "name": "Allianz Riviera",
+        "name_ar": "أليانز ريفييرا",
+        "capacity": 36178,
+        "city": "Nice",
+        "city_ar": "نيس"
+      },
+      "nickname": "Les Aiglons",
+      "nickname_ar": "النسور الصغيرة",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 4,
+        "domestic_cups": 3,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 106,
+      "name": "Lens",
+      "name_ar": "لانس",
+      "code": "RCL",
+      "logo": "https://media.api-sports.io/football/teams/106.png",
+      "founded": 1906,
+      "stadium": {
+        "name": "Stade Bollaert-Delelis",
+        "name_ar": "بولارت ديليليس",
+        "capacity": 38223,
+        "city": "Lens",
+        "city_ar": "لانس"
+      },
+      "nickname": "Les Sang et Or",
+      "nickname_ar": "الدم والذهب",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 1,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 83,
+      "name": "Nantes",
+      "name_ar": "نانت",
+      "code": "NAN",
+      "logo": "https://media.api-sports.io/football/teams/83.png",
+      "founded": 1943,
+      "stadium": {
+        "name": "Stade de la Beaujoire",
+        "name_ar": "لا بوجوار",
+        "capacity": 35322,
+        "city": "Nantes",
+        "city_ar": "نانت"
+      },
+      "nickname": "Les Canaris",
+      "nickname_ar": "الكناري",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Green"
+      },
+      "trophies": {
+        "league_titles": 8,
+        "domestic_cups": 3,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 91,
+      "name": "Montpellier",
+      "name_ar": "مونبلييه",
+      "code": "MON",
+      "logo": "https://media.api-sports.io/football/teams/91.png",
+      "founded": 1974,
+      "stadium": {
+        "name": "Stade de la Mosson",
+        "name_ar": "لا موسون",
+        "capacity": 32939,
+        "city": "Montpellier",
+        "city_ar": "مونبلييه"
+      },
+      "nickname": "La Paillade",
+      "nickname_ar": "البايلاد",
+      "colors": {
+        "primary": "Orange",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 1,
+        "domestic_cups": 2,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 93,
+      "name": "Reims",
+      "name_ar": "ريمس",
+      "code": "REI",
+      "logo": "https://media.api-sports.io/football/teams/93.png",
+      "founded": 1931,
+      "stadium": {
+        "name": "Stade Auguste-Delaune",
+        "name_ar": "أوغست ديلون",
+        "capacity": 21029,
+        "city": "Reims",
+        "city_ar": "ريمس"
+      },
+      "nickname": "Les Rémois",
+      "nickname_ar": "الريموا",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 6,
+        "domestic_cups": 2,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 94,
+      "name": "Rennes",
+      "name_ar": "رين",
+      "code": "REN",
+      "logo": "https://media.api-sports.io/football/teams/94.png",
+      "founded": 1901,
+      "stadium": {
+        "name": "Roazhon Park",
+        "name_ar": "روازون بارك",
+        "capacity": 29778,
+        "city": "Rennes",
+        "city_ar": "رين"
+      },
+      "nickname": "Les Rouge et Noir",
+      "nickname_ar": "الأحمر والأسود",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 2,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 96,
+      "name": "Strasbourg",
+      "name_ar": "ستراسبورغ",
+      "code": "STR",
+      "logo": "https://media.api-sports.io/football/teams/96.png",
+      "founded": 1906,
+      "stadium": {
+        "name": "Stade de la Meinau",
+        "name_ar": "لا مينو",
+        "capacity": 26109,
+        "city": "Strasbourg",
+        "city_ar": "ستراسبورغ"
+      },
+      "nickname": "Le Racing",
+      "nickname_ar": "الريسينغ",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 1,
+        "domestic_cups": 3,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 99,
+      "name": "Angers",
+      "name_ar": "أنجيه",
+      "code": "ANG",
+      "logo": "https://media.api-sports.io/football/teams/99.png",
+      "founded": 1919,
+      "stadium": {
+        "name": "Stade Raymond Kopa",
+        "name_ar": "ريموند كوبا",
+        "capacity": 18752,
+        "city": "Angers",
+        "city_ar": "أنجيه"
+      },
+      "nickname": "SCO",
+      "nickname_ar": "أس سي أو",
+      "colors": {
+        "primary": "White",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 103,
+      "name": "Brest",
+      "name_ar": "بريست",
+      "code": "BRE",
+      "logo": "https://media.api-sports.io/football/teams/103.png",
+      "founded": 1950,
+      "stadium": {
+        "name": "Stade Francis-Le Blé",
+        "name_ar": "فرانسيس لو بليه",
+        "capacity": 15220,
+        "city": "Brest",
+        "city_ar": "بريست"
+      },
+      "nickname": "Les Pirates",
+      "nickname_ar": "القراصنة",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 108,
+      "name": "Toulouse",
+      "name_ar": "تولوز",
+      "code": "TOU",
+      "logo": "https://media.api-sports.io/football/teams/108.png",
+      "founded": 1970,
+      "stadium": {
+        "name": "Stadium de Toulouse",
+        "name_ar": "ملعب تولوز",
+        "capacity": 33150,
+        "city": "Toulouse",
+        "city_ar": "تولوز"
+      },
+      "nickname": "Les Violets",
+      "nickname_ar": "البنفسجيون",
+      "colors": {
+        "primary": "Purple",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 1,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 110,
+      "name": "Lorient",
+      "name_ar": "لوريان",
+      "code": "LOR",
+      "logo": "https://media.api-sports.io/football/teams/110.png",
+      "founded": 1926,
+      "stadium": {
+        "name": "Stade du Moustoir",
+        "name_ar": "موستوار",
+        "capacity": 18500,
+        "city": "Lorient",
+        "city_ar": "لوريان"
+      },
+      "nickname": "Les Merlus",
+      "nickname_ar": "الميرلو",
+      "colors": {
+        "primary": "Orange",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 116,
+      "name": "Le Havre",
+      "name_ar": "لوهافر",
+      "code": "HAV",
+      "logo": "https://media.api-sports.io/football/teams/116.png",
+      "founded": 1872,
+      "stadium": {
+        "name": "Stade Océane",
+        "name_ar": "أوسياني",
+        "capacity": 25178,
+        "city": "Le Havre",
+        "city_ar": "لوهافر"
+      },
+      "nickname": "Les Ciel et Marine",
+      "nickname_ar": "السماء والبحرية",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 548,
+      "name": "Metz",
+      "name_ar": "ميتز",
+      "code": "MET",
+      "logo": "https://media.api-sports.io/football/teams/548.png",
+      "founded": 1932,
+      "stadium": {
+        "name": "Stade Saint-Symphorien",
+        "name_ar": "سان سيمفوريان",
+        "capacity": 26661,
+        "city": "Metz",
+        "city_ar": "ميتز"
+      },
+      "nickname": "Les Grenats",
+      "nickname_ar": "العقيق",
+      "colors": {
+        "primary": "Maroon",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 2,
+        "european_cups": 0
+      }
+    }
+  ],
+  "total_teams": 18,
+  "last_updated": "2025-12-15T23:28:55Z"
+}

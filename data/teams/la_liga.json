@@ -1,0 +1,535 @@
+{
+  "league": {
+    "id": 140,
+    "name": "La Liga",
+    "name_ar": "الدوري الإسباني",
+    "country": "Spain",
+    "country_ar": "إسبانيا",
+    "logo": "https://media.api-sports.io/football/leagues/140.png",
+    "season": "2024-2025"
+  },
+  "teams": [
+    {
+      "id": 529,
+      "name": "Barcelona",
+      "name_ar": "برشلونة",
+      "code": "BAR",
+      "logo": "https://media.api-sports.io/football/teams/529.png",
+      "founded": 1899,
+      "stadium": {
+        "name": "Camp Nou",
+        "name_ar": "كامب نو",
+        "capacity": 99354,
+        "city": "Barcelona",
+        "city_ar": "برشلونة"
+      },
+      "nickname": "Blaugrana",
+      "nickname_ar": "البلوغرانا",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "Red"
+      },
+      "trophies": {
+        "league_titles": 27,
+        "domestic_cups": 31,
+        "european_cups": 5
+      }
+    },
+    {
+      "id": 541,
+      "name": "Real Madrid",
+      "name_ar": "ريال مدريد",
+      "code": "RMA",
+      "logo": "https://media.api-sports.io/football/teams/541.png",
+      "founded": 1902,
+      "stadium": {
+        "name": "Santiago Bernabéu",
+        "name_ar": "سانتياغو برنابيو",
+        "capacity": 81044,
+        "city": "Madrid",
+        "city_ar": "مدريد"
+      },
+      "nickname": "Los Blancos",
+      "nickname_ar": "الملكي",
+      "colors": {
+        "primary": "White",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 35,
+        "domestic_cups": 19,
+        "european_cups": 14
+      }
+    },
+    {
+      "id": 530,
+      "name": "Atletico Madrid",
+      "name_ar": "أتلتيكو مدريد",
+      "code": "ATM",
+      "logo": "https://media.api-sports.io/football/teams/530.png",
+      "founded": 1903,
+      "stadium": {
+        "name": "Wanda Metropolitano",
+        "name_ar": "واندا متروبوليتانو",
+        "capacity": 68456,
+        "city": "Madrid",
+        "city_ar": "مدريد"
+      },
+      "nickname": "Los Colchoneros",
+      "nickname_ar": "الكولشونيروس",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 11,
+        "domestic_cups": 10,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 532,
+      "name": "Valencia",
+      "name_ar": "فالنسيا",
+      "code": "VAL",
+      "logo": "https://media.api-sports.io/football/teams/532.png",
+      "founded": 1919,
+      "stadium": {
+        "name": "Mestalla",
+        "name_ar": "ميستايا",
+        "capacity": 49430,
+        "city": "Valencia",
+        "city_ar": "فالنسيا"
+      },
+      "nickname": "Los Che",
+      "nickname_ar": "لوس تشي",
+      "colors": {
+        "primary": "White",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 6,
+        "domestic_cups": 8,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 536,
+      "name": "Sevilla",
+      "name_ar": "إشبيلية",
+      "code": "SEV",
+      "logo": "https://media.api-sports.io/football/teams/536.png",
+      "founded": 1890,
+      "stadium": {
+        "name": "Ramón Sánchez Pizjuán",
+        "name_ar": "رامون سانشيز بيزخوان",
+        "capacity": 43883,
+        "city": "Seville",
+        "city_ar": "إشبيلية"
+      },
+      "nickname": "Los Nervionenses",
+      "nickname_ar": "النيرفيون",
+      "colors": {
+        "primary": "White",
+        "secondary": "Red"
+      },
+      "trophies": {
+        "league_titles": 1,
+        "domestic_cups": 5,
+        "european_cups": 7
+      }
+    },
+    {
+      "id": 531,
+      "name": "Athletic Bilbao",
+      "name_ar": "أتلتيك بلباو",
+      "code": "ATH",
+      "logo": "https://media.api-sports.io/football/teams/531.png",
+      "founded": 1898,
+      "stadium": {
+        "name": "San Mamés",
+        "name_ar": "سان ماميس",
+        "capacity": 53289,
+        "city": "Bilbao",
+        "city_ar": "بلباو"
+      },
+      "nickname": "Los Leones",
+      "nickname_ar": "الأسود",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 8,
+        "domestic_cups": 24,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 543,
+      "name": "Real Betis",
+      "name_ar": "ريال بيتيس",
+      "code": "BET",
+      "logo": "https://media.api-sports.io/football/teams/543.png",
+      "founded": 1907,
+      "stadium": {
+        "name": "Benito Villamarín",
+        "name_ar": "بينيتو فيامارين",
+        "capacity": 60721,
+        "city": "Seville",
+        "city_ar": "إشبيلية"
+      },
+      "nickname": "Los Verdiblancos",
+      "nickname_ar": "الأخضر والأبيض",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 1,
+        "domestic_cups": 2,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 533,
+      "name": "Villarreal",
+      "name_ar": "فياريال",
+      "code": "VIL",
+      "logo": "https://media.api-sports.io/football/teams/533.png",
+      "founded": 1923,
+      "stadium": {
+        "name": "Estadio de la Cerámica",
+        "name_ar": "ملعب السيراميكا",
+        "capacity": 23500,
+        "city": "Villarreal",
+        "city_ar": "فياريال"
+      },
+      "nickname": "El Submarino Amarillo",
+      "nickname_ar": "الغواصة الصفراء",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 727,
+      "name": "Osasuna",
+      "name_ar": "أوساسونا",
+      "code": "OSA",
+      "logo": "https://media.api-sports.io/football/teams/727.png",
+      "founded": 1920,
+      "stadium": {
+        "name": "El Sadar",
+        "name_ar": "الصدار",
+        "capacity": 23576,
+        "city": "Pamplona",
+        "city_ar": "بامبلونا"
+      },
+      "nickname": "Los Rojillos",
+      "nickname_ar": "الحمر الصغار",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 540,
+      "name": "Espanyol",
+      "name_ar": "إسبانيول",
+      "code": "ESP",
+      "logo": "https://media.api-sports.io/football/teams/540.png",
+      "founded": 1900,
+      "stadium": {
+        "name": "RCDE Stadium",
+        "name_ar": "ملعب آر سي دي إي",
+        "capacity": 40500,
+        "city": "Barcelona",
+        "city_ar": "برشلونة"
+      },
+      "nickname": "Los Pericos",
+      "nickname_ar": "الببغاوات",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 4,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 728,
+      "name": "Rayo Vallecano",
+      "name_ar": "رايو فايكانو",
+      "code": "RAY",
+      "logo": "https://media.api-sports.io/football/teams/728.png",
+      "founded": 1924,
+      "stadium": {
+        "name": "Campo de Fútbol de Vallecas",
+        "name_ar": "ملعب فاليكاس",
+        "capacity": 14708,
+        "city": "Madrid",
+        "city_ar": "مدريد"
+      },
+      "nickname": "Los Franjirrojos",
+      "nickname_ar": "الحمر",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 798,
+      "name": "Mallorca",
+      "name_ar": "مايوركا",
+      "code": "MLL",
+      "logo": "https://media.api-sports.io/football/teams/798.png",
+      "founded": 1916,
+      "stadium": {
+        "name": "Visit Mallorca Estadi",
+        "name_ar": "ملعب مايوركا",
+        "capacity": 23142,
+        "city": "Palma",
+        "city_ar": "بالما"
+      },
+      "nickname": "Los Bermellones",
+      "nickname_ar": "الحمر",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 1,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 538,
+      "name": "Celta Vigo",
+      "name_ar": "سيلتا فيغو",
+      "code": "CEL",
+      "logo": "https://media.api-sports.io/football/teams/538.png",
+      "founded": 1923,
+      "stadium": {
+        "name": "Balaídos",
+        "name_ar": "بالايدوس",
+        "capacity": 29000,
+        "city": "Vigo",
+        "city_ar": "فيغو"
+      },
+      "nickname": "Os Celestes",
+      "nickname_ar": "السماويون",
+      "colors": {
+        "primary": "Sky Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 548,
+      "name": "Real Sociedad",
+      "name_ar": "ريال سوسيداد",
+      "code": "RSO",
+      "logo": "https://media.api-sports.io/football/teams/548.png",
+      "founded": 1909,
+      "stadium": {
+        "name": "Reale Arena",
+        "name_ar": "ملعب ريالي",
+        "capacity": 39500,
+        "city": "San Sebastián",
+        "city_ar": "سان سيباستيان"
+      },
+      "nickname": "La Real",
+      "nickname_ar": "لا ريال",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 2,
+        "domestic_cups": 3,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 797,
+      "name": "Elche",
+      "name_ar": "إلتشي",
+      "code": "ELC",
+      "logo": "https://media.api-sports.io/football/teams/797.png",
+      "founded": 1923,
+      "stadium": {
+        "name": "Martínez Valero",
+        "name_ar": "مارتينيز فاليرو",
+        "capacity": 33732,
+        "city": "Elche",
+        "city_ar": "إلتشي"
+      },
+      "nickname": "Los Franjiverdes",
+      "nickname_ar": "الأخضر",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 547,
+      "name": "Girona",
+      "name_ar": "جيرونا",
+      "code": "GIR",
+      "logo": "https://media.api-sports.io/football/teams/547.png",
+      "founded": 1930,
+      "stadium": {
+        "name": "Montilivi",
+        "name_ar": "مونتيليفي",
+        "capacity": 13450,
+        "city": "Girona",
+        "city_ar": "جيرونا"
+      },
+      "nickname": "Blanc-i-vermells",
+      "nickname_ar": "الأبيض والأحمر",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 724,
+      "name": "Getafe",
+      "name_ar": "خيتافي",
+      "code": "GET",
+      "logo": "https://media.api-sports.io/football/teams/724.png",
+      "founded": 1983,
+      "stadium": {
+        "name": "Coliseum Alfonso Pérez",
+        "name_ar": "كوليسيوم ألفونسو بيريز",
+        "capacity": 17700,
+        "city": "Getafe",
+        "city_ar": "خيتافي"
+      },
+      "nickname": "El Geta",
+      "nickname_ar": "الأزرق",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 715,
+      "name": "Granada",
+      "name_ar": "غرناطة",
+      "code": "GRA",
+      "logo": "https://media.api-sports.io/football/teams/715.png",
+      "founded": 1931,
+      "stadium": {
+        "name": "Nuevo Los Cármenes",
+        "name_ar": "نويفو لوس كارمينيس",
+        "capacity": 22524,
+        "city": "Granada",
+        "city_ar": "غرناطة"
+      },
+      "nickname": "Los Nazaríes",
+      "nickname_ar": "النصريون",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 720,
+      "name": "Las Palmas",
+      "name_ar": "لاس بالماس",
+      "code": "LPA",
+      "logo": "https://media.api-sports.io/football/teams/720.png",
+      "founded": 1949,
+      "stadium": {
+        "name": "Estadio Gran Canaria",
+        "name_ar": "ملعب غران كناريا",
+        "capacity": 32400,
+        "city": "Las Palmas",
+        "city_ar": "لاس بالماس"
+      },
+      "nickname": "Los Amarillos",
+      "nickname_ar": "الصفر",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 542,
+      "name": "Alaves",
+      "name_ar": "ألافيس",
+      "code": "ALA",
+      "logo": "https://media.api-sports.io/football/teams/542.png",
+      "founded": 1921,
+      "stadium": {
+        "name": "Mendizorroza",
+        "name_ar": "منديزوروزا",
+        "capacity": 19840,
+        "city": "Vitoria",
+        "city_ar": "فيتوريا"
+      },
+      "nickname": "El Glorioso",
+      "nickname_ar": "المجيد",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    }
+  ],
+  "total_teams": 20,
+  "last_updated": "2025-12-15T23:26:02Z"
+}

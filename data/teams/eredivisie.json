@@ -1,0 +1,483 @@
+{
+  "league": {
+    "id": 88,
+    "name": "Eredivisie",
+    "name_ar": "الدوري الهولندي الممتاز",
+    "country": "Netherlands",
+    "country_ar": "هولندا",
+    "logo": "https://media.api-sports.io/football/leagues/88.png",
+    "season": "2024-2025"
+  },
+  "teams": [
+    {
+      "id": 194,
+      "name": "Ajax",
+      "name_ar": "أياكس",
+      "code": "AJA",
+      "logo": "https://media.api-sports.io/football/teams/194.png",
+      "founded": 1900,
+      "stadium": {
+        "name": "Johan Cruyff Arena",
+        "name_ar": "يوهان كرويف أرينا",
+        "capacity": 54990,
+        "city": "Amsterdam",
+        "city_ar": "أمستردام"
+      },
+      "nickname": "De Godenzonen",
+      "nickname_ar": "أبناء الآلهة",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 36,
+        "domestic_cups": 20,
+        "european_cups": 4
+      }
+    },
+    {
+      "id": 188,
+      "name": "PSV Eindhoven",
+      "name_ar": "آيندهوفن",
+      "code": "PSV",
+      "logo": "https://media.api-sports.io/football/teams/188.png",
+      "founded": 1913,
+      "stadium": {
+        "name": "Philips Stadion",
+        "name_ar": "فيليبس ستاديون",
+        "capacity": 35000,
+        "city": "Eindhoven",
+        "city_ar": "آيندهوفن"
+      },
+      "nickname": "Boeren",
+      "nickname_ar": "الفلاحون",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 24,
+        "domestic_cups": 10,
+        "european_cups": 1
+      }
+    },
+    {
+      "id": 203,
+      "name": "Feyenoord",
+      "name_ar": "فينورد",
+      "code": "FEY",
+      "logo": "https://media.api-sports.io/football/teams/203.png",
+      "founded": 1908,
+      "stadium": {
+        "name": "De Kuip",
+        "name_ar": "دي كويب",
+        "capacity": 51117,
+        "city": "Rotterdam",
+        "city_ar": "روتردام"
+      },
+      "nickname": "De Club aan de Maas",
+      "nickname_ar": "نادي الماس",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 15,
+        "domestic_cups": 13,
+        "european_cups": 1
+      }
+    },
+    {
+      "id": 201,
+      "name": "AZ Alkmaar",
+      "name_ar": "ألكمار",
+      "code": "AZA",
+      "logo": "https://media.api-sports.io/football/teams/201.png",
+      "founded": 1967,
+      "stadium": {
+        "name": "AFAS Stadion",
+        "name_ar": "أفاس ستاديون",
+        "capacity": 19500,
+        "city": "Alkmaar",
+        "city_ar": "ألكمار"
+      },
+      "nickname": "Kaaskoppen",
+      "nickname_ar": "رؤوس الجبن",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 2,
+        "domestic_cups": 4,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 193,
+      "name": "FC Utrecht",
+      "name_ar": "أوتريخت",
+      "code": "UTR",
+      "logo": "https://media.api-sports.io/football/teams/193.png",
+      "founded": 1970,
+      "stadium": {
+        "name": "Stadion Galgenwaard",
+        "name_ar": "غالغنفارد",
+        "capacity": 24426,
+        "city": "Utrecht",
+        "city_ar": "أوتريخت"
+      },
+      "nickname": "Utreg",
+      "nickname_ar": "أوتريخ",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 3,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 204,
+      "name": "FC Twente",
+      "name_ar": "توينتي",
+      "code": "TWE",
+      "logo": "https://media.api-sports.io/football/teams/204.png",
+      "founded": 1965,
+      "stadium": {
+        "name": "De Grolsch Veste",
+        "name_ar": "دي غرولش فيستي",
+        "capacity": 30205,
+        "city": "Enschede",
+        "city_ar": "إنسخيده"
+      },
+      "nickname": "Tukkers",
+      "nickname_ar": "التوكرز",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 1,
+        "domestic_cups": 3,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 199,
+      "name": "Vitesse",
+      "name_ar": "فيتيسه",
+      "code": "VIT",
+      "logo": "https://media.api-sports.io/football/teams/199.png",
+      "founded": 1892,
+      "stadium": {
+        "name": "GelreDome",
+        "name_ar": "جيلريدوم",
+        "capacity": 21248,
+        "city": "Arnhem",
+        "city_ar": "أرنيم"
+      },
+      "nickname": "Vitas",
+      "nickname_ar": "فيتاس",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 1,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 198,
+      "name": "FC Groningen",
+      "name_ar": "خرونينجن",
+      "code": "GRO",
+      "logo": "https://media.api-sports.io/football/teams/198.png",
+      "founded": 1971,
+      "stadium": {
+        "name": "Euroborg",
+        "name_ar": "يوروبورغ",
+        "capacity": 22525,
+        "city": "Groningen",
+        "city_ar": "خرونينجن"
+      },
+      "nickname": "Trots van het Noorden",
+      "nickname_ar": "فخر الشمال",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 189,
+      "name": "Go Ahead Eagles",
+      "name_ar": "غو أهيد إيغلز",
+      "code": "GAE",
+      "logo": "https://media.api-sports.io/football/teams/189.png",
+      "founded": 1902,
+      "stadium": {
+        "name": "De Adelaarshorst",
+        "name_ar": "دي أديلارزهورست",
+        "capacity": 10400,
+        "city": "Deventer",
+        "city_ar": "ديفينتير"
+      },
+      "nickname": "Eagles",
+      "nickname_ar": "النسور",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 4,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 192,
+      "name": "Willem II",
+      "name_ar": "ويليم الثاني",
+      "code": "WIL",
+      "logo": "https://media.api-sports.io/football/teams/192.png",
+      "founded": 1896,
+      "stadium": {
+        "name": "Koning Willem II Stadion",
+        "name_ar": "ويليم الثاني",
+        "capacity": 14700,
+        "city": "Tilburg",
+        "city_ar": "تيلبورغ"
+      },
+      "nickname": "Tricolores",
+      "nickname_ar": "الثلاثي",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 3,
+        "domestic_cups": 2,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 206,
+      "name": "Heracles Almelo",
+      "name_ar": "هيراكليس",
+      "code": "HER",
+      "logo": "https://media.api-sports.io/football/teams/206.png",
+      "founded": 1903,
+      "stadium": {
+        "name": "Erve Asito",
+        "name_ar": "إرفي أسيتو",
+        "capacity": 13500,
+        "city": "Almelo",
+        "city_ar": "ألميلو"
+      },
+      "nickname": "Heraclieden",
+      "nickname_ar": "الهيراكليديون",
+      "colors": {
+        "primary": "Black",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 195,
+      "name": "Heerenveen",
+      "name_ar": "هيرينفين",
+      "code": "HEE",
+      "logo": "https://media.api-sports.io/football/teams/195.png",
+      "founded": 1920,
+      "stadium": {
+        "name": "Abe Lenstra Stadion",
+        "name_ar": "آبي لينسترا",
+        "capacity": 27224,
+        "city": "Heerenveen",
+        "city_ar": "هيرينفين"
+      },
+      "nickname": "Superfriezen",
+      "nickname_ar": "السوبر فريزيون",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 191,
+      "name": "Sparta Rotterdam",
+      "name_ar": "سبارتا روتردام",
+      "code": "SPA",
+      "logo": "https://media.api-sports.io/football/teams/191.png",
+      "founded": 1888,
+      "stadium": {
+        "name": "Het Kasteel",
+        "name_ar": "القلعة",
+        "capacity": 11026,
+        "city": "Rotterdam",
+        "city_ar": "روتردام"
+      },
+      "nickname": "Kasteelheren",
+      "nickname_ar": "أسياد القلعة",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 6,
+        "domestic_cups": 3,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 196,
+      "name": "Fortuna Sittard",
+      "name_ar": "فورتونا سيتارد",
+      "code": "FOR",
+      "logo": "https://media.api-sports.io/football/teams/196.png",
+      "founded": 1968,
+      "stadium": {
+        "name": "Fortuna Sittard Stadion",
+        "name_ar": "فورتونا سيتارد",
+        "capacity": 12500,
+        "city": "Sittard",
+        "city_ar": "سيتارد"
+      },
+      "nickname": "De Fortunezen",
+      "nickname_ar": "الفورتونيون",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Green"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 1,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 208,
+      "name": "NEC Nijmegen",
+      "name_ar": "نيمخن",
+      "code": "NEC",
+      "logo": "https://media.api-sports.io/football/teams/208.png",
+      "founded": 1900,
+      "stadium": {
+        "name": "Goffertstadion",
+        "name_ar": "غوفيرتستاديون",
+        "capacity": 12500,
+        "city": "Nijmegen",
+        "city_ar": "نيمخن"
+      },
+      "nickname": "De Clubvan de Duizend",
+      "nickname_ar": "نادي الألف",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 202,
+      "name": "PEC Zwolle",
+      "name_ar": "زفوله",
+      "code": "PEC",
+      "logo": "https://media.api-sports.io/football/teams/202.png",
+      "founded": 1910,
+      "stadium": {
+        "name": "MAC³PARK Stadion",
+        "name_ar": "ماك بارك",
+        "capacity": 14000,
+        "city": "Zwolle",
+        "city_ar": "زفوله"
+      },
+      "nickname": "Blauwvingers",
+      "nickname_ar": "الأصابع الزرقاء",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 197,
+      "name": "RKC Waalwijk",
+      "name_ar": "فالفايك",
+      "code": "RKC",
+      "logo": "https://media.api-sports.io/football/teams/197.png",
+      "founded": 1940,
+      "stadium": {
+        "name": "Mandemakers Stadion",
+        "name_ar": "مانديماكرز",
+        "capacity": 7500,
+        "city": "Waalwijk",
+        "city_ar": "فالفايك"
+      },
+      "nickname": "RKC",
+      "nickname_ar": "آر كيه سي",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 207,
+      "name": "Almere City",
+      "name_ar": "ألميري سيتي",
+      "code": "ALM",
+      "logo": "https://media.api-sports.io/football/teams/207.png",
+      "founded": 2001,
+      "stadium": {
+        "name": "Yanmar Stadion",
+        "name_ar": "يانمار ستاديون",
+        "capacity": 4501,
+        "city": "Almere",
+        "city_ar": "ألميري"
+      },
+      "nickname": "De Zwarte Schapen",
+      "nickname_ar": "الخراف السوداء",
+      "colors": {
+        "primary": "Black",
+        "secondary": "Green"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    }
+  ],
+  "total_teams": 18,
+  "last_updated": "2025-12-15T23:36:26Z"
+}

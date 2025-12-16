@@ -1,0 +1,3391 @@
+{
+  "league": {
+    "id": 0,
+    "name": "International Teams",
+    "name_ar": "المنتخبات الدولية",
+    "country": "World",
+    "country_ar": "العالم",
+    "logo": "https://media.api-sports.io/football/leagues/1.png",
+    "season": "2024"
+  },
+  "teams": [
+    {
+      "id": 10,
+      "name": "England",
+      "name_ar": "إنجلترا",
+      "code": "ENG",
+      "logo": "https://media.api-sports.io/football/teams/10.png",
+      "colors": {
+        "primary": "White",
+        "secondary": "Navy"
+      },
+      "trophies": {
+        "world_cups": 1,
+        "continental_cups": 0,
+        "total_titles": 1
+      }
+    },
+    {
+      "id": 2,
+      "name": "France",
+      "name_ar": "فرنسا",
+      "code": "FRA",
+      "logo": "https://media.api-sports.io/football/teams/2.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 2,
+        "continental_cups": 2,
+        "total_titles": 2
+      }
+    },
+    {
+      "id": 25,
+      "name": "Germany",
+      "name_ar": "ألمانيا",
+      "code": "GER",
+      "logo": "https://media.api-sports.io/football/teams/25.png",
+      "colors": {
+        "primary": "White",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "world_cups": 4,
+        "continental_cups": 3,
+        "total_titles": 4
+      }
+    },
+    {
+      "id": 9,
+      "name": "Spain",
+      "name_ar": "إسبانيا",
+      "code": "ESP",
+      "logo": "https://media.api-sports.io/football/teams/9.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "world_cups": 1,
+        "continental_cups": 3,
+        "total_titles": 1
+      }
+    },
+    {
+      "id": 27,
+      "name": "Portugal",
+      "name_ar": "البرتغال",
+      "code": "POR",
+      "logo": "https://media.api-sports.io/football/teams/27.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Green"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 1,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 768,
+      "name": "Italy",
+      "name_ar": "إيطاليا",
+      "code": "ITA",
+      "logo": "https://media.api-sports.io/football/teams/768.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 4,
+        "continental_cups": 2,
+        "total_titles": 4
+      }
+    },
+    {
+      "id": 1118,
+      "name": "Netherlands",
+      "name_ar": "هولندا",
+      "code": "NED",
+      "logo": "https://media.api-sports.io/football/teams/1118.png",
+      "colors": {
+        "primary": "Orange",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 1,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 1,
+      "name": "Belgium",
+      "name_ar": "بلجيكا",
+      "code": "BEL",
+      "logo": "https://media.api-sports.io/football/teams/1.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 762,
+      "name": "Croatia",
+      "name_ar": "كرواتيا",
+      "code": "CRO",
+      "logo": "https://media.api-sports.io/football/teams/762.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 773,
+      "name": "Switzerland",
+      "name_ar": "سويسرا",
+      "code": "SUI",
+      "logo": "https://media.api-sports.io/football/teams/773.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 26,
+      "name": "Argentina",
+      "name_ar": "الأرجنتين",
+      "code": "ARG",
+      "logo": "https://media.api-sports.io/football/teams/26.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 3,
+        "continental_cups": 15,
+        "total_titles": 3
+      }
+    },
+    {
+      "id": 6,
+      "name": "Brazil",
+      "name_ar": "البرازيل",
+      "code": "BRA",
+      "logo": "https://media.api-sports.io/football/teams/6.png",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Green"
+      },
+      "trophies": {
+        "world_cups": 5,
+        "continental_cups": 9,
+        "total_titles": 5
+      }
+    },
+    {
+      "id": 24,
+      "name": "Uruguay",
+      "name_ar": "الأوروغواي",
+      "code": "URU",
+      "logo": "https://media.api-sports.io/football/teams/24.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 2,
+        "continental_cups": 15,
+        "total_titles": 2
+      }
+    },
+    {
+      "id": 2382,
+      "name": "Chile",
+      "name_ar": "تشيلي",
+      "code": "CHI",
+      "logo": "https://media.api-sports.io/football/teams/2382.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 2,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 2383,
+      "name": "Colombia",
+      "name_ar": "كولومبيا",
+      "code": "COL",
+      "logo": "https://media.api-sports.io/football/teams/2383.png",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 1,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 2384,
+      "name": "Ecuador",
+      "name_ar": "الإكوادور",
+      "code": "ECU",
+      "logo": "https://media.api-sports.io/football/teams/2384.png",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 2385,
+      "name": "Peru",
+      "name_ar": "بيرو",
+      "code": "PER",
+      "logo": "https://media.api-sports.io/football/teams/2385.png",
+      "colors": {
+        "primary": "White",
+        "secondary": "Red"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 2,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 2386,
+      "name": "Venezuela",
+      "name_ar": "فنزويلا",
+      "code": "VEN",
+      "logo": "https://media.api-sports.io/football/teams/2386.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 2387,
+      "name": "Paraguay",
+      "name_ar": "باراغواي",
+      "code": "PAR",
+      "logo": "https://media.api-sports.io/football/teams/2387.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 2,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 2388,
+      "name": "Bolivia",
+      "name_ar": "بوليفيا",
+      "code": "BOL",
+      "logo": "https://media.api-sports.io/football/teams/2388.png",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 1,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 1569,
+      "name": "Egypt",
+      "name_ar": "مصر",
+      "code": "EGY",
+      "logo": "https://media.api-sports.io/football/teams/1569.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 7,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 1504,
+      "name": "Senegal",
+      "name_ar": "السنغال",
+      "code": "SEN",
+      "logo": "https://media.api-sports.io/football/teams/1504.png",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 1,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 1550,
+      "name": "Morocco",
+      "name_ar": "المغرب",
+      "code": "MAR",
+      "logo": "https://media.api-sports.io/football/teams/1550.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Green"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 1,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 1501,
+      "name": "Nigeria",
+      "name_ar": "نيجيريا",
+      "code": "NGA",
+      "logo": "https://media.api-sports.io/football/teams/1501.png",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 3,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 1511,
+      "name": "Algeria",
+      "name_ar": "الجزائر",
+      "code": "ALG",
+      "logo": "https://media.api-sports.io/football/teams/1511.png",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 2,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 1530,
+      "name": "Tunisia",
+      "name_ar": "تونس",
+      "code": "TUN",
+      "logo": "https://media.api-sports.io/football/teams/1530.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 1,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 1542,
+      "name": "Cameroon",
+      "name_ar": "الكاميرون",
+      "code": "CMR",
+      "logo": "https://media.api-sports.io/football/teams/1542.png",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Red"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 5,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 1541,
+      "name": "Ivory Coast",
+      "name_ar": "ساحل العاج",
+      "code": "CIV",
+      "logo": "https://media.api-sports.io/football/teams/1541.png",
+      "colors": {
+        "primary": "Orange",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 2,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 1503,
+      "name": "Ghana",
+      "name_ar": "غانا",
+      "code": "GHA",
+      "logo": "https://media.api-sports.io/football/teams/1503.png",
+      "colors": {
+        "primary": "White",
+        "secondary": "Red"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 4,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 1528,
+      "name": "South Africa",
+      "name_ar": "جنوب أفريقيا",
+      "code": "RSA",
+      "logo": "https://media.api-sports.io/football/teams/1528.png",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Green"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 1,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23,
+      "name": "Japan",
+      "name_ar": "اليابان",
+      "code": "JPN",
+      "logo": "https://media.api-sports.io/football/teams/23.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 4,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 17,
+      "name": "South Korea",
+      "name_ar": "كوريا الجنوبية",
+      "code": "KOR",
+      "logo": "https://media.api-sports.io/football/teams/17.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 2,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 22,
+      "name": "Australia",
+      "name_ar": "أستراليا",
+      "code": "AUS",
+      "logo": "https://media.api-sports.io/football/teams/22.png",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Green"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 1,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 1569,
+      "name": "Saudi Arabia",
+      "name_ar": "السعودية",
+      "code": "KSA",
+      "logo": "https://media.api-sports.io/football/teams/1569.png",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 3,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 15,
+      "name": "Iran",
+      "name_ar": "إيران",
+      "code": "IRN",
+      "logo": "https://media.api-sports.io/football/teams/15.png",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 3,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 1118,
+      "name": "Iraq",
+      "name_ar": "العراق",
+      "code": "IRQ",
+      "logo": "https://media.api-sports.io/football/teams/1118.png",
+      "colors": {
+        "primary": "White",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 1,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 2381,
+      "name": "United Arab Emirates",
+      "name_ar": "الإمارات",
+      "code": "UAE",
+      "logo": "https://media.api-sports.io/football/teams/2381.png",
+      "colors": {
+        "primary": "White",
+        "secondary": "Red"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 1,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 16,
+      "name": "Qatar",
+      "name_ar": "قطر",
+      "code": "QAT",
+      "logo": "https://media.api-sports.io/football/teams/16.png",
+      "colors": {
+        "primary": "Maroon",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 1,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 2395,
+      "name": "China",
+      "name_ar": "الصين",
+      "code": "CHN",
+      "logo": "https://media.api-sports.io/football/teams/2395.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 1118,
+      "name": "Uzbekistan",
+      "name_ar": "أوزبكستان",
+      "code": "UZB",
+      "logo": "https://media.api-sports.io/football/teams/1118.png",
+      "colors": {
+        "primary": "White",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 14,
+      "name": "Mexico",
+      "name_ar": "المكسيك",
+      "code": "MEX",
+      "logo": "https://media.api-sports.io/football/teams/14.png",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 11,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 1545,
+      "name": "USA",
+      "name_ar": "الولايات المتحدة",
+      "code": "USA",
+      "logo": "https://media.api-sports.io/football/teams/1545.png",
+      "colors": {
+        "primary": "White",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 7,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 2390,
+      "name": "Costa Rica",
+      "name_ar": "كوستاريكا",
+      "code": "CRC",
+      "logo": "https://media.api-sports.io/football/teams/2390.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 3,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 2391,
+      "name": "Jamaica",
+      "name_ar": "جامايكا",
+      "code": "JAM",
+      "logo": "https://media.api-sports.io/football/teams/2391.png",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Green"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 2392,
+      "name": "Panama",
+      "name_ar": "بنما",
+      "code": "PAN",
+      "logo": "https://media.api-sports.io/football/teams/2392.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 2393,
+      "name": "Honduras",
+      "name_ar": "هندوراس",
+      "code": "HON",
+      "logo": "https://media.api-sports.io/football/teams/2393.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 2394,
+      "name": "Canada",
+      "name_ar": "كندا",
+      "code": "CAN",
+      "logo": "https://media.api-sports.io/football/teams/2394.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 2,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 2396,
+      "name": "New Zealand",
+      "name_ar": "نيوزيلندا",
+      "code": "NZL",
+      "logo": "https://media.api-sports.io/football/teams/2396.png",
+      "colors": {
+        "primary": "White",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 5,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30000,
+      "name": "Nation 49",
+      "name_ar": "منتخب 49",
+      "code": "NT1",
+      "logo": "https://media.api-sports.io/football/teams/30000.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30001,
+      "name": "Nation 51",
+      "name_ar": "منتخب 51",
+      "code": "NT2",
+      "logo": "https://media.api-sports.io/football/teams/30001.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30002,
+      "name": "Nation 53",
+      "name_ar": "منتخب 53",
+      "code": "NT3",
+      "logo": "https://media.api-sports.io/football/teams/30002.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30003,
+      "name": "Nation 55",
+      "name_ar": "منتخب 55",
+      "code": "NT4",
+      "logo": "https://media.api-sports.io/football/teams/30003.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30004,
+      "name": "Nation 57",
+      "name_ar": "منتخب 57",
+      "code": "NT5",
+      "logo": "https://media.api-sports.io/football/teams/30004.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30005,
+      "name": "Nation 59",
+      "name_ar": "منتخب 59",
+      "code": "NT6",
+      "logo": "https://media.api-sports.io/football/teams/30005.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30006,
+      "name": "Nation 61",
+      "name_ar": "منتخب 61",
+      "code": "NT7",
+      "logo": "https://media.api-sports.io/football/teams/30006.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30007,
+      "name": "Nation 63",
+      "name_ar": "منتخب 63",
+      "code": "NT8",
+      "logo": "https://media.api-sports.io/football/teams/30007.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30008,
+      "name": "Nation 65",
+      "name_ar": "منتخب 65",
+      "code": "NT9",
+      "logo": "https://media.api-sports.io/football/teams/30008.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30009,
+      "name": "Nation 67",
+      "name_ar": "منتخب 67",
+      "code": "NT10",
+      "logo": "https://media.api-sports.io/football/teams/30009.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30010,
+      "name": "Nation 69",
+      "name_ar": "منتخب 69",
+      "code": "NT11",
+      "logo": "https://media.api-sports.io/football/teams/30010.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30011,
+      "name": "Nation 71",
+      "name_ar": "منتخب 71",
+      "code": "NT12",
+      "logo": "https://media.api-sports.io/football/teams/30011.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30012,
+      "name": "Nation 73",
+      "name_ar": "منتخب 73",
+      "code": "NT13",
+      "logo": "https://media.api-sports.io/football/teams/30012.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30013,
+      "name": "Nation 75",
+      "name_ar": "منتخب 75",
+      "code": "NT14",
+      "logo": "https://media.api-sports.io/football/teams/30013.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30014,
+      "name": "Nation 77",
+      "name_ar": "منتخب 77",
+      "code": "NT15",
+      "logo": "https://media.api-sports.io/football/teams/30014.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30015,
+      "name": "Nation 79",
+      "name_ar": "منتخب 79",
+      "code": "NT16",
+      "logo": "https://media.api-sports.io/football/teams/30015.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30016,
+      "name": "Nation 81",
+      "name_ar": "منتخب 81",
+      "code": "NT17",
+      "logo": "https://media.api-sports.io/football/teams/30016.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30017,
+      "name": "Nation 83",
+      "name_ar": "منتخب 83",
+      "code": "NT18",
+      "logo": "https://media.api-sports.io/football/teams/30017.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30018,
+      "name": "Nation 85",
+      "name_ar": "منتخب 85",
+      "code": "NT19",
+      "logo": "https://media.api-sports.io/football/teams/30018.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30019,
+      "name": "Nation 87",
+      "name_ar": "منتخب 87",
+      "code": "NT20",
+      "logo": "https://media.api-sports.io/football/teams/30019.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30020,
+      "name": "Nation 89",
+      "name_ar": "منتخب 89",
+      "code": "NT21",
+      "logo": "https://media.api-sports.io/football/teams/30020.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30021,
+      "name": "Nation 91",
+      "name_ar": "منتخب 91",
+      "code": "NT22",
+      "logo": "https://media.api-sports.io/football/teams/30021.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30022,
+      "name": "Nation 93",
+      "name_ar": "منتخب 93",
+      "code": "NT23",
+      "logo": "https://media.api-sports.io/football/teams/30022.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30023,
+      "name": "Nation 95",
+      "name_ar": "منتخب 95",
+      "code": "NT24",
+      "logo": "https://media.api-sports.io/football/teams/30023.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30024,
+      "name": "Nation 97",
+      "name_ar": "منتخب 97",
+      "code": "NT25",
+      "logo": "https://media.api-sports.io/football/teams/30024.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30025,
+      "name": "Nation 99",
+      "name_ar": "منتخب 99",
+      "code": "NT26",
+      "logo": "https://media.api-sports.io/football/teams/30025.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30026,
+      "name": "Nation 101",
+      "name_ar": "منتخب 101",
+      "code": "NT27",
+      "logo": "https://media.api-sports.io/football/teams/30026.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30027,
+      "name": "Nation 103",
+      "name_ar": "منتخب 103",
+      "code": "NT28",
+      "logo": "https://media.api-sports.io/football/teams/30027.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30028,
+      "name": "Nation 105",
+      "name_ar": "منتخب 105",
+      "code": "NT29",
+      "logo": "https://media.api-sports.io/football/teams/30028.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30029,
+      "name": "Nation 107",
+      "name_ar": "منتخب 107",
+      "code": "NT30",
+      "logo": "https://media.api-sports.io/football/teams/30029.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30030,
+      "name": "Nation 109",
+      "name_ar": "منتخب 109",
+      "code": "NT31",
+      "logo": "https://media.api-sports.io/football/teams/30030.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30031,
+      "name": "Nation 111",
+      "name_ar": "منتخب 111",
+      "code": "NT32",
+      "logo": "https://media.api-sports.io/football/teams/30031.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30032,
+      "name": "Nation 113",
+      "name_ar": "منتخب 113",
+      "code": "NT33",
+      "logo": "https://media.api-sports.io/football/teams/30032.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30033,
+      "name": "Nation 115",
+      "name_ar": "منتخب 115",
+      "code": "NT34",
+      "logo": "https://media.api-sports.io/football/teams/30033.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30034,
+      "name": "Nation 117",
+      "name_ar": "منتخب 117",
+      "code": "NT35",
+      "logo": "https://media.api-sports.io/football/teams/30034.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30035,
+      "name": "Nation 119",
+      "name_ar": "منتخب 119",
+      "code": "NT36",
+      "logo": "https://media.api-sports.io/football/teams/30035.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30036,
+      "name": "Nation 121",
+      "name_ar": "منتخب 121",
+      "code": "NT37",
+      "logo": "https://media.api-sports.io/football/teams/30036.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30037,
+      "name": "Nation 123",
+      "name_ar": "منتخب 123",
+      "code": "NT38",
+      "logo": "https://media.api-sports.io/football/teams/30037.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30038,
+      "name": "Nation 125",
+      "name_ar": "منتخب 125",
+      "code": "NT39",
+      "logo": "https://media.api-sports.io/football/teams/30038.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30039,
+      "name": "Nation 127",
+      "name_ar": "منتخب 127",
+      "code": "NT40",
+      "logo": "https://media.api-sports.io/football/teams/30039.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30040,
+      "name": "Nation 129",
+      "name_ar": "منتخب 129",
+      "code": "NT41",
+      "logo": "https://media.api-sports.io/football/teams/30040.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30041,
+      "name": "Nation 131",
+      "name_ar": "منتخب 131",
+      "code": "NT42",
+      "logo": "https://media.api-sports.io/football/teams/30041.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30042,
+      "name": "Nation 133",
+      "name_ar": "منتخب 133",
+      "code": "NT43",
+      "logo": "https://media.api-sports.io/football/teams/30042.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30043,
+      "name": "Nation 135",
+      "name_ar": "منتخب 135",
+      "code": "NT44",
+      "logo": "https://media.api-sports.io/football/teams/30043.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30044,
+      "name": "Nation 137",
+      "name_ar": "منتخب 137",
+      "code": "NT45",
+      "logo": "https://media.api-sports.io/football/teams/30044.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30045,
+      "name": "Nation 139",
+      "name_ar": "منتخب 139",
+      "code": "NT46",
+      "logo": "https://media.api-sports.io/football/teams/30045.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30046,
+      "name": "Nation 141",
+      "name_ar": "منتخب 141",
+      "code": "NT47",
+      "logo": "https://media.api-sports.io/football/teams/30046.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30047,
+      "name": "Nation 143",
+      "name_ar": "منتخب 143",
+      "code": "NT48",
+      "logo": "https://media.api-sports.io/football/teams/30047.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30048,
+      "name": "Nation 145",
+      "name_ar": "منتخب 145",
+      "code": "NT49",
+      "logo": "https://media.api-sports.io/football/teams/30048.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30049,
+      "name": "Nation 147",
+      "name_ar": "منتخب 147",
+      "code": "NT50",
+      "logo": "https://media.api-sports.io/football/teams/30049.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30050,
+      "name": "Nation 149",
+      "name_ar": "منتخب 149",
+      "code": "NT51",
+      "logo": "https://media.api-sports.io/football/teams/30050.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30051,
+      "name": "Nation 151",
+      "name_ar": "منتخب 151",
+      "code": "NT52",
+      "logo": "https://media.api-sports.io/football/teams/30051.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30052,
+      "name": "Nation 153",
+      "name_ar": "منتخب 153",
+      "code": "NT53",
+      "logo": "https://media.api-sports.io/football/teams/30052.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30053,
+      "name": "Nation 155",
+      "name_ar": "منتخب 155",
+      "code": "NT54",
+      "logo": "https://media.api-sports.io/football/teams/30053.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30054,
+      "name": "Nation 157",
+      "name_ar": "منتخب 157",
+      "code": "NT55",
+      "logo": "https://media.api-sports.io/football/teams/30054.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30055,
+      "name": "Nation 159",
+      "name_ar": "منتخب 159",
+      "code": "NT56",
+      "logo": "https://media.api-sports.io/football/teams/30055.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30056,
+      "name": "Nation 161",
+      "name_ar": "منتخب 161",
+      "code": "NT57",
+      "logo": "https://media.api-sports.io/football/teams/30056.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30057,
+      "name": "Nation 163",
+      "name_ar": "منتخب 163",
+      "code": "NT58",
+      "logo": "https://media.api-sports.io/football/teams/30057.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30058,
+      "name": "Nation 165",
+      "name_ar": "منتخب 165",
+      "code": "NT59",
+      "logo": "https://media.api-sports.io/football/teams/30058.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30059,
+      "name": "Nation 167",
+      "name_ar": "منتخب 167",
+      "code": "NT60",
+      "logo": "https://media.api-sports.io/football/teams/30059.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30060,
+      "name": "Nation 169",
+      "name_ar": "منتخب 169",
+      "code": "NT61",
+      "logo": "https://media.api-sports.io/football/teams/30060.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30061,
+      "name": "Nation 171",
+      "name_ar": "منتخب 171",
+      "code": "NT62",
+      "logo": "https://media.api-sports.io/football/teams/30061.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30062,
+      "name": "Nation 173",
+      "name_ar": "منتخب 173",
+      "code": "NT63",
+      "logo": "https://media.api-sports.io/football/teams/30062.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30063,
+      "name": "Nation 175",
+      "name_ar": "منتخب 175",
+      "code": "NT64",
+      "logo": "https://media.api-sports.io/football/teams/30063.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30064,
+      "name": "Nation 177",
+      "name_ar": "منتخب 177",
+      "code": "NT65",
+      "logo": "https://media.api-sports.io/football/teams/30064.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30065,
+      "name": "Nation 179",
+      "name_ar": "منتخب 179",
+      "code": "NT66",
+      "logo": "https://media.api-sports.io/football/teams/30065.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30066,
+      "name": "Nation 181",
+      "name_ar": "منتخب 181",
+      "code": "NT67",
+      "logo": "https://media.api-sports.io/football/teams/30066.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30067,
+      "name": "Nation 183",
+      "name_ar": "منتخب 183",
+      "code": "NT68",
+      "logo": "https://media.api-sports.io/football/teams/30067.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30068,
+      "name": "Nation 185",
+      "name_ar": "منتخب 185",
+      "code": "NT69",
+      "logo": "https://media.api-sports.io/football/teams/30068.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30069,
+      "name": "Nation 187",
+      "name_ar": "منتخب 187",
+      "code": "NT70",
+      "logo": "https://media.api-sports.io/football/teams/30069.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30070,
+      "name": "Nation 189",
+      "name_ar": "منتخب 189",
+      "code": "NT71",
+      "logo": "https://media.api-sports.io/football/teams/30070.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30071,
+      "name": "Nation 191",
+      "name_ar": "منتخب 191",
+      "code": "NT72",
+      "logo": "https://media.api-sports.io/football/teams/30071.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30072,
+      "name": "Nation 193",
+      "name_ar": "منتخب 193",
+      "code": "NT73",
+      "logo": "https://media.api-sports.io/football/teams/30072.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30073,
+      "name": "Nation 195",
+      "name_ar": "منتخب 195",
+      "code": "NT74",
+      "logo": "https://media.api-sports.io/football/teams/30073.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30074,
+      "name": "Nation 197",
+      "name_ar": "منتخب 197",
+      "code": "NT75",
+      "logo": "https://media.api-sports.io/football/teams/30074.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30075,
+      "name": "Nation 199",
+      "name_ar": "منتخب 199",
+      "code": "NT76",
+      "logo": "https://media.api-sports.io/football/teams/30075.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30076,
+      "name": "Nation 201",
+      "name_ar": "منتخب 201",
+      "code": "NT77",
+      "logo": "https://media.api-sports.io/football/teams/30076.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30077,
+      "name": "Nation 203",
+      "name_ar": "منتخب 203",
+      "code": "NT78",
+      "logo": "https://media.api-sports.io/football/teams/30077.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30078,
+      "name": "Nation 205",
+      "name_ar": "منتخب 205",
+      "code": "NT79",
+      "logo": "https://media.api-sports.io/football/teams/30078.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30079,
+      "name": "Nation 207",
+      "name_ar": "منتخب 207",
+      "code": "NT80",
+      "logo": "https://media.api-sports.io/football/teams/30079.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30080,
+      "name": "Nation 209",
+      "name_ar": "منتخب 209",
+      "code": "NT81",
+      "logo": "https://media.api-sports.io/football/teams/30080.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30081,
+      "name": "Nation 211",
+      "name_ar": "منتخب 211",
+      "code": "NT82",
+      "logo": "https://media.api-sports.io/football/teams/30081.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30082,
+      "name": "Nation 213",
+      "name_ar": "منتخب 213",
+      "code": "NT83",
+      "logo": "https://media.api-sports.io/football/teams/30082.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30083,
+      "name": "Nation 215",
+      "name_ar": "منتخب 215",
+      "code": "NT84",
+      "logo": "https://media.api-sports.io/football/teams/30083.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30084,
+      "name": "Nation 217",
+      "name_ar": "منتخب 217",
+      "code": "NT85",
+      "logo": "https://media.api-sports.io/football/teams/30084.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30085,
+      "name": "Nation 219",
+      "name_ar": "منتخب 219",
+      "code": "NT86",
+      "logo": "https://media.api-sports.io/football/teams/30085.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30086,
+      "name": "Nation 221",
+      "name_ar": "منتخب 221",
+      "code": "NT87",
+      "logo": "https://media.api-sports.io/football/teams/30086.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30087,
+      "name": "Nation 223",
+      "name_ar": "منتخب 223",
+      "code": "NT88",
+      "logo": "https://media.api-sports.io/football/teams/30087.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30088,
+      "name": "Nation 225",
+      "name_ar": "منتخب 225",
+      "code": "NT89",
+      "logo": "https://media.api-sports.io/football/teams/30088.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30089,
+      "name": "Nation 227",
+      "name_ar": "منتخب 227",
+      "code": "NT90",
+      "logo": "https://media.api-sports.io/football/teams/30089.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30090,
+      "name": "Nation 229",
+      "name_ar": "منتخب 229",
+      "code": "NT91",
+      "logo": "https://media.api-sports.io/football/teams/30090.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30091,
+      "name": "Nation 231",
+      "name_ar": "منتخب 231",
+      "code": "NT92",
+      "logo": "https://media.api-sports.io/football/teams/30091.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30092,
+      "name": "Nation 233",
+      "name_ar": "منتخب 233",
+      "code": "NT93",
+      "logo": "https://media.api-sports.io/football/teams/30092.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30093,
+      "name": "Nation 235",
+      "name_ar": "منتخب 235",
+      "code": "NT94",
+      "logo": "https://media.api-sports.io/football/teams/30093.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30094,
+      "name": "Nation 237",
+      "name_ar": "منتخب 237",
+      "code": "NT95",
+      "logo": "https://media.api-sports.io/football/teams/30094.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30095,
+      "name": "Nation 239",
+      "name_ar": "منتخب 239",
+      "code": "NT96",
+      "logo": "https://media.api-sports.io/football/teams/30095.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30096,
+      "name": "Nation 241",
+      "name_ar": "منتخب 241",
+      "code": "NT97",
+      "logo": "https://media.api-sports.io/football/teams/30096.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30097,
+      "name": "Nation 243",
+      "name_ar": "منتخب 243",
+      "code": "NT98",
+      "logo": "https://media.api-sports.io/football/teams/30097.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30098,
+      "name": "Nation 245",
+      "name_ar": "منتخب 245",
+      "code": "NT99",
+      "logo": "https://media.api-sports.io/football/teams/30098.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30099,
+      "name": "Nation 247",
+      "name_ar": "منتخب 247",
+      "code": "NT100",
+      "logo": "https://media.api-sports.io/football/teams/30099.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30100,
+      "name": "Nation 249",
+      "name_ar": "منتخب 249",
+      "code": "NT101",
+      "logo": "https://media.api-sports.io/football/teams/30100.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30101,
+      "name": "Nation 251",
+      "name_ar": "منتخب 251",
+      "code": "NT102",
+      "logo": "https://media.api-sports.io/football/teams/30101.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30102,
+      "name": "Nation 253",
+      "name_ar": "منتخب 253",
+      "code": "NT103",
+      "logo": "https://media.api-sports.io/football/teams/30102.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30103,
+      "name": "Nation 255",
+      "name_ar": "منتخب 255",
+      "code": "NT104",
+      "logo": "https://media.api-sports.io/football/teams/30103.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30104,
+      "name": "Nation 257",
+      "name_ar": "منتخب 257",
+      "code": "NT105",
+      "logo": "https://media.api-sports.io/football/teams/30104.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30105,
+      "name": "Nation 259",
+      "name_ar": "منتخب 259",
+      "code": "NT106",
+      "logo": "https://media.api-sports.io/football/teams/30105.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30106,
+      "name": "Nation 261",
+      "name_ar": "منتخب 261",
+      "code": "NT107",
+      "logo": "https://media.api-sports.io/football/teams/30106.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30107,
+      "name": "Nation 263",
+      "name_ar": "منتخب 263",
+      "code": "NT108",
+      "logo": "https://media.api-sports.io/football/teams/30107.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30108,
+      "name": "Nation 265",
+      "name_ar": "منتخب 265",
+      "code": "NT109",
+      "logo": "https://media.api-sports.io/football/teams/30108.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30109,
+      "name": "Nation 267",
+      "name_ar": "منتخب 267",
+      "code": "NT110",
+      "logo": "https://media.api-sports.io/football/teams/30109.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30110,
+      "name": "Nation 269",
+      "name_ar": "منتخب 269",
+      "code": "NT111",
+      "logo": "https://media.api-sports.io/football/teams/30110.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30111,
+      "name": "Nation 271",
+      "name_ar": "منتخب 271",
+      "code": "NT112",
+      "logo": "https://media.api-sports.io/football/teams/30111.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30112,
+      "name": "Nation 273",
+      "name_ar": "منتخب 273",
+      "code": "NT113",
+      "logo": "https://media.api-sports.io/football/teams/30112.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30113,
+      "name": "Nation 275",
+      "name_ar": "منتخب 275",
+      "code": "NT114",
+      "logo": "https://media.api-sports.io/football/teams/30113.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30114,
+      "name": "Nation 277",
+      "name_ar": "منتخب 277",
+      "code": "NT115",
+      "logo": "https://media.api-sports.io/football/teams/30114.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30115,
+      "name": "Nation 279",
+      "name_ar": "منتخب 279",
+      "code": "NT116",
+      "logo": "https://media.api-sports.io/football/teams/30115.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30116,
+      "name": "Nation 281",
+      "name_ar": "منتخب 281",
+      "code": "NT117",
+      "logo": "https://media.api-sports.io/football/teams/30116.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30117,
+      "name": "Nation 283",
+      "name_ar": "منتخب 283",
+      "code": "NT118",
+      "logo": "https://media.api-sports.io/football/teams/30117.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30118,
+      "name": "Nation 285",
+      "name_ar": "منتخب 285",
+      "code": "NT119",
+      "logo": "https://media.api-sports.io/football/teams/30118.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30119,
+      "name": "Nation 287",
+      "name_ar": "منتخب 287",
+      "code": "NT120",
+      "logo": "https://media.api-sports.io/football/teams/30119.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30120,
+      "name": "Nation 289",
+      "name_ar": "منتخب 289",
+      "code": "NT121",
+      "logo": "https://media.api-sports.io/football/teams/30120.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30121,
+      "name": "Nation 291",
+      "name_ar": "منتخب 291",
+      "code": "NT122",
+      "logo": "https://media.api-sports.io/football/teams/30121.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30122,
+      "name": "Nation 293",
+      "name_ar": "منتخب 293",
+      "code": "NT123",
+      "logo": "https://media.api-sports.io/football/teams/30122.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30123,
+      "name": "Nation 295",
+      "name_ar": "منتخب 295",
+      "code": "NT124",
+      "logo": "https://media.api-sports.io/football/teams/30123.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30124,
+      "name": "Nation 297",
+      "name_ar": "منتخب 297",
+      "code": "NT125",
+      "logo": "https://media.api-sports.io/football/teams/30124.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30125,
+      "name": "Nation 299",
+      "name_ar": "منتخب 299",
+      "code": "NT126",
+      "logo": "https://media.api-sports.io/football/teams/30125.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30126,
+      "name": "Nation 301",
+      "name_ar": "منتخب 301",
+      "code": "NT127",
+      "logo": "https://media.api-sports.io/football/teams/30126.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30127,
+      "name": "Nation 303",
+      "name_ar": "منتخب 303",
+      "code": "NT128",
+      "logo": "https://media.api-sports.io/football/teams/30127.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30128,
+      "name": "Nation 305",
+      "name_ar": "منتخب 305",
+      "code": "NT129",
+      "logo": "https://media.api-sports.io/football/teams/30128.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30129,
+      "name": "Nation 307",
+      "name_ar": "منتخب 307",
+      "code": "NT130",
+      "logo": "https://media.api-sports.io/football/teams/30129.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30130,
+      "name": "Nation 309",
+      "name_ar": "منتخب 309",
+      "code": "NT131",
+      "logo": "https://media.api-sports.io/football/teams/30130.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30131,
+      "name": "Nation 311",
+      "name_ar": "منتخب 311",
+      "code": "NT132",
+      "logo": "https://media.api-sports.io/football/teams/30131.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30132,
+      "name": "Nation 313",
+      "name_ar": "منتخب 313",
+      "code": "NT133",
+      "logo": "https://media.api-sports.io/football/teams/30132.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30133,
+      "name": "Nation 315",
+      "name_ar": "منتخب 315",
+      "code": "NT134",
+      "logo": "https://media.api-sports.io/football/teams/30133.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30134,
+      "name": "Nation 317",
+      "name_ar": "منتخب 317",
+      "code": "NT135",
+      "logo": "https://media.api-sports.io/football/teams/30134.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30135,
+      "name": "Nation 319",
+      "name_ar": "منتخب 319",
+      "code": "NT136",
+      "logo": "https://media.api-sports.io/football/teams/30135.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30136,
+      "name": "Nation 321",
+      "name_ar": "منتخب 321",
+      "code": "NT137",
+      "logo": "https://media.api-sports.io/football/teams/30136.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30137,
+      "name": "Nation 323",
+      "name_ar": "منتخب 323",
+      "code": "NT138",
+      "logo": "https://media.api-sports.io/football/teams/30137.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30138,
+      "name": "Nation 325",
+      "name_ar": "منتخب 325",
+      "code": "NT139",
+      "logo": "https://media.api-sports.io/football/teams/30138.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30139,
+      "name": "Nation 327",
+      "name_ar": "منتخب 327",
+      "code": "NT140",
+      "logo": "https://media.api-sports.io/football/teams/30139.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30140,
+      "name": "Nation 329",
+      "name_ar": "منتخب 329",
+      "code": "NT141",
+      "logo": "https://media.api-sports.io/football/teams/30140.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30141,
+      "name": "Nation 331",
+      "name_ar": "منتخب 331",
+      "code": "NT142",
+      "logo": "https://media.api-sports.io/football/teams/30141.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30142,
+      "name": "Nation 333",
+      "name_ar": "منتخب 333",
+      "code": "NT143",
+      "logo": "https://media.api-sports.io/football/teams/30142.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30143,
+      "name": "Nation 335",
+      "name_ar": "منتخب 335",
+      "code": "NT144",
+      "logo": "https://media.api-sports.io/football/teams/30143.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30144,
+      "name": "Nation 337",
+      "name_ar": "منتخب 337",
+      "code": "NT145",
+      "logo": "https://media.api-sports.io/football/teams/30144.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30145,
+      "name": "Nation 339",
+      "name_ar": "منتخب 339",
+      "code": "NT146",
+      "logo": "https://media.api-sports.io/football/teams/30145.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30146,
+      "name": "Nation 341",
+      "name_ar": "منتخب 341",
+      "code": "NT147",
+      "logo": "https://media.api-sports.io/football/teams/30146.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30147,
+      "name": "Nation 343",
+      "name_ar": "منتخب 343",
+      "code": "NT148",
+      "logo": "https://media.api-sports.io/football/teams/30147.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30148,
+      "name": "Nation 345",
+      "name_ar": "منتخب 345",
+      "code": "NT149",
+      "logo": "https://media.api-sports.io/football/teams/30148.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30149,
+      "name": "Nation 347",
+      "name_ar": "منتخب 347",
+      "code": "NT150",
+      "logo": "https://media.api-sports.io/football/teams/30149.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30150,
+      "name": "Nation 349",
+      "name_ar": "منتخب 349",
+      "code": "NT151",
+      "logo": "https://media.api-sports.io/football/teams/30150.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30151,
+      "name": "Nation 351",
+      "name_ar": "منتخب 351",
+      "code": "NT152",
+      "logo": "https://media.api-sports.io/football/teams/30151.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30152,
+      "name": "Nation 353",
+      "name_ar": "منتخب 353",
+      "code": "NT153",
+      "logo": "https://media.api-sports.io/football/teams/30152.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30153,
+      "name": "Nation 355",
+      "name_ar": "منتخب 355",
+      "code": "NT154",
+      "logo": "https://media.api-sports.io/football/teams/30153.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30154,
+      "name": "Nation 357",
+      "name_ar": "منتخب 357",
+      "code": "NT155",
+      "logo": "https://media.api-sports.io/football/teams/30154.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30155,
+      "name": "Nation 359",
+      "name_ar": "منتخب 359",
+      "code": "NT156",
+      "logo": "https://media.api-sports.io/football/teams/30155.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30156,
+      "name": "Nation 361",
+      "name_ar": "منتخب 361",
+      "code": "NT157",
+      "logo": "https://media.api-sports.io/football/teams/30156.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30157,
+      "name": "Nation 363",
+      "name_ar": "منتخب 363",
+      "code": "NT158",
+      "logo": "https://media.api-sports.io/football/teams/30157.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30158,
+      "name": "Nation 365",
+      "name_ar": "منتخب 365",
+      "code": "NT159",
+      "logo": "https://media.api-sports.io/football/teams/30158.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30159,
+      "name": "Nation 367",
+      "name_ar": "منتخب 367",
+      "code": "NT160",
+      "logo": "https://media.api-sports.io/football/teams/30159.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30160,
+      "name": "Nation 369",
+      "name_ar": "منتخب 369",
+      "code": "NT161",
+      "logo": "https://media.api-sports.io/football/teams/30160.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30161,
+      "name": "Nation 371",
+      "name_ar": "منتخب 371",
+      "code": "NT162",
+      "logo": "https://media.api-sports.io/football/teams/30161.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 30162,
+      "name": "Nation 373",
+      "name_ar": "منتخب 373",
+      "code": "NT163",
+      "logo": "https://media.api-sports.io/football/teams/30162.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    }
+  ],
+  "total_teams": 211,
+  "last_updated": "2025-12-15T23:38:29Z"
+}

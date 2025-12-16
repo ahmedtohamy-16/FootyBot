@@ -1,0 +1,743 @@
+{
+  "league": {
+    "id": 128,
+    "name": "Primera División",
+    "name_ar": "الدوري الأرجنتيني الممتاز",
+    "country": "Argentina",
+    "country_ar": "الأرجنتين",
+    "logo": "https://media.api-sports.io/football/leagues/128.png",
+    "season": "2024"
+  },
+  "teams": [
+    {
+      "id": 435,
+      "name": "Boca Juniors",
+      "name_ar": "بوكا جونيورز",
+      "code": "BOC",
+      "logo": "https://media.api-sports.io/football/teams/435.png",
+      "founded": 1905,
+      "stadium": {
+        "name": "La Bombonera",
+        "name_ar": "لا بومبونيرا",
+        "capacity": 49000,
+        "city": "Buenos Aires",
+        "city_ar": "بوينس آيرس"
+      },
+      "nickname": "Xeneizes",
+      "nickname_ar": "الزينيزي",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 34,
+        "domestic_cups": 17,
+        "european_cups": 6
+      }
+    },
+    {
+      "id": 436,
+      "name": "River Plate",
+      "name_ar": "ريفر بليت",
+      "code": "RIV",
+      "logo": "https://media.api-sports.io/football/teams/436.png",
+      "founded": 1901,
+      "stadium": {
+        "name": "El Monumental",
+        "name_ar": "المونومنتال",
+        "capacity": 70074,
+        "city": "Buenos Aires",
+        "city_ar": "بوينس آيرس"
+      },
+      "nickname": "Millonarios",
+      "nickname_ar": "المليونيرات",
+      "colors": {
+        "primary": "White",
+        "secondary": "Red"
+      },
+      "trophies": {
+        "league_titles": 37,
+        "domestic_cups": 14,
+        "european_cups": 4
+      }
+    },
+    {
+      "id": 7000,
+      "name": "Argentine Team 3",
+      "name_ar": "فريق أرجنتيني 3",
+      "code": "ARG3",
+      "logo": "https://media.api-sports.io/football/teams/7000.png",
+      "founded": 1920,
+      "stadium": {
+        "name": "Estadio 3",
+        "name_ar": "ملعب 3",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 3",
+      "nickname_ar": "فريق 3",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7001,
+      "name": "Argentine Team 4",
+      "name_ar": "فريق أرجنتيني 4",
+      "code": "ARG4",
+      "logo": "https://media.api-sports.io/football/teams/7001.png",
+      "founded": 1921,
+      "stadium": {
+        "name": "Estadio 4",
+        "name_ar": "ملعب 4",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 4",
+      "nickname_ar": "فريق 4",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7002,
+      "name": "Argentine Team 5",
+      "name_ar": "فريق أرجنتيني 5",
+      "code": "ARG5",
+      "logo": "https://media.api-sports.io/football/teams/7002.png",
+      "founded": 1922,
+      "stadium": {
+        "name": "Estadio 5",
+        "name_ar": "ملعب 5",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 5",
+      "nickname_ar": "فريق 5",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7003,
+      "name": "Argentine Team 6",
+      "name_ar": "فريق أرجنتيني 6",
+      "code": "ARG6",
+      "logo": "https://media.api-sports.io/football/teams/7003.png",
+      "founded": 1923,
+      "stadium": {
+        "name": "Estadio 6",
+        "name_ar": "ملعب 6",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 6",
+      "nickname_ar": "فريق 6",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7004,
+      "name": "Argentine Team 7",
+      "name_ar": "فريق أرجنتيني 7",
+      "code": "ARG7",
+      "logo": "https://media.api-sports.io/football/teams/7004.png",
+      "founded": 1924,
+      "stadium": {
+        "name": "Estadio 7",
+        "name_ar": "ملعب 7",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 7",
+      "nickname_ar": "فريق 7",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7005,
+      "name": "Argentine Team 8",
+      "name_ar": "فريق أرجنتيني 8",
+      "code": "ARG8",
+      "logo": "https://media.api-sports.io/football/teams/7005.png",
+      "founded": 1925,
+      "stadium": {
+        "name": "Estadio 8",
+        "name_ar": "ملعب 8",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 8",
+      "nickname_ar": "فريق 8",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7006,
+      "name": "Argentine Team 9",
+      "name_ar": "فريق أرجنتيني 9",
+      "code": "ARG9",
+      "logo": "https://media.api-sports.io/football/teams/7006.png",
+      "founded": 1926,
+      "stadium": {
+        "name": "Estadio 9",
+        "name_ar": "ملعب 9",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 9",
+      "nickname_ar": "فريق 9",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7007,
+      "name": "Argentine Team 10",
+      "name_ar": "فريق أرجنتيني 10",
+      "code": "ARG10",
+      "logo": "https://media.api-sports.io/football/teams/7007.png",
+      "founded": 1927,
+      "stadium": {
+        "name": "Estadio 10",
+        "name_ar": "ملعب 10",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 10",
+      "nickname_ar": "فريق 10",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7008,
+      "name": "Argentine Team 11",
+      "name_ar": "فريق أرجنتيني 11",
+      "code": "ARG11",
+      "logo": "https://media.api-sports.io/football/teams/7008.png",
+      "founded": 1928,
+      "stadium": {
+        "name": "Estadio 11",
+        "name_ar": "ملعب 11",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 11",
+      "nickname_ar": "فريق 11",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7009,
+      "name": "Argentine Team 12",
+      "name_ar": "فريق أرجنتيني 12",
+      "code": "ARG12",
+      "logo": "https://media.api-sports.io/football/teams/7009.png",
+      "founded": 1929,
+      "stadium": {
+        "name": "Estadio 12",
+        "name_ar": "ملعب 12",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 12",
+      "nickname_ar": "فريق 12",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7010,
+      "name": "Argentine Team 13",
+      "name_ar": "فريق أرجنتيني 13",
+      "code": "ARG13",
+      "logo": "https://media.api-sports.io/football/teams/7010.png",
+      "founded": 1930,
+      "stadium": {
+        "name": "Estadio 13",
+        "name_ar": "ملعب 13",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 13",
+      "nickname_ar": "فريق 13",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7011,
+      "name": "Argentine Team 14",
+      "name_ar": "فريق أرجنتيني 14",
+      "code": "ARG14",
+      "logo": "https://media.api-sports.io/football/teams/7011.png",
+      "founded": 1931,
+      "stadium": {
+        "name": "Estadio 14",
+        "name_ar": "ملعب 14",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 14",
+      "nickname_ar": "فريق 14",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7012,
+      "name": "Argentine Team 15",
+      "name_ar": "فريق أرجنتيني 15",
+      "code": "ARG15",
+      "logo": "https://media.api-sports.io/football/teams/7012.png",
+      "founded": 1932,
+      "stadium": {
+        "name": "Estadio 15",
+        "name_ar": "ملعب 15",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 15",
+      "nickname_ar": "فريق 15",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7013,
+      "name": "Argentine Team 16",
+      "name_ar": "فريق أرجنتيني 16",
+      "code": "ARG16",
+      "logo": "https://media.api-sports.io/football/teams/7013.png",
+      "founded": 1933,
+      "stadium": {
+        "name": "Estadio 16",
+        "name_ar": "ملعب 16",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 16",
+      "nickname_ar": "فريق 16",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7014,
+      "name": "Argentine Team 17",
+      "name_ar": "فريق أرجنتيني 17",
+      "code": "ARG17",
+      "logo": "https://media.api-sports.io/football/teams/7014.png",
+      "founded": 1934,
+      "stadium": {
+        "name": "Estadio 17",
+        "name_ar": "ملعب 17",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 17",
+      "nickname_ar": "فريق 17",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7015,
+      "name": "Argentine Team 18",
+      "name_ar": "فريق أرجنتيني 18",
+      "code": "ARG18",
+      "logo": "https://media.api-sports.io/football/teams/7015.png",
+      "founded": 1935,
+      "stadium": {
+        "name": "Estadio 18",
+        "name_ar": "ملعب 18",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 18",
+      "nickname_ar": "فريق 18",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7016,
+      "name": "Argentine Team 19",
+      "name_ar": "فريق أرجنتيني 19",
+      "code": "ARG19",
+      "logo": "https://media.api-sports.io/football/teams/7016.png",
+      "founded": 1936,
+      "stadium": {
+        "name": "Estadio 19",
+        "name_ar": "ملعب 19",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 19",
+      "nickname_ar": "فريق 19",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7017,
+      "name": "Argentine Team 20",
+      "name_ar": "فريق أرجنتيني 20",
+      "code": "ARG20",
+      "logo": "https://media.api-sports.io/football/teams/7017.png",
+      "founded": 1937,
+      "stadium": {
+        "name": "Estadio 20",
+        "name_ar": "ملعب 20",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 20",
+      "nickname_ar": "فريق 20",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7018,
+      "name": "Argentine Team 21",
+      "name_ar": "فريق أرجنتيني 21",
+      "code": "ARG21",
+      "logo": "https://media.api-sports.io/football/teams/7018.png",
+      "founded": 1938,
+      "stadium": {
+        "name": "Estadio 21",
+        "name_ar": "ملعب 21",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 21",
+      "nickname_ar": "فريق 21",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7019,
+      "name": "Argentine Team 22",
+      "name_ar": "فريق أرجنتيني 22",
+      "code": "ARG22",
+      "logo": "https://media.api-sports.io/football/teams/7019.png",
+      "founded": 1939,
+      "stadium": {
+        "name": "Estadio 22",
+        "name_ar": "ملعب 22",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 22",
+      "nickname_ar": "فريق 22",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7020,
+      "name": "Argentine Team 23",
+      "name_ar": "فريق أرجنتيني 23",
+      "code": "ARG23",
+      "logo": "https://media.api-sports.io/football/teams/7020.png",
+      "founded": 1940,
+      "stadium": {
+        "name": "Estadio 23",
+        "name_ar": "ملعب 23",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 23",
+      "nickname_ar": "فريق 23",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7021,
+      "name": "Argentine Team 24",
+      "name_ar": "فريق أرجنتيني 24",
+      "code": "ARG24",
+      "logo": "https://media.api-sports.io/football/teams/7021.png",
+      "founded": 1941,
+      "stadium": {
+        "name": "Estadio 24",
+        "name_ar": "ملعب 24",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 24",
+      "nickname_ar": "فريق 24",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7022,
+      "name": "Argentine Team 25",
+      "name_ar": "فريق أرجنتيني 25",
+      "code": "ARG25",
+      "logo": "https://media.api-sports.io/football/teams/7022.png",
+      "founded": 1942,
+      "stadium": {
+        "name": "Estadio 25",
+        "name_ar": "ملعب 25",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 25",
+      "nickname_ar": "فريق 25",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7023,
+      "name": "Argentine Team 26",
+      "name_ar": "فريق أرجنتيني 26",
+      "code": "ARG26",
+      "logo": "https://media.api-sports.io/football/teams/7023.png",
+      "founded": 1943,
+      "stadium": {
+        "name": "Estadio 26",
+        "name_ar": "ملعب 26",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 26",
+      "nickname_ar": "فريق 26",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7024,
+      "name": "Argentine Team 27",
+      "name_ar": "فريق أرجنتيني 27",
+      "code": "ARG27",
+      "logo": "https://media.api-sports.io/football/teams/7024.png",
+      "founded": 1944,
+      "stadium": {
+        "name": "Estadio 27",
+        "name_ar": "ملعب 27",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 27",
+      "nickname_ar": "فريق 27",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 7025,
+      "name": "Argentine Team 28",
+      "name_ar": "فريق أرجنتيني 28",
+      "code": "ARG28",
+      "logo": "https://media.api-sports.io/football/teams/7025.png",
+      "founded": 1945,
+      "stadium": {
+        "name": "Estadio 28",
+        "name_ar": "ملعب 28",
+        "capacity": 25000,
+        "city": "Argentina",
+        "city_ar": "الأرجنتين"
+      },
+      "nickname": "Team 28",
+      "nickname_ar": "فريق 28",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    }
+  ],
+  "total_teams": 28,
+  "last_updated": "2025-12-15T23:37:25Z"
+}

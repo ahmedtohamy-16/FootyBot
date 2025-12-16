@@ -1,0 +1,483 @@
+{
+  "league": {
+    "id": 94,
+    "name": "Primeira Liga",
+    "name_ar": "الدوري البرتغالي الممتاز",
+    "country": "Portugal",
+    "country_ar": "البرتغال",
+    "logo": "https://media.api-sports.io/football/leagues/94.png",
+    "season": "2024-2025"
+  },
+  "teams": [
+    {
+      "id": 211,
+      "name": "Benfica",
+      "name_ar": "بنفيكا",
+      "code": "BEN",
+      "logo": "https://media.api-sports.io/football/teams/211.png",
+      "founded": 1904,
+      "stadium": {
+        "name": "Estádio da Luz",
+        "name_ar": "دا لوز",
+        "capacity": 64642,
+        "city": "Lisbon",
+        "city_ar": "لشبونة"
+      },
+      "nickname": "As Águias",
+      "nickname_ar": "النسور",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 38,
+        "domestic_cups": 26,
+        "european_cups": 2
+      }
+    },
+    {
+      "id": 212,
+      "name": "Porto",
+      "name_ar": "بورتو",
+      "code": "POR",
+      "logo": "https://media.api-sports.io/football/teams/212.png",
+      "founded": 1893,
+      "stadium": {
+        "name": "Estádio do Dragão",
+        "name_ar": "دو دراغاو",
+        "capacity": 50033,
+        "city": "Porto",
+        "city_ar": "بورتو"
+      },
+      "nickname": "Os Dragões",
+      "nickname_ar": "التنانين",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 30,
+        "domestic_cups": 17,
+        "european_cups": 2
+      }
+    },
+    {
+      "id": 228,
+      "name": "Sporting CP",
+      "name_ar": "سبورتينغ لشبونة",
+      "code": "SPO",
+      "logo": "https://media.api-sports.io/football/teams/228.png",
+      "founded": 1906,
+      "stadium": {
+        "name": "Estádio José Alvalade",
+        "name_ar": "جوزيه ألفالادي",
+        "capacity": 50095,
+        "city": "Lisbon",
+        "city_ar": "لشبونة"
+      },
+      "nickname": "Os Leões",
+      "nickname_ar": "الأسود",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 19,
+        "domestic_cups": 17,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 231,
+      "name": "Braga",
+      "name_ar": "براغا",
+      "code": "BRA",
+      "logo": "https://media.api-sports.io/football/teams/231.png",
+      "founded": 1921,
+      "stadium": {
+        "name": "Estádio Municipal de Braga",
+        "name_ar": "براغا البلدي",
+        "capacity": 30286,
+        "city": "Braga",
+        "city_ar": "براغا"
+      },
+      "nickname": "Os Arsenalistas",
+      "nickname_ar": "الأرسناليون",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 3,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 236,
+      "name": "Vitória Guimarães",
+      "name_ar": "فيتوريا غيماريش",
+      "code": "GUI",
+      "logo": "https://media.api-sports.io/football/teams/236.png",
+      "founded": 1922,
+      "stadium": {
+        "name": "Estádio D. Afonso Henriques",
+        "name_ar": "دوم أفونسو",
+        "capacity": 30029,
+        "city": "Guimarães",
+        "city_ar": "غيماريش"
+      },
+      "nickname": "Os Vimaranenses",
+      "nickname_ar": "الفيمارانيون",
+      "colors": {
+        "primary": "White",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 1,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 238,
+      "name": "Moreirense",
+      "name_ar": "مويرينسي",
+      "code": "MOR",
+      "logo": "https://media.api-sports.io/football/teams/238.png",
+      "founded": 1938,
+      "stadium": {
+        "name": "Parque de Jogos Comendador Joaquim de Almeida Freitas",
+        "name_ar": "بارك دي جوغوس",
+        "capacity": 9000,
+        "city": "Moreira de Cónegos",
+        "city_ar": "مويريرا"
+      },
+      "nickname": "Cónegos",
+      "nickname_ar": "الكونيغوس",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 215,
+      "name": "Boavista",
+      "name_ar": "بوافيشتا",
+      "code": "BOA",
+      "logo": "https://media.api-sports.io/football/teams/215.png",
+      "founded": 1903,
+      "stadium": {
+        "name": "Estádio do Bessa",
+        "name_ar": "دو بيسا",
+        "capacity": 28263,
+        "city": "Porto",
+        "city_ar": "بورتو"
+      },
+      "nickname": "As Panteras",
+      "nickname_ar": "النمور",
+      "colors": {
+        "primary": "Black",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 1,
+        "domestic_cups": 5,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 218,
+      "name": "Paços Ferreira",
+      "name_ar": "باسوس فيريرا",
+      "code": "PAC",
+      "logo": "https://media.api-sports.io/football/teams/218.png",
+      "founded": 1950,
+      "stadium": {
+        "name": "Estádio da Mata Real",
+        "name_ar": "دا ماتا ريال",
+        "capacity": 9077,
+        "city": "Paços de Ferreira",
+        "city_ar": "باسوس"
+      },
+      "nickname": "Os Castores",
+      "nickname_ar": "القنادس",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Green"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 1,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 217,
+      "name": "Gil Vicente",
+      "name_ar": "جيل فيسنتي",
+      "code": "GIL",
+      "logo": "https://media.api-sports.io/football/teams/217.png",
+      "founded": 1924,
+      "stadium": {
+        "name": "Estádio Cidade de Barcelos",
+        "name_ar": "سيداد دي بارسيلوس",
+        "capacity": 12504,
+        "city": "Barcelos",
+        "city_ar": "بارسيلوس"
+      },
+      "nickname": "Os Galos",
+      "nickname_ar": "الديوك",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 237,
+      "name": "Famalicão",
+      "name_ar": "فاماليكاو",
+      "code": "FAM",
+      "logo": "https://media.api-sports.io/football/teams/237.png",
+      "founded": 1931,
+      "stadium": {
+        "name": "Estádio Municipal de Famalicão",
+        "name_ar": "فاماليكاو البلدي",
+        "capacity": 5307,
+        "city": "Vila Nova de Famalicão",
+        "city_ar": "فيلا نوفا"
+      },
+      "nickname": "Famalicenses",
+      "nickname_ar": "الفاماليكون",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 227,
+      "name": "Rio Ave",
+      "name_ar": "ريو آفي",
+      "code": "RIO",
+      "logo": "https://media.api-sports.io/football/teams/227.png",
+      "founded": 1939,
+      "stadium": {
+        "name": "Estádio do Rio Ave FC",
+        "name_ar": "ريو آفي",
+        "capacity": 12815,
+        "city": "Vila do Conde",
+        "city_ar": "فيلا دو كوندي"
+      },
+      "nickname": "Rioavistas",
+      "nickname_ar": "الريوافيستا",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 234,
+      "name": "Santa Clara",
+      "name_ar": "سانتا كلارا",
+      "code": "SCL",
+      "logo": "https://media.api-sports.io/football/teams/234.png",
+      "founded": 1921,
+      "stadium": {
+        "name": "Estádio de São Miguel",
+        "name_ar": "ساو ميغيل",
+        "capacity": 13277,
+        "city": "Ponta Delgada",
+        "city_ar": "بونتا ديلغادا"
+      },
+      "nickname": "Açorianos",
+      "nickname_ar": "الأزوريون",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 240,
+      "name": "Arouca",
+      "name_ar": "أروكا",
+      "code": "ARO",
+      "logo": "https://media.api-sports.io/football/teams/240.png",
+      "founded": 1951,
+      "stadium": {
+        "name": "Estádio Municipal de Arouca",
+        "name_ar": "أروكا البلدي",
+        "capacity": 5000,
+        "city": "Arouca",
+        "city_ar": "أروكا"
+      },
+      "nickname": "Arouquenses",
+      "nickname_ar": "الأروكيون",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 241,
+      "name": "Estoril",
+      "name_ar": "إستوريل",
+      "code": "EST",
+      "logo": "https://media.api-sports.io/football/teams/241.png",
+      "founded": 1939,
+      "stadium": {
+        "name": "Estádio António Coimbra da Mota",
+        "name_ar": "أنطونيو كويمبرا",
+        "capacity": 8015,
+        "city": "Estoril",
+        "city_ar": "إستوريل"
+      },
+      "nickname": "Canarinhos",
+      "nickname_ar": "الكناري",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 242,
+      "name": "Chaves",
+      "name_ar": "شافيش",
+      "code": "CHA",
+      "logo": "https://media.api-sports.io/football/teams/242.png",
+      "founded": 1949,
+      "stadium": {
+        "name": "Estádio Municipal de Chaves",
+        "name_ar": "شافيش البلدي",
+        "capacity": 8000,
+        "city": "Chaves",
+        "city_ar": "شافيش"
+      },
+      "nickname": "Flavienses",
+      "nickname_ar": "الفلافيون",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 243,
+      "name": "Portimonense",
+      "name_ar": "بورتيمونينسي",
+      "code": "POR",
+      "logo": "https://media.api-sports.io/football/teams/243.png",
+      "founded": 1914,
+      "stadium": {
+        "name": "Estádio Municipal de Portimão",
+        "name_ar": "بورتيماو",
+        "capacity": 9544,
+        "city": "Portimão",
+        "city_ar": "بورتيماو"
+      },
+      "nickname": "Portimao",
+      "nickname_ar": "بورتيماو",
+      "colors": {
+        "primary": "Black",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 244,
+      "name": "Vizela",
+      "name_ar": "فيزيلا",
+      "code": "VIZ",
+      "logo": "https://media.api-sports.io/football/teams/244.png",
+      "founded": 1939,
+      "stadium": {
+        "name": "Estádio do Vizela FC",
+        "name_ar": "فيزيلا",
+        "capacity": 6000,
+        "city": "Vizela",
+        "city_ar": "فيزيلا"
+      },
+      "nickname": "Vizelenses",
+      "nickname_ar": "الفيزيليون",
+      "colors": {
+        "primary": "White",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 245,
+      "name": "Casa Pia",
+      "name_ar": "كازا بيا",
+      "code": "CAS",
+      "logo": "https://media.api-sports.io/football/teams/245.png",
+      "founded": 1920,
+      "stadium": {
+        "name": "Estádio Pina Manique",
+        "name_ar": "بينا مانيك",
+        "capacity": 2500,
+        "city": "Lisbon",
+        "city_ar": "لشبونة"
+      },
+      "nickname": "Os Gansos",
+      "nickname_ar": "الإوز",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    }
+  ],
+  "total_teams": 18,
+  "last_updated": "2025-12-15T23:36:26Z"
+}

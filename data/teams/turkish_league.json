@@ -1,0 +1,535 @@
+{
+  "league": {
+    "id": 203,
+    "name": "Süper Lig",
+    "name_ar": "الدوري التركي الممتاز",
+    "country": "Turkey",
+    "country_ar": "تركيا",
+    "logo": "https://media.api-sports.io/football/leagues/203.png",
+    "season": "2024-2025"
+  },
+  "teams": [
+    {
+      "id": 645,
+      "name": "Galatasaray",
+      "name_ar": "غلطة سراي",
+      "code": "GAL",
+      "logo": "https://media.api-sports.io/football/teams/645.png",
+      "founded": 1905,
+      "stadium": {
+        "name": "Türk Telekom Stadium",
+        "name_ar": "تورك تيليكوم",
+        "capacity": 52280,
+        "city": "Istanbul",
+        "city_ar": "إسطنبول"
+      },
+      "nickname": "Cimbom",
+      "nickname_ar": "جيمبوم",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Red"
+      },
+      "trophies": {
+        "league_titles": 24,
+        "domestic_cups": 18,
+        "european_cups": 1
+      }
+    },
+    {
+      "id": 641,
+      "name": "Fenerbahce",
+      "name_ar": "فنربخشة",
+      "code": "FEN",
+      "logo": "https://media.api-sports.io/football/teams/641.png",
+      "founded": 1907,
+      "stadium": {
+        "name": "Şükrü Saracoğlu Stadium",
+        "name_ar": "شكرو ساراج أوغلو",
+        "capacity": 50509,
+        "city": "Istanbul",
+        "city_ar": "إسطنبول"
+      },
+      "nickname": "Sarı Kanaryalar",
+      "nickname_ar": "الكناري الأصفر",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Navy"
+      },
+      "trophies": {
+        "league_titles": 28,
+        "domestic_cups": 6,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 643,
+      "name": "Besiktas",
+      "name_ar": "بشيكتاش",
+      "code": "BES",
+      "logo": "https://media.api-sports.io/football/teams/643.png",
+      "founded": 1903,
+      "stadium": {
+        "name": "Vodafone Park",
+        "name_ar": "فودافون بارك",
+        "capacity": 41903,
+        "city": "Istanbul",
+        "city_ar": "إسطنبول"
+      },
+      "nickname": "Kara Kartallar",
+      "nickname_ar": "النسور السوداء",
+      "colors": {
+        "primary": "Black",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 16,
+        "domestic_cups": 10,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3570,
+      "name": "Trabzonspor",
+      "name_ar": "طرابزون سبور",
+      "code": "TRA",
+      "logo": "https://media.api-sports.io/football/teams/3570.png",
+      "founded": 1967,
+      "stadium": {
+        "name": "Şenol Güneş Stadium",
+        "name_ar": "شنول غونيش",
+        "capacity": 41513,
+        "city": "Trabzon",
+        "city_ar": "طرابزون"
+      },
+      "nickname": "Fırtına",
+      "nickname_ar": "العاصفة",
+      "colors": {
+        "primary": "Maroon",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 7,
+        "domestic_cups": 9,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 644,
+      "name": "Başakşehir",
+      "name_ar": "بشاك شهير",
+      "code": "BAS",
+      "logo": "https://media.api-sports.io/football/teams/644.png",
+      "founded": 1990,
+      "stadium": {
+        "name": "Başakşehir Fatih Terim Stadium",
+        "name_ar": "بشاك شهير فاتح تريم",
+        "capacity": 17319,
+        "city": "Istanbul",
+        "city_ar": "إسطنبول"
+      },
+      "nickname": "Başaklar",
+      "nickname_ar": "السنابل",
+      "colors": {
+        "primary": "Orange",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 1,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3563,
+      "name": "Kasımpaşa",
+      "name_ar": "قاسم باشا",
+      "code": "KAS",
+      "logo": "https://media.api-sports.io/football/teams/3563.png",
+      "founded": 1921,
+      "stadium": {
+        "name": "Recep Tayyip Erdoğan Stadium",
+        "name_ar": "رجب طيب أردوغان",
+        "capacity": 14234,
+        "city": "Istanbul",
+        "city_ar": "إسطنبول"
+      },
+      "nickname": "Kasımpaşa",
+      "nickname_ar": "قاسم باشا",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3567,
+      "name": "Konyaspor",
+      "name_ar": "قونيا سبور",
+      "code": "KON",
+      "logo": "https://media.api-sports.io/football/teams/3567.png",
+      "founded": 1922,
+      "stadium": {
+        "name": "Konya Büyükşehir Stadium",
+        "name_ar": "قونيا الكبرى",
+        "capacity": 42000,
+        "city": "Konya",
+        "city_ar": "قونيا"
+      },
+      "nickname": "Atiker",
+      "nickname_ar": "أتيكر",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 1,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3568,
+      "name": "Antalyaspor",
+      "name_ar": "أنطاليا سبور",
+      "code": "ANT",
+      "logo": "https://media.api-sports.io/football/teams/3568.png",
+      "founded": 1966,
+      "stadium": {
+        "name": "Antalya Stadium",
+        "name_ar": "ملعب أنطاليا",
+        "capacity": 33000,
+        "city": "Antalya",
+        "city_ar": "أنطاليا"
+      },
+      "nickname": "Akdeniz Fırtınası",
+      "nickname_ar": "عاصفة البحر المتوسط",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3571,
+      "name": "Alanyaspor",
+      "name_ar": "ألانيا سبور",
+      "code": "ALA",
+      "logo": "https://media.api-sports.io/football/teams/3571.png",
+      "founded": 1948,
+      "stadium": {
+        "name": "Bahçeşehir Okulları Stadium",
+        "name_ar": "ملعب باه تشة شهير",
+        "capacity": 10128,
+        "city": "Alanya",
+        "city_ar": "ألانيا"
+      },
+      "nickname": "Kızıllar",
+      "nickname_ar": "الحمر",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Orange"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3574,
+      "name": "Sivasspor",
+      "name_ar": "سيفاس سبور",
+      "code": "SIV",
+      "logo": "https://media.api-sports.io/football/teams/3574.png",
+      "founded": 1967,
+      "stadium": {
+        "name": "Yeni 4 Eylül Stadium",
+        "name_ar": "4 أيلول الجديد",
+        "capacity": 27532,
+        "city": "Sivas",
+        "city_ar": "سيفاس"
+      },
+      "nickname": "Yiğidolar",
+      "nickname_ar": "الشجعان",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 1,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3575,
+      "name": "Kayserispor",
+      "name_ar": "قيصري سبور",
+      "code": "KAY",
+      "logo": "https://media.api-sports.io/football/teams/3575.png",
+      "founded": 1966,
+      "stadium": {
+        "name": "Kadir Has Stadium",
+        "name_ar": "قادر خاص",
+        "capacity": 32864,
+        "city": "Kayseri",
+        "city_ar": "قيصري"
+      },
+      "nickname": "Anadolu Yıldızı",
+      "nickname_ar": "نجمة الأناضول",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3576,
+      "name": "Gaziantep FK",
+      "name_ar": "غازي عنتاب",
+      "code": "GAZ",
+      "logo": "https://media.api-sports.io/football/teams/3576.png",
+      "founded": 1988,
+      "stadium": {
+        "name": "Kalyon Stadium",
+        "name_ar": "كاليون",
+        "capacity": 35558,
+        "city": "Gaziantep",
+        "city_ar": "غازي عنتاب"
+      },
+      "nickname": "Şahinler",
+      "nickname_ar": "الصقور",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3579,
+      "name": "Rizespor",
+      "name_ar": "ريزه سبور",
+      "code": "RIZ",
+      "logo": "https://media.api-sports.io/football/teams/3579.png",
+      "founded": 1953,
+      "stadium": {
+        "name": "Çaykur Didi Stadium",
+        "name_ar": "تشايكور ديدي",
+        "capacity": 15332,
+        "city": "Rize",
+        "city_ar": "ريزه"
+      },
+      "nickname": "Yeşil-Maviler",
+      "nickname_ar": "الأخضر والأزرق",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3580,
+      "name": "Adana Demirspor",
+      "name_ar": "أضنة ديمير سبور",
+      "code": "ADA",
+      "logo": "https://media.api-sports.io/football/teams/3580.png",
+      "founded": 1940,
+      "stadium": {
+        "name": "Yeni Adana Stadium",
+        "name_ar": "أضنة الجديد",
+        "capacity": 33543,
+        "city": "Adana",
+        "city_ar": "أضنة"
+      },
+      "nickname": "Mavi Şimşekler",
+      "nickname_ar": "البرق الأزرق",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3581,
+      "name": "Fatih Karagümrük",
+      "name_ar": "فاتح كاراجومروك",
+      "code": "FAT",
+      "logo": "https://media.api-sports.io/football/teams/3581.png",
+      "founded": 1926,
+      "stadium": {
+        "name": "Atatürk Olimpiyat Stadium",
+        "name_ar": "أتاتورك الأولمبي",
+        "capacity": 76092,
+        "city": "Istanbul",
+        "city_ar": "إسطنبول"
+      },
+      "nickname": "Karagümrük",
+      "nickname_ar": "كاراجومروك",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3582,
+      "name": "Giresunspor",
+      "name_ar": "جيره سون سبور",
+      "code": "GIR",
+      "logo": "https://media.api-sports.io/football/teams/3582.png",
+      "founded": 1925,
+      "stadium": {
+        "name": "Giresun Atatürk Stadium",
+        "name_ar": "جيره سون أتاتورك",
+        "capacity": 20000,
+        "city": "Giresun",
+        "city_ar": "جيره سون"
+      },
+      "nickname": "Giresunspor",
+      "nickname_ar": "جيره سون",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Red"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3583,
+      "name": "Hatayspor",
+      "name_ar": "هاتاي سبور",
+      "code": "HAT",
+      "logo": "https://media.api-sports.io/football/teams/3583.png",
+      "founded": 1967,
+      "stadium": {
+        "name": "Hatay Stadium",
+        "name_ar": "هاتاي",
+        "capacity": 25000,
+        "city": "Hatay",
+        "city_ar": "هاتاي"
+      },
+      "nickname": "Hatayspor",
+      "nickname_ar": "هاتاي",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3584,
+      "name": "İstanbulspor",
+      "name_ar": "إسطنبول سبور",
+      "code": "IST",
+      "logo": "https://media.api-sports.io/football/teams/3584.png",
+      "founded": 1926,
+      "stadium": {
+        "name": "Necmi Kadıoğlu Stadium",
+        "name_ar": "نجمي كاديوغلو",
+        "capacity": 8000,
+        "city": "Istanbul",
+        "city_ar": "إسطنبول"
+      },
+      "nickname": "Sarı-Siyahlılar",
+      "nickname_ar": "الأصفر والأسود",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Black"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3585,
+      "name": "Ankaragücü",
+      "name_ar": "أنقرة غوجو",
+      "code": "ANK",
+      "logo": "https://media.api-sports.io/football/teams/3585.png",
+      "founded": 1911,
+      "stadium": {
+        "name": "Eryaman Stadium",
+        "name_ar": "إريامان",
+        "capacity": 21250,
+        "city": "Ankara",
+        "city_ar": "أنقرة"
+      },
+      "nickname": "Sarı-Lacivertliler",
+      "nickname_ar": "الأصفر والأزرق",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Navy"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 2,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 3586,
+      "name": "Pendikspor",
+      "name_ar": "بنديك سبور",
+      "code": "PEN",
+      "logo": "https://media.api-sports.io/football/teams/3586.png",
+      "founded": 1950,
+      "stadium": {
+        "name": "Pendik Stadium",
+        "name_ar": "بنديك",
+        "capacity": 5000,
+        "city": "Istanbul",
+        "city_ar": "إسطنبول"
+      },
+      "nickname": "Pendikspor",
+      "nickname_ar": "بنديك",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    }
+  ],
+  "total_teams": 20,
+  "last_updated": "2025-12-15T23:34:27Z"
+}

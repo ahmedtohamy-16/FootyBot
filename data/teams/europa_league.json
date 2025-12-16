@@ -1,0 +1,847 @@
+{
+  "league": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "name_ar": "الدوري الأوروبي",
+    "country": "Europe",
+    "country_ar": "أوروبا",
+    "logo": "https://media.api-sports.io/football/leagues/3.png",
+    "season": "2024-2025"
+  },
+  "teams": [
+    {
+      "id": 16000,
+      "name": "UEL Team 1",
+      "name_ar": "فريق الدوري الأوروبي 1",
+      "code": "UEL1",
+      "logo": "https://media.api-sports.io/football/teams/16000.png",
+      "founded": 1900,
+      "stadium": {
+        "name": "Stadium 1",
+        "name_ar": "ملعب 1",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 1",
+      "nickname_ar": "فريق 1",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16001,
+      "name": "UEL Team 2",
+      "name_ar": "فريق الدوري الأوروبي 2",
+      "code": "UEL2",
+      "logo": "https://media.api-sports.io/football/teams/16001.png",
+      "founded": 1901,
+      "stadium": {
+        "name": "Stadium 2",
+        "name_ar": "ملعب 2",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 2",
+      "nickname_ar": "فريق 2",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16002,
+      "name": "UEL Team 3",
+      "name_ar": "فريق الدوري الأوروبي 3",
+      "code": "UEL3",
+      "logo": "https://media.api-sports.io/football/teams/16002.png",
+      "founded": 1902,
+      "stadium": {
+        "name": "Stadium 3",
+        "name_ar": "ملعب 3",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 3",
+      "nickname_ar": "فريق 3",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16003,
+      "name": "UEL Team 4",
+      "name_ar": "فريق الدوري الأوروبي 4",
+      "code": "UEL4",
+      "logo": "https://media.api-sports.io/football/teams/16003.png",
+      "founded": 1903,
+      "stadium": {
+        "name": "Stadium 4",
+        "name_ar": "ملعب 4",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 4",
+      "nickname_ar": "فريق 4",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16004,
+      "name": "UEL Team 5",
+      "name_ar": "فريق الدوري الأوروبي 5",
+      "code": "UEL5",
+      "logo": "https://media.api-sports.io/football/teams/16004.png",
+      "founded": 1904,
+      "stadium": {
+        "name": "Stadium 5",
+        "name_ar": "ملعب 5",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 5",
+      "nickname_ar": "فريق 5",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16005,
+      "name": "UEL Team 6",
+      "name_ar": "فريق الدوري الأوروبي 6",
+      "code": "UEL6",
+      "logo": "https://media.api-sports.io/football/teams/16005.png",
+      "founded": 1905,
+      "stadium": {
+        "name": "Stadium 6",
+        "name_ar": "ملعب 6",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 6",
+      "nickname_ar": "فريق 6",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16006,
+      "name": "UEL Team 7",
+      "name_ar": "فريق الدوري الأوروبي 7",
+      "code": "UEL7",
+      "logo": "https://media.api-sports.io/football/teams/16006.png",
+      "founded": 1906,
+      "stadium": {
+        "name": "Stadium 7",
+        "name_ar": "ملعب 7",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 7",
+      "nickname_ar": "فريق 7",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16007,
+      "name": "UEL Team 8",
+      "name_ar": "فريق الدوري الأوروبي 8",
+      "code": "UEL8",
+      "logo": "https://media.api-sports.io/football/teams/16007.png",
+      "founded": 1907,
+      "stadium": {
+        "name": "Stadium 8",
+        "name_ar": "ملعب 8",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 8",
+      "nickname_ar": "فريق 8",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16008,
+      "name": "UEL Team 9",
+      "name_ar": "فريق الدوري الأوروبي 9",
+      "code": "UEL9",
+      "logo": "https://media.api-sports.io/football/teams/16008.png",
+      "founded": 1908,
+      "stadium": {
+        "name": "Stadium 9",
+        "name_ar": "ملعب 9",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 9",
+      "nickname_ar": "فريق 9",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16009,
+      "name": "UEL Team 10",
+      "name_ar": "فريق الدوري الأوروبي 10",
+      "code": "UEL10",
+      "logo": "https://media.api-sports.io/football/teams/16009.png",
+      "founded": 1909,
+      "stadium": {
+        "name": "Stadium 10",
+        "name_ar": "ملعب 10",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 10",
+      "nickname_ar": "فريق 10",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16010,
+      "name": "UEL Team 11",
+      "name_ar": "فريق الدوري الأوروبي 11",
+      "code": "UEL11",
+      "logo": "https://media.api-sports.io/football/teams/16010.png",
+      "founded": 1910,
+      "stadium": {
+        "name": "Stadium 11",
+        "name_ar": "ملعب 11",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 11",
+      "nickname_ar": "فريق 11",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16011,
+      "name": "UEL Team 12",
+      "name_ar": "فريق الدوري الأوروبي 12",
+      "code": "UEL12",
+      "logo": "https://media.api-sports.io/football/teams/16011.png",
+      "founded": 1911,
+      "stadium": {
+        "name": "Stadium 12",
+        "name_ar": "ملعب 12",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 12",
+      "nickname_ar": "فريق 12",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16012,
+      "name": "UEL Team 13",
+      "name_ar": "فريق الدوري الأوروبي 13",
+      "code": "UEL13",
+      "logo": "https://media.api-sports.io/football/teams/16012.png",
+      "founded": 1912,
+      "stadium": {
+        "name": "Stadium 13",
+        "name_ar": "ملعب 13",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 13",
+      "nickname_ar": "فريق 13",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16013,
+      "name": "UEL Team 14",
+      "name_ar": "فريق الدوري الأوروبي 14",
+      "code": "UEL14",
+      "logo": "https://media.api-sports.io/football/teams/16013.png",
+      "founded": 1913,
+      "stadium": {
+        "name": "Stadium 14",
+        "name_ar": "ملعب 14",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 14",
+      "nickname_ar": "فريق 14",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16014,
+      "name": "UEL Team 15",
+      "name_ar": "فريق الدوري الأوروبي 15",
+      "code": "UEL15",
+      "logo": "https://media.api-sports.io/football/teams/16014.png",
+      "founded": 1914,
+      "stadium": {
+        "name": "Stadium 15",
+        "name_ar": "ملعب 15",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 15",
+      "nickname_ar": "فريق 15",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16015,
+      "name": "UEL Team 16",
+      "name_ar": "فريق الدوري الأوروبي 16",
+      "code": "UEL16",
+      "logo": "https://media.api-sports.io/football/teams/16015.png",
+      "founded": 1915,
+      "stadium": {
+        "name": "Stadium 16",
+        "name_ar": "ملعب 16",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 16",
+      "nickname_ar": "فريق 16",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16016,
+      "name": "UEL Team 17",
+      "name_ar": "فريق الدوري الأوروبي 17",
+      "code": "UEL17",
+      "logo": "https://media.api-sports.io/football/teams/16016.png",
+      "founded": 1916,
+      "stadium": {
+        "name": "Stadium 17",
+        "name_ar": "ملعب 17",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 17",
+      "nickname_ar": "فريق 17",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16017,
+      "name": "UEL Team 18",
+      "name_ar": "فريق الدوري الأوروبي 18",
+      "code": "UEL18",
+      "logo": "https://media.api-sports.io/football/teams/16017.png",
+      "founded": 1917,
+      "stadium": {
+        "name": "Stadium 18",
+        "name_ar": "ملعب 18",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 18",
+      "nickname_ar": "فريق 18",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16018,
+      "name": "UEL Team 19",
+      "name_ar": "فريق الدوري الأوروبي 19",
+      "code": "UEL19",
+      "logo": "https://media.api-sports.io/football/teams/16018.png",
+      "founded": 1918,
+      "stadium": {
+        "name": "Stadium 19",
+        "name_ar": "ملعب 19",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 19",
+      "nickname_ar": "فريق 19",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16019,
+      "name": "UEL Team 20",
+      "name_ar": "فريق الدوري الأوروبي 20",
+      "code": "UEL20",
+      "logo": "https://media.api-sports.io/football/teams/16019.png",
+      "founded": 1919,
+      "stadium": {
+        "name": "Stadium 20",
+        "name_ar": "ملعب 20",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 20",
+      "nickname_ar": "فريق 20",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16020,
+      "name": "UEL Team 21",
+      "name_ar": "فريق الدوري الأوروبي 21",
+      "code": "UEL21",
+      "logo": "https://media.api-sports.io/football/teams/16020.png",
+      "founded": 1920,
+      "stadium": {
+        "name": "Stadium 21",
+        "name_ar": "ملعب 21",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 21",
+      "nickname_ar": "فريق 21",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16021,
+      "name": "UEL Team 22",
+      "name_ar": "فريق الدوري الأوروبي 22",
+      "code": "UEL22",
+      "logo": "https://media.api-sports.io/football/teams/16021.png",
+      "founded": 1921,
+      "stadium": {
+        "name": "Stadium 22",
+        "name_ar": "ملعب 22",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 22",
+      "nickname_ar": "فريق 22",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16022,
+      "name": "UEL Team 23",
+      "name_ar": "فريق الدوري الأوروبي 23",
+      "code": "UEL23",
+      "logo": "https://media.api-sports.io/football/teams/16022.png",
+      "founded": 1922,
+      "stadium": {
+        "name": "Stadium 23",
+        "name_ar": "ملعب 23",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 23",
+      "nickname_ar": "فريق 23",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16023,
+      "name": "UEL Team 24",
+      "name_ar": "فريق الدوري الأوروبي 24",
+      "code": "UEL24",
+      "logo": "https://media.api-sports.io/football/teams/16023.png",
+      "founded": 1923,
+      "stadium": {
+        "name": "Stadium 24",
+        "name_ar": "ملعب 24",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 24",
+      "nickname_ar": "فريق 24",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16024,
+      "name": "UEL Team 25",
+      "name_ar": "فريق الدوري الأوروبي 25",
+      "code": "UEL25",
+      "logo": "https://media.api-sports.io/football/teams/16024.png",
+      "founded": 1924,
+      "stadium": {
+        "name": "Stadium 25",
+        "name_ar": "ملعب 25",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 25",
+      "nickname_ar": "فريق 25",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16025,
+      "name": "UEL Team 26",
+      "name_ar": "فريق الدوري الأوروبي 26",
+      "code": "UEL26",
+      "logo": "https://media.api-sports.io/football/teams/16025.png",
+      "founded": 1925,
+      "stadium": {
+        "name": "Stadium 26",
+        "name_ar": "ملعب 26",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 26",
+      "nickname_ar": "فريق 26",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16026,
+      "name": "UEL Team 27",
+      "name_ar": "فريق الدوري الأوروبي 27",
+      "code": "UEL27",
+      "logo": "https://media.api-sports.io/football/teams/16026.png",
+      "founded": 1926,
+      "stadium": {
+        "name": "Stadium 27",
+        "name_ar": "ملعب 27",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 27",
+      "nickname_ar": "فريق 27",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16027,
+      "name": "UEL Team 28",
+      "name_ar": "فريق الدوري الأوروبي 28",
+      "code": "UEL28",
+      "logo": "https://media.api-sports.io/football/teams/16027.png",
+      "founded": 1927,
+      "stadium": {
+        "name": "Stadium 28",
+        "name_ar": "ملعب 28",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 28",
+      "nickname_ar": "فريق 28",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16028,
+      "name": "UEL Team 29",
+      "name_ar": "فريق الدوري الأوروبي 29",
+      "code": "UEL29",
+      "logo": "https://media.api-sports.io/football/teams/16028.png",
+      "founded": 1928,
+      "stadium": {
+        "name": "Stadium 29",
+        "name_ar": "ملعب 29",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 29",
+      "nickname_ar": "فريق 29",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16029,
+      "name": "UEL Team 30",
+      "name_ar": "فريق الدوري الأوروبي 30",
+      "code": "UEL30",
+      "logo": "https://media.api-sports.io/football/teams/16029.png",
+      "founded": 1929,
+      "stadium": {
+        "name": "Stadium 30",
+        "name_ar": "ملعب 30",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 30",
+      "nickname_ar": "فريق 30",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16030,
+      "name": "UEL Team 31",
+      "name_ar": "فريق الدوري الأوروبي 31",
+      "code": "UEL31",
+      "logo": "https://media.api-sports.io/football/teams/16030.png",
+      "founded": 1930,
+      "stadium": {
+        "name": "Stadium 31",
+        "name_ar": "ملعب 31",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 31",
+      "nickname_ar": "فريق 31",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 16031,
+      "name": "UEL Team 32",
+      "name_ar": "فريق الدوري الأوروبي 32",
+      "code": "UEL32",
+      "logo": "https://media.api-sports.io/football/teams/16031.png",
+      "founded": 1931,
+      "stadium": {
+        "name": "Stadium 32",
+        "name_ar": "ملعب 32",
+        "capacity": 30000,
+        "city": "Europe",
+        "city_ar": "أوروبا"
+      },
+      "nickname": "Team 32",
+      "nickname_ar": "فريق 32",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    }
+  ],
+  "total_teams": 32,
+  "last_updated": "2025-12-15T23:38:29Z"
+}

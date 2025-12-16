@@ -1,0 +1,431 @@
+{
+  "league": {
+    "id": 17,
+    "name": "Super League",
+    "name_ar": "الدوري الصيني الممتاز",
+    "country": "China",
+    "country_ar": "الصين",
+    "logo": "https://media.api-sports.io/football/leagues/17.png",
+    "season": "2024"
+  },
+  "teams": [
+    {
+      "id": 10000,
+      "name": "Chinese Team 1",
+      "name_ar": "فريق صيني 1",
+      "code": "CHN1",
+      "logo": "https://media.api-sports.io/football/teams/10000.png",
+      "founded": 1920,
+      "stadium": {
+        "name": "Stadium 1",
+        "name_ar": "ملعب 1",
+        "capacity": 30000,
+        "city": "China",
+        "city_ar": "الصين"
+      },
+      "nickname": "Team 1",
+      "nickname_ar": "فريق 1",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 10001,
+      "name": "Chinese Team 2",
+      "name_ar": "فريق صيني 2",
+      "code": "CHN2",
+      "logo": "https://media.api-sports.io/football/teams/10001.png",
+      "founded": 1921,
+      "stadium": {
+        "name": "Stadium 2",
+        "name_ar": "ملعب 2",
+        "capacity": 30000,
+        "city": "China",
+        "city_ar": "الصين"
+      },
+      "nickname": "Team 2",
+      "nickname_ar": "فريق 2",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 10002,
+      "name": "Chinese Team 3",
+      "name_ar": "فريق صيني 3",
+      "code": "CHN3",
+      "logo": "https://media.api-sports.io/football/teams/10002.png",
+      "founded": 1922,
+      "stadium": {
+        "name": "Stadium 3",
+        "name_ar": "ملعب 3",
+        "capacity": 30000,
+        "city": "China",
+        "city_ar": "الصين"
+      },
+      "nickname": "Team 3",
+      "nickname_ar": "فريق 3",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 10003,
+      "name": "Chinese Team 4",
+      "name_ar": "فريق صيني 4",
+      "code": "CHN4",
+      "logo": "https://media.api-sports.io/football/teams/10003.png",
+      "founded": 1923,
+      "stadium": {
+        "name": "Stadium 4",
+        "name_ar": "ملعب 4",
+        "capacity": 30000,
+        "city": "China",
+        "city_ar": "الصين"
+      },
+      "nickname": "Team 4",
+      "nickname_ar": "فريق 4",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 10004,
+      "name": "Chinese Team 5",
+      "name_ar": "فريق صيني 5",
+      "code": "CHN5",
+      "logo": "https://media.api-sports.io/football/teams/10004.png",
+      "founded": 1924,
+      "stadium": {
+        "name": "Stadium 5",
+        "name_ar": "ملعب 5",
+        "capacity": 30000,
+        "city": "China",
+        "city_ar": "الصين"
+      },
+      "nickname": "Team 5",
+      "nickname_ar": "فريق 5",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 10005,
+      "name": "Chinese Team 6",
+      "name_ar": "فريق صيني 6",
+      "code": "CHN6",
+      "logo": "https://media.api-sports.io/football/teams/10005.png",
+      "founded": 1925,
+      "stadium": {
+        "name": "Stadium 6",
+        "name_ar": "ملعب 6",
+        "capacity": 30000,
+        "city": "China",
+        "city_ar": "الصين"
+      },
+      "nickname": "Team 6",
+      "nickname_ar": "فريق 6",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 10006,
+      "name": "Chinese Team 7",
+      "name_ar": "فريق صيني 7",
+      "code": "CHN7",
+      "logo": "https://media.api-sports.io/football/teams/10006.png",
+      "founded": 1926,
+      "stadium": {
+        "name": "Stadium 7",
+        "name_ar": "ملعب 7",
+        "capacity": 30000,
+        "city": "China",
+        "city_ar": "الصين"
+      },
+      "nickname": "Team 7",
+      "nickname_ar": "فريق 7",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 10007,
+      "name": "Chinese Team 8",
+      "name_ar": "فريق صيني 8",
+      "code": "CHN8",
+      "logo": "https://media.api-sports.io/football/teams/10007.png",
+      "founded": 1927,
+      "stadium": {
+        "name": "Stadium 8",
+        "name_ar": "ملعب 8",
+        "capacity": 30000,
+        "city": "China",
+        "city_ar": "الصين"
+      },
+      "nickname": "Team 8",
+      "nickname_ar": "فريق 8",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 10008,
+      "name": "Chinese Team 9",
+      "name_ar": "فريق صيني 9",
+      "code": "CHN9",
+      "logo": "https://media.api-sports.io/football/teams/10008.png",
+      "founded": 1928,
+      "stadium": {
+        "name": "Stadium 9",
+        "name_ar": "ملعب 9",
+        "capacity": 30000,
+        "city": "China",
+        "city_ar": "الصين"
+      },
+      "nickname": "Team 9",
+      "nickname_ar": "فريق 9",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 10009,
+      "name": "Chinese Team 10",
+      "name_ar": "فريق صيني 10",
+      "code": "CHN10",
+      "logo": "https://media.api-sports.io/football/teams/10009.png",
+      "founded": 1929,
+      "stadium": {
+        "name": "Stadium 10",
+        "name_ar": "ملعب 10",
+        "capacity": 30000,
+        "city": "China",
+        "city_ar": "الصين"
+      },
+      "nickname": "Team 10",
+      "nickname_ar": "فريق 10",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 10010,
+      "name": "Chinese Team 11",
+      "name_ar": "فريق صيني 11",
+      "code": "CHN11",
+      "logo": "https://media.api-sports.io/football/teams/10010.png",
+      "founded": 1930,
+      "stadium": {
+        "name": "Stadium 11",
+        "name_ar": "ملعب 11",
+        "capacity": 30000,
+        "city": "China",
+        "city_ar": "الصين"
+      },
+      "nickname": "Team 11",
+      "nickname_ar": "فريق 11",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 10011,
+      "name": "Chinese Team 12",
+      "name_ar": "فريق صيني 12",
+      "code": "CHN12",
+      "logo": "https://media.api-sports.io/football/teams/10011.png",
+      "founded": 1931,
+      "stadium": {
+        "name": "Stadium 12",
+        "name_ar": "ملعب 12",
+        "capacity": 30000,
+        "city": "China",
+        "city_ar": "الصين"
+      },
+      "nickname": "Team 12",
+      "nickname_ar": "فريق 12",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 10012,
+      "name": "Chinese Team 13",
+      "name_ar": "فريق صيني 13",
+      "code": "CHN13",
+      "logo": "https://media.api-sports.io/football/teams/10012.png",
+      "founded": 1932,
+      "stadium": {
+        "name": "Stadium 13",
+        "name_ar": "ملعب 13",
+        "capacity": 30000,
+        "city": "China",
+        "city_ar": "الصين"
+      },
+      "nickname": "Team 13",
+      "nickname_ar": "فريق 13",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 10013,
+      "name": "Chinese Team 14",
+      "name_ar": "فريق صيني 14",
+      "code": "CHN14",
+      "logo": "https://media.api-sports.io/football/teams/10013.png",
+      "founded": 1933,
+      "stadium": {
+        "name": "Stadium 14",
+        "name_ar": "ملعب 14",
+        "capacity": 30000,
+        "city": "China",
+        "city_ar": "الصين"
+      },
+      "nickname": "Team 14",
+      "nickname_ar": "فريق 14",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 10014,
+      "name": "Chinese Team 15",
+      "name_ar": "فريق صيني 15",
+      "code": "CHN15",
+      "logo": "https://media.api-sports.io/football/teams/10014.png",
+      "founded": 1934,
+      "stadium": {
+        "name": "Stadium 15",
+        "name_ar": "ملعب 15",
+        "capacity": 30000,
+        "city": "China",
+        "city_ar": "الصين"
+      },
+      "nickname": "Team 15",
+      "nickname_ar": "فريق 15",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 10015,
+      "name": "Chinese Team 16",
+      "name_ar": "فريق صيني 16",
+      "code": "CHN16",
+      "logo": "https://media.api-sports.io/football/teams/10015.png",
+      "founded": 1935,
+      "stadium": {
+        "name": "Stadium 16",
+        "name_ar": "ملعب 16",
+        "capacity": 30000,
+        "city": "China",
+        "city_ar": "الصين"
+      },
+      "nickname": "Team 16",
+      "nickname_ar": "فريق 16",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    }
+  ],
+  "total_teams": 16,
+  "last_updated": "2025-12-15T23:37:25Z"
+}

@@ -1,0 +1,483 @@
+{
+  "league": {
+    "id": 262,
+    "name": "Liga MX",
+    "name_ar": "الدوري المكسيكي",
+    "country": "Mexico",
+    "country_ar": "المكسيك",
+    "logo": "https://media.api-sports.io/football/leagues/262.png",
+    "season": "2024-2025"
+  },
+  "teams": [
+    {
+      "id": 8000,
+      "name": "Mexican Team 1",
+      "name_ar": "فريق مكسيكي 1",
+      "code": "MEX1",
+      "logo": "https://media.api-sports.io/football/teams/8000.png",
+      "founded": 1920,
+      "stadium": {
+        "name": "Estadio 1",
+        "name_ar": "ملعب 1",
+        "capacity": 25000,
+        "city": "Mexico",
+        "city_ar": "المكسيك"
+      },
+      "nickname": "Team 1",
+      "nickname_ar": "فريق 1",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 8001,
+      "name": "Mexican Team 2",
+      "name_ar": "فريق مكسيكي 2",
+      "code": "MEX2",
+      "logo": "https://media.api-sports.io/football/teams/8001.png",
+      "founded": 1921,
+      "stadium": {
+        "name": "Estadio 2",
+        "name_ar": "ملعب 2",
+        "capacity": 25000,
+        "city": "Mexico",
+        "city_ar": "المكسيك"
+      },
+      "nickname": "Team 2",
+      "nickname_ar": "فريق 2",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 8002,
+      "name": "Mexican Team 3",
+      "name_ar": "فريق مكسيكي 3",
+      "code": "MEX3",
+      "logo": "https://media.api-sports.io/football/teams/8002.png",
+      "founded": 1922,
+      "stadium": {
+        "name": "Estadio 3",
+        "name_ar": "ملعب 3",
+        "capacity": 25000,
+        "city": "Mexico",
+        "city_ar": "المكسيك"
+      },
+      "nickname": "Team 3",
+      "nickname_ar": "فريق 3",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 8003,
+      "name": "Mexican Team 4",
+      "name_ar": "فريق مكسيكي 4",
+      "code": "MEX4",
+      "logo": "https://media.api-sports.io/football/teams/8003.png",
+      "founded": 1923,
+      "stadium": {
+        "name": "Estadio 4",
+        "name_ar": "ملعب 4",
+        "capacity": 25000,
+        "city": "Mexico",
+        "city_ar": "المكسيك"
+      },
+      "nickname": "Team 4",
+      "nickname_ar": "فريق 4",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 8004,
+      "name": "Mexican Team 5",
+      "name_ar": "فريق مكسيكي 5",
+      "code": "MEX5",
+      "logo": "https://media.api-sports.io/football/teams/8004.png",
+      "founded": 1924,
+      "stadium": {
+        "name": "Estadio 5",
+        "name_ar": "ملعب 5",
+        "capacity": 25000,
+        "city": "Mexico",
+        "city_ar": "المكسيك"
+      },
+      "nickname": "Team 5",
+      "nickname_ar": "فريق 5",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 8005,
+      "name": "Mexican Team 6",
+      "name_ar": "فريق مكسيكي 6",
+      "code": "MEX6",
+      "logo": "https://media.api-sports.io/football/teams/8005.png",
+      "founded": 1925,
+      "stadium": {
+        "name": "Estadio 6",
+        "name_ar": "ملعب 6",
+        "capacity": 25000,
+        "city": "Mexico",
+        "city_ar": "المكسيك"
+      },
+      "nickname": "Team 6",
+      "nickname_ar": "فريق 6",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 8006,
+      "name": "Mexican Team 7",
+      "name_ar": "فريق مكسيكي 7",
+      "code": "MEX7",
+      "logo": "https://media.api-sports.io/football/teams/8006.png",
+      "founded": 1926,
+      "stadium": {
+        "name": "Estadio 7",
+        "name_ar": "ملعب 7",
+        "capacity": 25000,
+        "city": "Mexico",
+        "city_ar": "المكسيك"
+      },
+      "nickname": "Team 7",
+      "nickname_ar": "فريق 7",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 8007,
+      "name": "Mexican Team 8",
+      "name_ar": "فريق مكسيكي 8",
+      "code": "MEX8",
+      "logo": "https://media.api-sports.io/football/teams/8007.png",
+      "founded": 1927,
+      "stadium": {
+        "name": "Estadio 8",
+        "name_ar": "ملعب 8",
+        "capacity": 25000,
+        "city": "Mexico",
+        "city_ar": "المكسيك"
+      },
+      "nickname": "Team 8",
+      "nickname_ar": "فريق 8",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 8008,
+      "name": "Mexican Team 9",
+      "name_ar": "فريق مكسيكي 9",
+      "code": "MEX9",
+      "logo": "https://media.api-sports.io/football/teams/8008.png",
+      "founded": 1928,
+      "stadium": {
+        "name": "Estadio 9",
+        "name_ar": "ملعب 9",
+        "capacity": 25000,
+        "city": "Mexico",
+        "city_ar": "المكسيك"
+      },
+      "nickname": "Team 9",
+      "nickname_ar": "فريق 9",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 8009,
+      "name": "Mexican Team 10",
+      "name_ar": "فريق مكسيكي 10",
+      "code": "MEX10",
+      "logo": "https://media.api-sports.io/football/teams/8009.png",
+      "founded": 1929,
+      "stadium": {
+        "name": "Estadio 10",
+        "name_ar": "ملعب 10",
+        "capacity": 25000,
+        "city": "Mexico",
+        "city_ar": "المكسيك"
+      },
+      "nickname": "Team 10",
+      "nickname_ar": "فريق 10",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 8010,
+      "name": "Mexican Team 11",
+      "name_ar": "فريق مكسيكي 11",
+      "code": "MEX11",
+      "logo": "https://media.api-sports.io/football/teams/8010.png",
+      "founded": 1930,
+      "stadium": {
+        "name": "Estadio 11",
+        "name_ar": "ملعب 11",
+        "capacity": 25000,
+        "city": "Mexico",
+        "city_ar": "المكسيك"
+      },
+      "nickname": "Team 11",
+      "nickname_ar": "فريق 11",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 8011,
+      "name": "Mexican Team 12",
+      "name_ar": "فريق مكسيكي 12",
+      "code": "MEX12",
+      "logo": "https://media.api-sports.io/football/teams/8011.png",
+      "founded": 1931,
+      "stadium": {
+        "name": "Estadio 12",
+        "name_ar": "ملعب 12",
+        "capacity": 25000,
+        "city": "Mexico",
+        "city_ar": "المكسيك"
+      },
+      "nickname": "Team 12",
+      "nickname_ar": "فريق 12",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 8012,
+      "name": "Mexican Team 13",
+      "name_ar": "فريق مكسيكي 13",
+      "code": "MEX13",
+      "logo": "https://media.api-sports.io/football/teams/8012.png",
+      "founded": 1932,
+      "stadium": {
+        "name": "Estadio 13",
+        "name_ar": "ملعب 13",
+        "capacity": 25000,
+        "city": "Mexico",
+        "city_ar": "المكسيك"
+      },
+      "nickname": "Team 13",
+      "nickname_ar": "فريق 13",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 8013,
+      "name": "Mexican Team 14",
+      "name_ar": "فريق مكسيكي 14",
+      "code": "MEX14",
+      "logo": "https://media.api-sports.io/football/teams/8013.png",
+      "founded": 1933,
+      "stadium": {
+        "name": "Estadio 14",
+        "name_ar": "ملعب 14",
+        "capacity": 25000,
+        "city": "Mexico",
+        "city_ar": "المكسيك"
+      },
+      "nickname": "Team 14",
+      "nickname_ar": "فريق 14",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 8014,
+      "name": "Mexican Team 15",
+      "name_ar": "فريق مكسيكي 15",
+      "code": "MEX15",
+      "logo": "https://media.api-sports.io/football/teams/8014.png",
+      "founded": 1934,
+      "stadium": {
+        "name": "Estadio 15",
+        "name_ar": "ملعب 15",
+        "capacity": 25000,
+        "city": "Mexico",
+        "city_ar": "المكسيك"
+      },
+      "nickname": "Team 15",
+      "nickname_ar": "فريق 15",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 8015,
+      "name": "Mexican Team 16",
+      "name_ar": "فريق مكسيكي 16",
+      "code": "MEX16",
+      "logo": "https://media.api-sports.io/football/teams/8015.png",
+      "founded": 1935,
+      "stadium": {
+        "name": "Estadio 16",
+        "name_ar": "ملعب 16",
+        "capacity": 25000,
+        "city": "Mexico",
+        "city_ar": "المكسيك"
+      },
+      "nickname": "Team 16",
+      "nickname_ar": "فريق 16",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 8016,
+      "name": "Mexican Team 17",
+      "name_ar": "فريق مكسيكي 17",
+      "code": "MEX17",
+      "logo": "https://media.api-sports.io/football/teams/8016.png",
+      "founded": 1936,
+      "stadium": {
+        "name": "Estadio 17",
+        "name_ar": "ملعب 17",
+        "capacity": 25000,
+        "city": "Mexico",
+        "city_ar": "المكسيك"
+      },
+      "nickname": "Team 17",
+      "nickname_ar": "فريق 17",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    },
+    {
+      "id": 8017,
+      "name": "Mexican Team 18",
+      "name_ar": "فريق مكسيكي 18",
+      "code": "MEX18",
+      "logo": "https://media.api-sports.io/football/teams/8017.png",
+      "founded": 1937,
+      "stadium": {
+        "name": "Estadio 18",
+        "name_ar": "ملعب 18",
+        "capacity": 25000,
+        "city": "Mexico",
+        "city_ar": "المكسيك"
+      },
+      "nickname": "Team 18",
+      "nickname_ar": "فريق 18",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "league_titles": 0,
+        "domestic_cups": 0,
+        "european_cups": 0
+      }
+    }
+  ],
+  "total_teams": 18,
+  "last_updated": "2025-12-15T23:37:25Z"
+}

@@ -1,0 +1,186 @@
+{
+  "total_competitions": 30,
+  "competitions": [
+    {
+      "id": 1,
+      "name": "World Cup",
+      "name_ar": "كأس العالم",
+      "type": "International"
+    },
+    {
+      "id": 2,
+      "name": "Champions League",
+      "name_ar": "دوري الأبطال",
+      "type": "Club"
+    },
+    {
+      "id": 500,
+      "name": "Competition 0",
+      "name_ar": "بطولة 0",
+      "type": "Mixed"
+    },
+    {
+      "id": 501,
+      "name": "Competition 1",
+      "name_ar": "بطولة 1",
+      "type": "Mixed"
+    },
+    {
+      "id": 502,
+      "name": "Competition 2",
+      "name_ar": "بطولة 2",
+      "type": "Mixed"
+    },
+    {
+      "id": 503,
+      "name": "Competition 3",
+      "name_ar": "بطولة 3",
+      "type": "Mixed"
+    },
+    {
+      "id": 504,
+      "name": "Competition 4",
+      "name_ar": "بطولة 4",
+      "type": "Mixed"
+    },
+    {
+      "id": 505,
+      "name": "Competition 5",
+      "name_ar": "بطولة 5",
+      "type": "Mixed"
+    },
+    {
+      "id": 506,
+      "name": "Competition 6",
+      "name_ar": "بطولة 6",
+      "type": "Mixed"
+    },
+    {
+      "id": 507,
+      "name": "Competition 7",
+      "name_ar": "بطولة 7",
+      "type": "Mixed"
+    },
+    {
+      "id": 508,
+      "name": "Competition 8",
+      "name_ar": "بطولة 8",
+      "type": "Mixed"
+    },
+    {
+      "id": 509,
+      "name": "Competition 9",
+      "name_ar": "بطولة 9",
+      "type": "Mixed"
+    },
+    {
+      "id": 510,
+      "name": "Competition 10",
+      "name_ar": "بطولة 10",
+      "type": "Mixed"
+    },
+    {
+      "id": 511,
+      "name": "Competition 11",
+      "name_ar": "بطولة 11",
+      "type": "Mixed"
+    },
+    {
+      "id": 512,
+      "name": "Competition 12",
+      "name_ar": "بطولة 12",
+      "type": "Mixed"
+    },
+    {
+      "id": 513,
+      "name": "Competition 13",
+      "name_ar": "بطولة 13",
+      "type": "Mixed"
+    },
+    {
+      "id": 514,
+      "name": "Competition 14",
+      "name_ar": "بطولة 14",
+      "type": "Mixed"
+    },
+    {
+      "id": 515,
+      "name": "Competition 15",
+      "name_ar": "بطولة 15",
+      "type": "Mixed"
+    },
+    {
+      "id": 516,
+      "name": "Competition 16",
+      "name_ar": "بطولة 16",
+      "type": "Mixed"
+    },
+    {
+      "id": 517,
+      "name": "Competition 17",
+      "name_ar": "بطولة 17",
+      "type": "Mixed"
+    },
+    {
+      "id": 518,
+      "name": "Competition 18",
+      "name_ar": "بطولة 18",
+      "type": "Mixed"
+    },
+    {
+      "id": 519,
+      "name": "Competition 19",
+      "name_ar": "بطولة 19",
+      "type": "Mixed"
+    },
+    {
+      "id": 520,
+      "name": "Competition 20",
+      "name_ar": "بطولة 20",
+      "type": "Mixed"
+    },
+    {
+      "id": 521,
+      "name": "Competition 21",
+      "name_ar": "بطولة 21",
+      "type": "Mixed"
+    },
+    {
+      "id": 522,
+      "name": "Competition 22",
+      "name_ar": "بطولة 22",
+      "type": "Mixed"
+    },
+    {
+      "id": 523,
+      "name": "Competition 23",
+      "name_ar": "بطولة 23",
+      "type": "Mixed"
+    },
+    {
+      "id": 524,
+      "name": "Competition 24",
+      "name_ar": "بطولة 24",
+      "type": "Mixed"
+    },
+    {
+      "id": 525,
+      "name": "Competition 25",
+      "name_ar": "بطولة 25",
+      "type": "Mixed"
+    },
+    {
+      "id": 526,
+      "name": "Competition 26",
+      "name_ar": "بطولة 26",
+      "type": "Mixed"
+    },
+    {
+      "id": 527,
+      "name": "Competition 27",
+      "name_ar": "بطولة 27",
+      "type": "Mixed"
+    }
+  ],
+  "last_updated": "2025-12-15T23:43:50Z"
+}

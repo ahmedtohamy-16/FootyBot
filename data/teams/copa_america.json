@@ -1,0 +1,271 @@
+{
+  "league": {
+    "id": 9,
+    "name": "Copa America",
+    "name_ar": "كوبا أمريكا",
+    "country": "South America",
+    "country_ar": "أمريكا الجنوبية",
+    "logo": "https://media.api-sports.io/football/leagues/9.png",
+    "season": "2024"
+  },
+  "teams": [
+    {
+      "id": 26,
+      "name": "Argentina",
+      "name_ar": "الأرجنتين",
+      "code": "ARG",
+      "logo": "https://media.api-sports.io/football/teams/26.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 3,
+        "continental_cups": 15,
+        "total_titles": 15
+      }
+    },
+    {
+      "id": 6,
+      "name": "Brazil",
+      "name_ar": "البرازيل",
+      "code": "BRA",
+      "logo": "https://media.api-sports.io/football/teams/6.png",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Green"
+      },
+      "trophies": {
+        "world_cups": 5,
+        "continental_cups": 9,
+        "total_titles": 9
+      }
+    },
+    {
+      "id": 24,
+      "name": "Uruguay",
+      "name_ar": "الأوروغواي",
+      "code": "URU",
+      "logo": "https://media.api-sports.io/football/teams/24.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 2,
+        "continental_cups": 15,
+        "total_titles": 15
+      }
+    },
+    {
+      "id": 2382,
+      "name": "Chile",
+      "name_ar": "تشيلي",
+      "code": "CHI",
+      "logo": "https://media.api-sports.io/football/teams/2382.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 2,
+        "total_titles": 2
+      }
+    },
+    {
+      "id": 22000,
+      "name": "Copa Team 5",
+      "name_ar": "منتخب كوبا 5",
+      "code": "CO5",
+      "logo": "https://media.api-sports.io/football/teams/22000.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 22001,
+      "name": "Copa Team 6",
+      "name_ar": "منتخب كوبا 6",
+      "code": "CO6",
+      "logo": "https://media.api-sports.io/football/teams/22001.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 22002,
+      "name": "Copa Team 7",
+      "name_ar": "منتخب كوبا 7",
+      "code": "CO7",
+      "logo": "https://media.api-sports.io/football/teams/22002.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 22003,
+      "name": "Copa Team 8",
+      "name_ar": "منتخب كوبا 8",
+      "code": "CO8",
+      "logo": "https://media.api-sports.io/football/teams/22003.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 22004,
+      "name": "Copa Team 9",
+      "name_ar": "منتخب كوبا 9",
+      "code": "CO9",
+      "logo": "https://media.api-sports.io/football/teams/22004.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 22005,
+      "name": "Copa Team 10",
+      "name_ar": "منتخب كوبا 10",
+      "code": "CO10",
+      "logo": "https://media.api-sports.io/football/teams/22005.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 22006,
+      "name": "Copa Team 11",
+      "name_ar": "منتخب كوبا 11",
+      "code": "CO11",
+      "logo": "https://media.api-sports.io/football/teams/22006.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 22007,
+      "name": "Copa Team 12",
+      "name_ar": "منتخب كوبا 12",
+      "code": "CO12",
+      "logo": "https://media.api-sports.io/football/teams/22007.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 22008,
+      "name": "Copa Team 13",
+      "name_ar": "منتخب كوبا 13",
+      "code": "CO13",
+      "logo": "https://media.api-sports.io/football/teams/22008.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 22009,
+      "name": "Copa Team 14",
+      "name_ar": "منتخب كوبا 14",
+      "code": "CO14",
+      "logo": "https://media.api-sports.io/football/teams/22009.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 22010,
+      "name": "Copa Team 15",
+      "name_ar": "منتخب كوبا 15",
+      "code": "CO15",
+      "logo": "https://media.api-sports.io/football/teams/22010.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 22011,
+      "name": "Copa Team 16",
+      "name_ar": "منتخب كوبا 16",
+      "code": "CO16",
+      "logo": "https://media.api-sports.io/football/teams/22011.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    }
+  ],
+  "total_teams": 16,
+  "last_updated": "2025-12-15T23:38:29Z"
+}

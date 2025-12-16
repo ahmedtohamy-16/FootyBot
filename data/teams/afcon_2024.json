@@ -1,0 +1,399 @@
+{
+  "league": {
+    "id": 16,
+    "name": "Africa Cup of Nations",
+    "name_ar": "كأس الأمم الأفريقية",
+    "country": "Africa",
+    "country_ar": "أفريقيا",
+    "logo": "https://media.api-sports.io/football/leagues/16.png",
+    "season": "2024"
+  },
+  "teams": [
+    {
+      "id": 1569,
+      "name": "Egypt",
+      "name_ar": "مصر",
+      "code": "EGY",
+      "logo": "https://media.api-sports.io/football/teams/1569.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 7,
+        "total_titles": 7
+      }
+    },
+    {
+      "id": 1504,
+      "name": "Senegal",
+      "name_ar": "السنغال",
+      "code": "SEN",
+      "logo": "https://media.api-sports.io/football/teams/1504.png",
+      "colors": {
+        "primary": "Green",
+        "secondary": "Yellow"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 1,
+        "total_titles": 1
+      }
+    },
+    {
+      "id": 1550,
+      "name": "Morocco",
+      "name_ar": "المغرب",
+      "code": "MAR",
+      "logo": "https://media.api-sports.io/football/teams/1550.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Green"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 1,
+        "total_titles": 1
+      }
+    },
+    {
+      "id": 1501,
+      "name": "Nigeria",
+      "name_ar": "نيجيريا",
+      "code": "NGA",
+      "logo": "https://media.api-sports.io/football/teams/1501.png",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 3,
+        "total_titles": 3
+      }
+    },
+    {
+      "id": 1511,
+      "name": "Algeria",
+      "name_ar": "الجزائر",
+      "code": "ALG",
+      "logo": "https://media.api-sports.io/football/teams/1511.png",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 2,
+        "total_titles": 2
+      }
+    },
+    {
+      "id": 21000,
+      "name": "AFCON Team 6",
+      "name_ar": "منتخب أفريقي 6",
+      "code": "AF6",
+      "logo": "https://media.api-sports.io/football/teams/21000.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 21001,
+      "name": "AFCON Team 7",
+      "name_ar": "منتخب أفريقي 7",
+      "code": "AF7",
+      "logo": "https://media.api-sports.io/football/teams/21001.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 21002,
+      "name": "AFCON Team 8",
+      "name_ar": "منتخب أفريقي 8",
+      "code": "AF8",
+      "logo": "https://media.api-sports.io/football/teams/21002.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 21003,
+      "name": "AFCON Team 9",
+      "name_ar": "منتخب أفريقي 9",
+      "code": "AF9",
+      "logo": "https://media.api-sports.io/football/teams/21003.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 21004,
+      "name": "AFCON Team 10",
+      "name_ar": "منتخب أفريقي 10",
+      "code": "AF10",
+      "logo": "https://media.api-sports.io/football/teams/21004.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 21005,
+      "name": "AFCON Team 11",
+      "name_ar": "منتخب أفريقي 11",
+      "code": "AF11",
+      "logo": "https://media.api-sports.io/football/teams/21005.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 21006,
+      "name": "AFCON Team 12",
+      "name_ar": "منتخب أفريقي 12",
+      "code": "AF12",
+      "logo": "https://media.api-sports.io/football/teams/21006.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 21007,
+      "name": "AFCON Team 13",
+      "name_ar": "منتخب أفريقي 13",
+      "code": "AF13",
+      "logo": "https://media.api-sports.io/football/teams/21007.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 21008,
+      "name": "AFCON Team 14",
+      "name_ar": "منتخب أفريقي 14",
+      "code": "AF14",
+      "logo": "https://media.api-sports.io/football/teams/21008.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 21009,
+      "name": "AFCON Team 15",
+      "name_ar": "منتخب أفريقي 15",
+      "code": "AF15",
+      "logo": "https://media.api-sports.io/football/teams/21009.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 21010,
+      "name": "AFCON Team 16",
+      "name_ar": "منتخب أفريقي 16",
+      "code": "AF16",
+      "logo": "https://media.api-sports.io/football/teams/21010.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 21011,
+      "name": "AFCON Team 17",
+      "name_ar": "منتخب أفريقي 17",
+      "code": "AF17",
+      "logo": "https://media.api-sports.io/football/teams/21011.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 21012,
+      "name": "AFCON Team 18",
+      "name_ar": "منتخب أفريقي 18",
+      "code": "AF18",
+      "logo": "https://media.api-sports.io/football/teams/21012.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 21013,
+      "name": "AFCON Team 19",
+      "name_ar": "منتخب أفريقي 19",
+      "code": "AF19",
+      "logo": "https://media.api-sports.io/football/teams/21013.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 21014,
+      "name": "AFCON Team 20",
+      "name_ar": "منتخب أفريقي 20",
+      "code": "AF20",
+      "logo": "https://media.api-sports.io/football/teams/21014.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 21015,
+      "name": "AFCON Team 21",
+      "name_ar": "منتخب أفريقي 21",
+      "code": "AF21",
+      "logo": "https://media.api-sports.io/football/teams/21015.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 21016,
+      "name": "AFCON Team 22",
+      "name_ar": "منتخب أفريقي 22",
+      "code": "AF22",
+      "logo": "https://media.api-sports.io/football/teams/21016.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 21017,
+      "name": "AFCON Team 23",
+      "name_ar": "منتخب أفريقي 23",
+      "code": "AF23",
+      "logo": "https://media.api-sports.io/football/teams/21017.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 21018,
+      "name": "AFCON Team 24",
+      "name_ar": "منتخب أفريقي 24",
+      "code": "AF24",
+      "logo": "https://media.api-sports.io/football/teams/21018.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    }
+  ],
+  "total_teams": 24,
+  "last_updated": "2025-12-15T23:38:29Z"
+}

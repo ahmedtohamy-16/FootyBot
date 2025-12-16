@@ -1,0 +1,399 @@
+{
+  "league": {
+    "id": 16,
+    "name": "Asian Cup",
+    "name_ar": "كأس آسيا",
+    "country": "Asia",
+    "country_ar": "آسيا",
+    "logo": "https://media.api-sports.io/football/leagues/16.png",
+    "season": "2023"
+  },
+  "teams": [
+    {
+      "id": 23,
+      "name": "Japan",
+      "name_ar": "اليابان",
+      "code": "JPN",
+      "logo": "https://media.api-sports.io/football/teams/23.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 4,
+        "total_titles": 4
+      }
+    },
+    {
+      "id": 17,
+      "name": "South Korea",
+      "name_ar": "كوريا الجنوبية",
+      "code": "KOR",
+      "logo": "https://media.api-sports.io/football/teams/17.png",
+      "colors": {
+        "primary": "Red",
+        "secondary": "Blue"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 2,
+        "total_titles": 2
+      }
+    },
+    {
+      "id": 22,
+      "name": "Australia",
+      "name_ar": "أستراليا",
+      "code": "AUS",
+      "logo": "https://media.api-sports.io/football/teams/22.png",
+      "colors": {
+        "primary": "Yellow",
+        "secondary": "Green"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 1,
+        "total_titles": 1
+      }
+    },
+    {
+      "id": 1569,
+      "name": "Saudi Arabia",
+      "name_ar": "السعودية",
+      "code": "KSA",
+      "logo": "https://media.api-sports.io/football/teams/1569.png",
+      "colors": {
+        "primary": "Green",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 3,
+        "total_titles": 3
+      }
+    },
+    {
+      "id": 23000,
+      "name": "Asian Team 5",
+      "name_ar": "منتخب آسيوي 5",
+      "code": "AS5",
+      "logo": "https://media.api-sports.io/football/teams/23000.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23001,
+      "name": "Asian Team 6",
+      "name_ar": "منتخب آسيوي 6",
+      "code": "AS6",
+      "logo": "https://media.api-sports.io/football/teams/23001.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23002,
+      "name": "Asian Team 7",
+      "name_ar": "منتخب آسيوي 7",
+      "code": "AS7",
+      "logo": "https://media.api-sports.io/football/teams/23002.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23003,
+      "name": "Asian Team 8",
+      "name_ar": "منتخب آسيوي 8",
+      "code": "AS8",
+      "logo": "https://media.api-sports.io/football/teams/23003.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23004,
+      "name": "Asian Team 9",
+      "name_ar": "منتخب آسيوي 9",
+      "code": "AS9",
+      "logo": "https://media.api-sports.io/football/teams/23004.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23005,
+      "name": "Asian Team 10",
+      "name_ar": "منتخب آسيوي 10",
+      "code": "AS10",
+      "logo": "https://media.api-sports.io/football/teams/23005.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23006,
+      "name": "Asian Team 11",
+      "name_ar": "منتخب آسيوي 11",
+      "code": "AS11",
+      "logo": "https://media.api-sports.io/football/teams/23006.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23007,
+      "name": "Asian Team 12",
+      "name_ar": "منتخب آسيوي 12",
+      "code": "AS12",
+      "logo": "https://media.api-sports.io/football/teams/23007.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23008,
+      "name": "Asian Team 13",
+      "name_ar": "منتخب آسيوي 13",
+      "code": "AS13",
+      "logo": "https://media.api-sports.io/football/teams/23008.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23009,
+      "name": "Asian Team 14",
+      "name_ar": "منتخب آسيوي 14",
+      "code": "AS14",
+      "logo": "https://media.api-sports.io/football/teams/23009.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23010,
+      "name": "Asian Team 15",
+      "name_ar": "منتخب آسيوي 15",
+      "code": "AS15",
+      "logo": "https://media.api-sports.io/football/teams/23010.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23011,
+      "name": "Asian Team 16",
+      "name_ar": "منتخب آسيوي 16",
+      "code": "AS16",
+      "logo": "https://media.api-sports.io/football/teams/23011.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23012,
+      "name": "Asian Team 17",
+      "name_ar": "منتخب آسيوي 17",
+      "code": "AS17",
+      "logo": "https://media.api-sports.io/football/teams/23012.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23013,
+      "name": "Asian Team 18",
+      "name_ar": "منتخب آسيوي 18",
+      "code": "AS18",
+      "logo": "https://media.api-sports.io/football/teams/23013.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23014,
+      "name": "Asian Team 19",
+      "name_ar": "منتخب آسيوي 19",
+      "code": "AS19",
+      "logo": "https://media.api-sports.io/football/teams/23014.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23015,
+      "name": "Asian Team 20",
+      "name_ar": "منتخب آسيوي 20",
+      "code": "AS20",
+      "logo": "https://media.api-sports.io/football/teams/23015.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23016,
+      "name": "Asian Team 21",
+      "name_ar": "منتخب آسيوي 21",
+      "code": "AS21",
+      "logo": "https://media.api-sports.io/football/teams/23016.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23017,
+      "name": "Asian Team 22",
+      "name_ar": "منتخب آسيوي 22",
+      "code": "AS22",
+      "logo": "https://media.api-sports.io/football/teams/23017.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23018,
+      "name": "Asian Team 23",
+      "name_ar": "منتخب آسيوي 23",
+      "code": "AS23",
+      "logo": "https://media.api-sports.io/football/teams/23018.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    },
+    {
+      "id": 23019,
+      "name": "Asian Team 24",
+      "name_ar": "منتخب آسيوي 24",
+      "code": "AS24",
+      "logo": "https://media.api-sports.io/football/teams/23019.png",
+      "colors": {
+        "primary": "Blue",
+        "secondary": "White"
+      },
+      "trophies": {
+        "world_cups": 0,
+        "continental_cups": 0,
+        "total_titles": 0
+      }
+    }
+  ],
+  "total_teams": 24,
+  "last_updated": "2025-12-15T23:38:29Z"
+}
